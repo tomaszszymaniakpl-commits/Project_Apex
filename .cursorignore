@@ -1,0 +1,14 @@
+# Ignore source fanfictions (heavy files, analyzed already)
+Take_A_Stand.txt
+Out_of_the_Woods.txt
+
+# Ignore chat logs  
+chat_gemini*
+
+# Ignore large analysis files unless specifically needed
+world_bible/style/analiza_stylu_TaS_OotW.md
+world_bible/style/ANALIZA_STYLU_KOMPLETNA.md
+   # Ignore folder - wszystko co tu wrzucisz będzie ignorowane
+   ignore/
+# Virtual environment
+venv/

@@ -1,0 +1,30 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.cursor/
+.vscode/
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Ollama model files (large)
+*.gguf
+
+# Ignore folder
+ignore/
+
+# Source texts (large, not for repo)
+Take_A_Stand.txt
+Out_of_the_Woods.txt
+
+# Chat logs
+chat_gemini*
+gemini

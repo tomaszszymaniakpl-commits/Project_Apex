@@ -1,0 +1,50 @@
+# Model routing configuration
+# Maps task types to appropriate Ollama models
+
+models:
+  # Heavy tasks - creative, analytical, large context
+  heavy:
+    name: "writer-32k"
+    description: "mistral-nemo with 32k context - brainstorming, analysis, consistency"
+    
+  # Light tasks - mechanical, structural
+  light:
+    name: "phi3.5"
+    description: "phi3.5 3.8B - language standardization, formatting, tagging"
+
+# Task -> model mapping
+tasks:
+  brainstorm:
+    model: "heavy"
+    temperature: 0.8
+    description: "Creative brainstorming with world bible context"
+    
+  story_sketch:
+    model: "heavy"
+    temperature: 0.7
+    description: "Story concept validation and plot hole detection"
+    
+  consistency_check:
+    model: "heavy"
+    temperature: 0.3
+    description: "Check world bible consistency, find contradictions"
+    
+  standardize_language:
+    model: "light"
+    temperature: 0.2
+    description: "Fix mixed PL/EN in documents, standardize to English"
+    
+  summarize:
+    model: "heavy"
+    temperature: 0.4
+    description: "Summarize or extract from world bible files"
+
+# Paths
+paths:
+  world_bible: "world_bible"
+  prompts: "prompts"
+  output: "output"
+
+# Ollama connection
+ollama:
+  base_url: "http://localhost:11434"

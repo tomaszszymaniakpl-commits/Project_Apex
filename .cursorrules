@@ -1,0 +1,66 @@
+# Cursor Rules - Zootopia Fanfiction Project
+
+## PROJECT OVERVIEW
+Zootopia neo-noir thriller/romance fanfiction.
+Two workstreams: creative writing (world bible, plot) + local AI tools (Python/Ollama).
+
+## LANGUAGE POLICY
+- **All documents (world_bible/, plot/):** English ONLY
+- **Communication with user:** Polish ONLY
+- **Code comments:** English
+- Never mix languages in one sentence
+
+## COMMUNICATION
+- Respond concisely (max 50-100 lines)
+- Bullet points over paragraphs
+- Don't repeat info user already knows
+- Don't create files without explicit request
+- No emoji unless asked
+
+## LOCAL TOOLS SYSTEM
+Project has local Ollama-based tools in `tools/`:
+- `brainstorm.py` - interactive brainstorming with world bible context
+- `standardize_language.py` - fix mixed PL/EN in documents
+- `context_loader.py` - loads world bible files for LLM context
+- Config: `tools/config.yaml`, Prompts: `prompts/`
+- Models: `writer-32k` (mistral-nemo 32k ctx), `phi3.5` (light tasks)
+
+When user asks to offload work to local models, suggest appropriate tool.
+Mark as OFFLOAD OPPORTUNITY when:
+- Batch processing many files (e.g., language standardization)
+- Brainstorming / idea generation
+- Consistency checking across files
+
+## KEY STORY FACTS (do not contradict)
+- Nick + Judy: close friends, unresolved romantic tension (NOT a couple at start)
+- Skye Winters = Nick's ADOPTED SISTER (not romantic interest)
+- Judy does NOT know about sibling relationship - thinks Skye is romantic rival
+- Nick's father: murdered by criminal organization
+- ZIA recruited Nick & Skye using father's murder as leverage
+- Marian Wilde: Nick's mother, alive, keeps secrets about murder
+- Jack Savage: Skye's ZIA handler, hidden romantic feelings for her
+- Mole inside ZIA: high-ranking criminal asset
+- 3-act structure: status quo -> fake death -> Strike Force vs Nick -> truth + reunion
+
+## CURRENT STATUS
+- World Bible: Phases I-II mostly complete (see world_bible/_STATUS_TRACKER.md)
+- Next: Story concept sketch -> validate plot -> information asymmetry design
+- Then: A.7 Criminal Organization, A.8 Beat Sheet expansion
+- Local tools: Operational (Ollama + Python scripts)
+
+## WORKFLOW PRIORITIES
+1. Story concept validation (does the overall idea work?)
+2. Information asymmetry design (reader knowledge management)
+3. World bible completion (fill gaps as plot demands)
+4. Detailed scene planning
+5. Actual writing (use advanced models for this phase)
+
+## TASK PLANNING
+- Simple (1-3 steps): do immediately
+- Complex (4+ steps): present plan, wait for approval
+- Suggest local tools when appropriate for cost savings
+
+## REGULAR REMINDERS
+- Update _STATUS_TRACKER.md after significant changes
+- Check world bible consistency after plot changes
+- Git commit after meaningful milestones

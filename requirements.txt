@@ -1,0 +1,4 @@
+ollama
+python-frontmatter
+pyyaml
+rich
