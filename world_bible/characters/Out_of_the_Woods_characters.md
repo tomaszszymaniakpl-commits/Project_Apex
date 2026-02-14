@@ -1,24 +1,24 @@
-# BIBLIOTEKA BOHATERÓW - OUT OF THE WOODS
+# CHARACTER LIBRARY - OUT OF THE WOODS
 
-Opowiadanie: **Out of the Woods** by AlanSchezar  
-Słowa: 134,520 | Rozdziały: 24/24  
-Gatunek: Mystery/Drama/Romance/Crime  
+Story: **Out of the Woods** by AlanSchezar  
+Words: 134,520 | Chapters: 24/24  
+Genre: Mystery/Drama/Romance/Crime  
 
 ---
 
-## POSTACI GŁÓWNE
+## MAIN CHARACTERS
 
 ### **Judy Hopps**
-**Gatunek:** Królik (rabbit)  
-**Rola:** Główna bohaterka, oficer ZPD  
+**Species:** Rabbit  
+**Role:** Main protagonist, ZPD officer  
 
-**WPROWADZENIE:**
+**INTRODUCTION:**
 Professional setting, subtle romantic tension
 > "Boy, it's sure been quiet the past couple weeks, huh? Feels like these night shifts are taking forever..." she began, hoping he didn't hear the squeak in her voice.
 
 **VISUAL DESCRIPTION:**
 - Standard rabbit anatomy: ears, paws, nose twitching
-- ZPD uniform lub casual
+- ZPD uniform or casual
 - Blushes visible "in her cheeks and the inside of her ears"
 - "Amethyst eyes"
 
@@ -34,12 +34,12 @@ Professional setting, subtle romantic tension
 - **Protective instinct:** Calls for backup, safety-conscious
 - **Romantic vulnerability:** Blushes, dropped ears to hide embarrassment
 
-**FUNCTION W FABULE:**
-- POV character dla romantic development
-- Professional partner w crime fighting
+**FUNCTION IN STORY:**
+- POV character for romantic development
+- Professional partner in crime fighting
 - Emotional anchor during Nick's trauma
 
-**RELACJE:**
+**RELATIONSHIPS:**
 - **Nick:** Romantic tension, professional partnership, "field coach"
 - **Chief Bogo:** Professional respect
 - **Victoria:** Maternal support figure
@@ -48,10 +48,10 @@ Professional setting, subtle romantic tension
 ---
 
 ### **Nicholas Wilde**
-**Gatunek:** Lis rudy (red fox)  
-**Rola:** Główny bohater, oficer ZPD (probie)  
+**Species:** Red fox  
+**Role:** Main protagonist, ZPD officer (probationary)  
 
-**WPROWADZENIE:**
+**INTRODUCTION:**
 Comfortable partnership, animal instincts
 > "Nick reached for his empty coffee cup for the second time in the past two hours, and once again curled his lip in annoyance at finding it was still dry."
 
@@ -70,28 +70,28 @@ Comfortable partnership, animal instincts
 **PERSONALITY MARKERS:**
 - **Superstitious:** Fox "Old Ways" traditions
 - **Protective:** Takes bullet for Judy
-- **Vulnerable:** Drops guard w romantic moments
+- **Vulnerable:** Drops guard in romantic moments
 - **Professional growth:** From con artist to dedicated cop
 
 **BACKSTORY:**
-- 10 months na ZPD after Night Howler case
+- 10 months on ZPD after Night Howler case
 - Probationary officer status
-- Dark past z Blood Fang Posse
-- Relationship z Hargrieve traumatic
+- Dark past with Blood Fang Posse
+- Relationship with Hargrieve traumatic
 
-**RELACJE:**
+**RELATIONSHIPS:**
 - **Judy:** Romantic partner, professional trust
 - **Victoria:** Supportive mother relationship
 - **Finnick:** Childhood friend (later betrayal)
-- **Hargrieve:** Traumatic enemy z przeszłości
+- **Hargrieve:** Traumatic enemy from the past
 
 ---
 
-## DRUGOPLANOWE - ZPD CRIME UNIT
+## SUPPORTING - ZPD CRIME UNIT
 
 ### **Detective Eli Wolfram**
-**Gatunek:** Wilk grzywiasty (maned wolf)  
-**Rola:** Senior detective, Zooicide unit  
+**Species:** Maned wolf  
+**Role:** Senior detective, Zooicide unit  
 
 **INTRODUCTION:**
 Authority through intimidation, professional barrier
@@ -115,12 +115,12 @@ Authority through intimidation, professional barrier
 - **Loyal:** To partner Mundi, protective of Nick
 - **Mentoring:** Eventually guides Judy
 
-**FUNCTION W FABULE:**
-- Lead detective na Nick's shooting
-- Mentor figure dla Judy
+**FUNCTION IN STORY:**
+- Lead detective on Nick's shooting
+- Mentor figure for Judy
 - Professional expertise driving investigation
 
-**RELACJE:**
+**RELATIONSHIPS:**
 - **Mundi:** Professional partnership, mutual respect
 - **Judy:** Initial conflict → respect → mentorship
 - **Nick:** Professional respect, protection
@@ -129,8 +129,8 @@ Authority through intimidation, professional barrier
 ---
 
 ### **Lieutenant Mundi**
-**Gatunek:** Ostronosek (coati)  
-**Rola:** Detective, Wolfram's partner  
+**Species:** Coati  
+**Role:** Detective, Wolfram's partner  
 
 **INTRODUCTION:**
 Calm counterpoint to Wolfram's intensity
@@ -152,51 +152,51 @@ Calm counterpoint to Wolfram's intensity
 - **Experienced:** Old-school detective
 - **Supportive:** Backs partner's decisions
 
-**RELACJE:**
+**RELATIONSHIPS:**
 - **Wolfram:** Long-term professional partnership
 - **Judy:** Gradual respect and support
 
 ---
 
 ### **Chief Mason Bogo**
-**Gatunek:** Bawół (cape buffalo)  
-**Rola:** ZPD Chief, authority figure  
+**Species:** Cape buffalo  
+**Role:** ZPD Chief, authority figure  
 
 **CHARACTER VOICE:**
 - **Authoritative:** Clear orders, no nonsense
 - **Professional:** Maintains protocols
-- **Caring:** Shows concern dla officers
+- **Caring:** Shows concern for officers
 
 **PERSONALITY MARKERS:**
 - **Professional:** Runs tight ship
 - **Protective:** Of his officers
 - **Respectful:** Values good police work
 
-**RELACJE:**
+**RELATIONSHIPS:**
 - **Nick/Judy:** Professional respect
 - **Wolfram/Mundi:** Trusts their expertise
 
 ---
 
 ### **Benjamin Clawhauser**
-**Gatunek:** Gepard (cheetah)  
-**Rola:** Front desk officer  
+**Species:** Cheetah  
+**Role:** Front desk officer  
 
 **CHARACTER VOICE:**
 - **Nervous energy:** Conflicts with Finnick
 - **Friendly:** Generally positive attitude
 
-**RELACJE:**
+**RELATIONSHIPS:**
 - **Finnick:** Conflict, different perspectives
 - **Nick/Judy:** Workplace friendship
 
 ---
 
-## FAMILY I SUPPORT NETWORK
+## FAMILY AND SUPPORT NETWORK
 
 ### **Victoria Wilde**
-**Gatunek:** Lisica (vixen)  
-**Rola:** Matka Nicka, emotional support  
+**Species:** Vixen  
+**Role:** Nick's mother, emotional support  
 
 **INTRODUCTION:**
 Maternal comfort, elegant presence
@@ -214,12 +214,12 @@ Maternal comfort, elegant presence
 - **Wise:** Offers comfort without judgment
 
 **PERSONALITY MARKERS:**
-- **Devoted mother:** Unconditional support dla Nicka
+- **Devoted mother:** Unconditional support for Nick
 - **Elegant:** Refined manner, sophisticated
 - **Resilient:** Handles crisis with dignity
 - **Welcoming:** Immediate acceptance of Judy
 
-**RELACJE:**
+**RELATIONSHIPS:**
 - **Nick:** Devoted mother, complex past (father's death)
 - **Judy:** Immediate acceptance, surrogate daughter figure
 - **Alexander (deceased):** Beloved husband, lawyer who died of cancer
@@ -227,8 +227,8 @@ Maternal comfort, elegant presence
 ---
 
 ### **Finnick**
-**Gatunek:** Fenek (fennec fox)  
-**Rola:** Friend turned betrayer  
+**Species:** Fennec fox  
+**Role:** Friend turned betrayer  
 
 **INTRODUCTION:**
 Concern for Nick, business owner
@@ -254,27 +254,27 @@ Concern for Nick, business owner
 **CHARACTER ARC:**
 Friend → Growing concern → Betrayal → Working for Hargrieve
 
-**RELACJE:**
+**RELATIONSHIPS:**
 - **Nick:** Childhood friend, later betrays him
 - **Judy:** Initial friendship, later opposition
 - **Hargrieve:** Employee/pawn
 
 ---
 
-## ANTAGONIŚCI
+## ANTAGONISTS
 
 ### **Jack Hargrieve ("Laughing Jack")**
-**Gatunek:** Hiena (hyena)  
-**Rola:** Główny antagonista, psychopath  
+**Species:** Hyena  
+**Role:** Main antagonist, psychopath  
 
 **INTRODUCTION:**
 Voice from shadows, psychological terror
 > "Say goodbye to your partner, Nicky..." an eerily familiar voice wafted from the shadows.
 
 **VISUAL DESCRIPTION:**
-- Scar od jaw do cheek
+- Scar from jaw to cheek
 - Blood-red eyes
-- Charakterystyczny uśmiech
+- Distinctive smile
 - "Hollow giggling" laugh
 
 **CHARACTER VOICE:**
@@ -292,9 +292,9 @@ Voice from shadows, psychological terror
 **BACKSTORY:**
 - Leader Blood Fang Posse (Nick's gang past)
 - Imprisoned, escaped
-- Obsessed z Nick's "betrayal" of criminal life
+- Obsessed with Nick's "betrayal" of criminal life
 
-**RELACJE:**
+**RELATIONSHIPS:**
 - **Nick:** Primary target, represents Nick's past
 - **Seth Grimm:** Lieutenant, loyal follower
 - **Finnick:** Recruits him against Nick
@@ -302,8 +302,8 @@ Voice from shadows, psychological terror
 ---
 
 ### **Seth Grimm ("Slice")**
-**Gatunek:** Szakal (jackal)  
-**Rola:** Hargrieve's right hand  
+**Species:** Jackal  
+**Role:** Hargrieve's right hand  
 
 **CHARACTER VOICE:**
 - **Aggressive:** "Big mistake, Red"
@@ -314,15 +314,15 @@ Voice from shadows, psychological terror
 - **Loyal:** To Hargrieve absolutely
 - **Professional criminal:** Organized crime background
 
-**LOS:** Killed by Finnick defending Nick
+**FATE:** Killed by Finnick defending Nick
 
 ---
 
-## POSTACI EPIZODYCZNE
+## MINOR CHARACTERS
 
 ### **Jonah Hawthorne**
-**Gatunek:** Kojot (coyote)  
-**Rola:** Hargrieve's soldier, victim  
+**Species:** Coyote  
+**Role:** Hargrieve's soldier, victim  
 
 **PERSONALITY MARKERS:**
 - **Terrified:** Of Hargrieve's retaliation
@@ -332,8 +332,8 @@ Voice from shadows, psychological terror
 ---
 
 ### **Dr. Klawsen**
-**Gatunek:** Ocelot  
-**Rola:** Nick's surgeon  
+**Species:** Ocelot  
+**Role:** Nick's surgeon  
 
 **CHARACTER VOICE:**
 - **Medical professional:** Clinical, precise
@@ -342,8 +342,8 @@ Voice from shadows, psychological terror
 ---
 
 ### **Nurse Elsa Sardonix**
-**Gatunek:** Oryks (oryx)  
-**Rola:** ICU nurse  
+**Species:** Oryx  
+**Role:** ICU nurse  
 
 **CHARACTER VOICE:**
 - **Gentle:** "Hello? Sorry to disturb you"
@@ -356,13 +356,13 @@ Voice from shadows, psychological terror
 - **Bonnie Hopps:** Caring mother, initially worried about Nick
 
 ### **Family Background (Gray)**
-- **Gideon Gray:** Friend z Bunnyburrow, baker, later hostage
+- **Gideon Gray:** Friend from Bunnyburrow, baker, later hostage
 - **Jenny Gray:** Gideon's wife
 - **Ashley Gray:** Their daughter
 
 ---
 
-## CHARACTER DESIGN PATTERNS Z OUT OF THE WOODS
+## CHARACTER DESIGN PATTERNS FROM OUT OF THE WOODS
 
 ### **TRAUMA RESPONSE PATTERNS:**
 - **Nick:** Flashbacks, nightmares, emotional withdrawal
@@ -374,7 +374,7 @@ Voice from shadows, psychological terror
 - **Victoria → Judy:** Emotional support, family wisdom
 
 ### **RELATIONSHIP DEVELOPMENT:**
-- **Slow burn:** Nick/Judy przez professional trust → romantic
+- **Slow burn:** Nick/Judy through professional trust → romantic
 - **Corruption:** Finnick's fall from loyalty
 - **Redemption:** Nick proving himself as cop
 
@@ -406,10 +406,10 @@ Voice from shadows, psychological terror
 
 ---
 
-## SOCIAL DYNAMICS ZOOTOPII (Z OUT OF THE WOODS)
+## SOCIAL DYNAMICS OF ZOOTOPIA (FROM OUT OF THE WOODS)
 
 ### **INTER-SPECIES RELATIONSHIP CHALLENGES:**
-- **Professional:** Career implications limitowane
+- **Professional:** Career implications limited
 - **Family:** Victoria immediate acceptance, Hopps parents supportive
 - **Public:** Minimal direct discrimination shown
 - **Personal:** Internal doubts, compatibility questions
@@ -426,4 +426,4 @@ Voice from shadows, psychological terror
 
 ---
 
-*Biblioteka przygotowana dla AI writing project - focus na trauma recovery i professional development themes.*
+*Library prepared for AI writing project - focus on trauma recovery and professional development themes.*

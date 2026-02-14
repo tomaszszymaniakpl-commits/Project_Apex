@@ -1,35 +1,35 @@
 # Zootopia Technology Level - World Specification
 
-> Definicja tech capabilities dla spójności fabularnej  
-> Balans: Canon realism + thriller functionality + narrative tension
+> Definition of tech capabilities for narrative consistency  
+> Balance: Canon realism + thriller functionality + narrative tension
 
 ---
 
-## CZĘŚĆ I: GENERAL TECH LEVEL (2024-2026)
+## PART I: GENERAL TECH LEVEL (2024-2026)
 
-### Established Canon (Z filmów)
-- **Smartphones/tablets:** Tak, powszechne (ZPD uses w obu filmach)
-- **Railway system:** Bardzo advanced, automated trains
-- **Traffic cameras:** Extensive network w całym mieście
+### Established Canon (From the films)
+- **Smartphones/tablets:** Yes, widespread (ZPD uses in both films)
+- **Railway system:** Very advanced, automated trains
+- **Traffic cameras:** Extensive network throughout the city
 - **Tranquilizer technology:** Very sophisticated (size-adjustable doses)
 - **Medical tech:** Advanced (Bellwether's serum, size-modifying tech)
 
-### **BRAK w Canon (Do unikania)**
-- Artificial Intelligence (nie full AI, tylko automated systems)
-- Facial recognition on mass scale (cameras istnieją, ale nie full coverage)  
-- Real-time city-wide tracking (zbyt dystopijne dla Zootopia)
-- Advanced robotics (brak mention, keep manual/organic work)
+### **ABSENT in Canon (To avoid)**
+- Artificial Intelligence (not full AI, only automated systems)
+- Facial recognition on mass scale (cameras exist, but not full coverage)  
+- Real-time city-wide tracking (too dystopian for Zootopia)
+- Advanced robotics (no mention, keep manual/organic work)
 
 ---
 
-## CZĘŚĆ II: LAW ENFORCEMENT TECH
+## PART II: LAW ENFORCEMENT TECH
 
 ### ZPD Standard Equipment
 
 #### **Communication**
 - **Radio system:** Encrypted, citywide coverage
 - **ZPD Tablets:** Real-time database access, case files
-- **Body cameras:** Mandatory dla patrol officers
+- **Body cameras:** Mandatory for patrol officers
 - **Vehicle tracking:** All patrol cars (GPS + dashcam)
 
 #### **Investigation Tools**
@@ -48,7 +48,7 @@
 ### ZPD Advanced (Strike Force Level)
 
 #### **Surveillance Enhancement**
-- **Long-range microphones:** Conversation pickup z 500 metrów
+- **Long-range microphones:** Conversation pickup from 500 meters
 - **Night vision:** Thermal/infrared scopes
 - **Vehicle tracking devices:** Magnetic GPS bugs
 - **Photo enhancement:** Digital zoom, noise reduction software
@@ -57,22 +57,22 @@
 - **Breaching tools:** Battering rams, lock picks, cutting equipment
 - **Riot gear:** Shields, helmets, body armor (multi-size)
 - **Non-lethal area denial:** Smoke grenades, flashbangs
-- **Communication jamming:** Block cell phone signals w określonym obszarze
+- **Communication jamming:** Block cell phone signals in a given area
 
 #### **Computer/Digital**
 - **Basic hacking tools:** Password cracking, data recovery
-- **Mobile forensics:** Extract data z skonfiskowanych urządzeń
-- **Network monitoring:** Track internet activity (z warrants)
+- **Mobile forensics:** Extract data from confiscated devices
+- **Network monitoring:** Track internet activity (with warrants)
 
 ---
 
-## CZĘŚĆ III: ZIA ADVANCED TECHNOLOGY
+## PART III: ZIA ADVANCED TECHNOLOGY
 
 ### Cutting-Edge Equipment (Exclusive to ZIA)
 
 #### **Next-Gen Surveillance**
 - **Nano-drones:** Mosquito-sized, 6-hour battery, HD video
-- **Laser microphones:** Conversation pickup przez wibracje okien
+- **Laser microphones:** Conversation pickup through window vibrations
 - **Biometric monitoring:** Remote heart rate, stress indicator detection
 - **Quantum encryption:** Unbreakable communication channels
 
@@ -85,24 +85,24 @@
 #### **Specialized Weapons**
 - **Silent projectile weapons:** Compressed air system (no gunshot sound)
 - **Chemical incapacitation:** Advanced tranquilizers, amnesia agents
-- **EMP devices:** Disable electronics w 50-meter radius
+- **EMP devices:** Disable electronics in 50-meter radius
 - **Micro-explosives:** Remote detonation, precise damage control
 
 ### Information Processing
 - **Quantum computers:** Pattern recognition, code breaking
-- **AI-assisted analysis:** Data correlation (nie full AI, advanced algorithms)
+- **AI-assisted analysis:** Data correlation (not full AI, advanced algorithms)
 - **Satellite access:** Real-time city imagery, movement tracking
 - **International databases:** Cross-border criminal records, financial monitoring
 
 ---
 
-## ČÁST IV: CIVILIAN TECHNOLOGY
+## PART IV: CIVILIAN TECHNOLOGY
 
 ### Accessible to Everyone
 
 #### **Personal Devices**
-- **Smartphones:** Standard w całej populacji
-- **Tablets:** Common dla pracy/rozrywki  
+- **Smartphones:** Standard across the population
+- **Tablets:** Common for work/entertainment  
 - **Laptops/computers:** Standard household items
 - **Digital cameras:** Photo/video recording widespread
 
@@ -113,7 +113,7 @@
 - **Online shopping:** Delivery services, digital payments
 
 #### **Transportation**
-- **GPS navigation:** Standard w pojazdach
+- **GPS navigation:** Standard in vehicles
 - **Public transit apps:** Real-time bus/train scheduling
 - **Ride-sharing:** "Zuber", "Pawxi" services
 - **Electric vehicles:** Mix electric/gas (not fully electric city)
@@ -132,24 +132,24 @@
 
 ---
 
-## CZĘŚĆ V: TECHNOLOGY LIMITATIONS (Crucial for Plot)
+## PART V: TECHNOLOGY LIMITATIONS (Crucial for Plot)
 
 ### **Why Crime Still Exists**
 
 #### **Privacy Laws**
-- **Warrant requirements:** Police nie może monitorować civilians bez court approval
+- **Warrant requirements:** Police cannot monitor civilians without court approval
 - **Data protection:** Private communications legally protected  
-- **Search restrictions:** Probable cause needed dla przeszukań cyfrowych
+- **Search restrictions:** Probable cause needed for digital searches
 
 #### **Resource Constraints**  
-- **ZPD budget:** Can't afford latest tech dla wszystkich
-- **Manpower limits:** Niewystarczająca liczba officers żeby monitorować wszystko
+- **ZPD budget:** Can't afford latest tech for everyone
+- **Manpower limits:** Insufficient number of officers to monitor everything
 - **Training gaps:** Complex technology requires specialized knowledge
 
 #### **Technical Limitations**
 - **Encryption:** Criminals use secure communication (hard to break)
 - **Cash transactions:** Untraceable payments still possible
-- **Underground networks:** Dead zones w zasięgu surveillance
+- **Underground networks:** Dead zones in surveillance coverage
 - **Counter-surveillance:** Criminal organizations have tech too
 
 ### **Why ZIA vs ZPD Tech Gap Matters**
@@ -159,18 +159,18 @@
 - **ZIA superiority:** "Local police can't handle sophisticated threats"
 
 #### **Information Asymmetry** 
-- **ZIA hoards intelligence:** Better tools = better intel, nie dzieli się z ZPD
+- **ZIA hoards intelligence:** Better tools = better intel, doesn't share with ZPD
 - **ZPD work around:** Must use conventional investigation methods
-- **Creates blind spots:** Each agency ma różne pieces of puzzle
+- **Creates blind spots:** Each agency has different pieces of the puzzle
 
 ---
 
-## CZĘŚĆ VI: SPECIFIC TECH SUPPORTING PLOT ELEMENTS
+## PART VI: SPECIFIC TECH SUPPORTING PLOT ELEMENTS
 
 ### Nick's "Death" Scenario
 
 #### **What Makes Fake Death Possible**
-- **DNA contamination:** ZIA ma chemikalia które maskują prawdziwe DNA signatures
+- **DNA contamination:** ZIA has chemicals that mask true DNA signatures
 - **Forensic manipulation:** Advanced knowledge of evidence planting
 - **Medical simulation:** Drugs that mimic death symptoms
 - **Documentation forgery:** ZIA can alter medical/death certificates
@@ -178,7 +178,7 @@
 #### **What Makes Investigation Difficult**  
 - **Limited ZPD forensics:** Can't detect sophisticated ZIA countermeasures
 - **Jurisdiction limits:** ZIA can classify evidence, restrict ZPD access
-- **Time pressure:** High-tech solutions take time którego ZPD nie ma
+- **Time pressure:** High-tech solutions take time that ZPD doesn't have
 
 ### Strike Force Effectiveness
 
@@ -190,23 +190,23 @@
 #### **Tech Limitations**
 - **No facial recognition:** Must rely on manual identification
 - **Limited hacking capability:** Need warrants, can't break strong encryption
-- **Resource constraints:** Can't monitor wszystko jednocześnie
+- **Resource constraints:** Can't monitor everything at once
 
 ### Skye's Infiltration
 
 #### **ZIA Support Tools**
-- **Perfect identity:** Complete backstory we wszystkich relevant databases  
+- **Perfect identity:** Complete backstory in all relevant databases  
 - **Communication security:** Quantum-encrypted check-ins
 - **Emergency extraction:** GPS locator, silent alarm system
 
 #### **Vulnerability Points**
-- **Human factor:** Tech nie może zastąpić ludzkiej oceny sytuacji
+- **Human factor:** Tech cannot replace human judgment
 - **Unexpected variables:** Real relationships complicate scripted mission
 - **Counter-surveillance:** Criminal organization has decent tech too
 
 ---
 
-## CZĘŚĆ VII: COMMUNICATION SYSTEMS
+## PART VII: COMMUNICATION SYSTEMS
 
 ### Standard Communication Hierarchy
 
@@ -221,7 +221,7 @@
 - **Inter-agency:** Hotlines to fire dept, medical, other precincts
 
 #### **ZIA Communication**  
-- **Quantum channels:** Unbreakable encryption między agentami
+- **Quantum channels:** Unbreakable encryption between agents
 - **Satellite uplinks:** Global communication capabilities
 - **Compartmentalized:** Information sharing on strict need-to-know basis
 
@@ -229,7 +229,7 @@
 
 #### **Why Nick Can't Just Call Judy**
 - **Deep cover protocols:** Any contact risks blowing mission
-- **ZIA monitoring:** All communications tracked dla bezpieczeństwa
+- **ZIA monitoring:** All communications tracked for security
 - **Criminal surveillance:** Target organization watches for police contact
 
 #### **Why Judy Can't Track Nick Effectively**
@@ -239,13 +239,13 @@
 
 ---
 
-## CZĘŚĆ VIII: IMPLICATIONS FOR STORYTELLING
+## PART VIII: IMPLICATIONS FOR STORYTELLING
 
 ### **Technology Serves Story, Never Overwhelms**
 
 #### **Realistic Constraints**
 - Characters must work within established tech limitations
-- Solutions require human ingenuity, nie tylko lepsze gadgets
+- Solutions require human ingenuity, not just better gadgets
 - Technology creates opportunities AND problems
 
 #### **Consistent Rules**
@@ -254,7 +254,7 @@
 - Criminal organizations have access to civilian-grade tech (plus some stolen/black market)
 
 #### **Tension Maintenance**
-- Advanced surveillance nie eliminuje privacy/hiding possibilities
+- Advanced surveillance does not eliminate privacy/hiding possibilities
 - Communication systems have dead zones, encryption challenges
 - Even best technology requires human operation (human error possible)
 

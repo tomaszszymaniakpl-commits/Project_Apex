@@ -1,18 +1,18 @@
 # Skye Winters - Voice Baseline & Character Profile
 
-> Adoptowana siostra Nicka, ZIA deep cover agent, źródło love triangle misunderstanding  
-> **Status:** Main supporting character, catalyst dla major plot events
+> Nick's adopted sister, ZIA deep cover agent, source of love triangle misunderstanding  
+> **Status:** Main supporting character, catalyst for major plot events
 
 ---
 
-## CZĘŚĆ I: BASIC PROFILE
+## PART I: BASIC PROFILE
 
 ### **Physical Description**
 - **Species:** Arctic Fox (Vulpes lagopus)
-- **Age:** ~29 years old (3 lata młodsza od Nicka)
-- **Appearance:** White fur, blue eyes, smaller build niż Nick
-- **Distinctive features:** Seasonal coat changes, naturally adapted do cold climates
-- **Professional presence:** Can shift między innocent civilian i dangerous agent
+- **Age:** ~29 years old (3 years younger than Nick)
+- **Appearance:** White fur, blue eyes, smaller build than Nick
+- **Distinctive features:** Seasonal coat changes, naturally adapted to cold climates
+- **Professional presence:** Can shift between innocent civilian and dangerous agent
 
 ### **Current Identity**
 - **Cover name:** "Cassandra Blake"  
@@ -23,15 +23,15 @@
 
 ---
 
-## CZĘŚĆ II: BACKSTORY - SIBLING BOND
+## PART II: BACKSTORY - SIBLING BOND
 
 ### **Adoption History**
 
 #### **Early Childhood**
-- **Original family:** Lost parents w industrial accident (age 7)
-- **Foster system:** Brief period w overcrowded facility
+- **Original family:** Lost parents in industrial accident (age 7)
+- **Foster system:** Brief period in overcrowded facility
 - **Nick's family:** Adopted into Wilde household (age 8)
-- **Adaptation period:** Initially scared, clingy, looked up to Nick jako protector
+- **Adaptation period:** Initially scared, clingy, looked up to Nick as protector
 
 #### **Formative Years**
 - **Age difference dynamic:** Nick (11) became protective older brother
@@ -47,75 +47,75 @@
 - **Skye:** Support role, research, logistics, backup plans
 - **Emotional roles:** Nick protective, Skye devoted, mutual loyalty
 - **Street survival:** Navigated dangerous world together, always had each other's backs
-- **Trust foundation:** Complete transparency, no secrets między siblings
+- **Trust foundation:** Complete transparency, no secrets between siblings
 
 #### **Individual Development**
-- **Skye's skills:** Developed exceptional observation skills, memory dla details
+- **Skye's skills:** Developed exceptional observation skills, memory for details
 - **Academic aptitude:** Self-taught technology, languages, psychology  
 - **Physical training:** Learned combat, stealth, survival techniques
 - **Emotional maturity:** More serious than Nick, worrier, planner
 
 ---
 
-## CZĘŚĆ III: ZIA RECRUITMENT & SEPARATION
+## PART III: ZIA RECRUITMENT & SEPARATION
 
 ### **Joint Recruitment** (Age ~22/19)
 
 #### **Initial Contact**  
 - **ZIA Interest:** Nick's social skills + Skye's analytical abilities
-- **Recruitment method:** Offered protection + resources w exchange dla intelligence
+- **Recruitment method:** Offered protection + resources in exchange for intelligence
 - **Decision process:** Nick skeptical, Skye curious about legitimate purpose
-- **Trial period:** Both worked jako independent associates
+- **Trial period:** Both worked as independent associates
 
 #### **Operational Success**
 - **Perfect team:** Nick gathered intel, Skye analyzed patterns, verified information
-- **Trust issues:** Both uncomfortable z institutional authority ale needed resources
-- **Growing skills:** Training w surveillance, communication, tradecraft
+- **Trust issues:** Both uncomfortable with institutional authority but needed resources
+- **Growing skills:** Training in surveillance, communication, tradecraft
 - **Sibling support:** Faced dangerous world together, as always
 
 ### **The Split** (Devastating separation)
 
 #### **Nick's Decision** 
-- **Catalyst:** Meeting Judy Hopps, desire dla legitimate life
-- **Internal conflict:** Choose między sister a potential future z Judy
-- **Conversation:** Tearful goodbye, promises to stay w contact
+- **Catalyst:** Meeting Judy Hopps, desire for legitimate life
+- **Internal conflict:** Choose between sister and potential future with Judy
+- **Conversation:** Tearful goodbye, promises to stay in contact
 - **Skye's reaction:** Supportive but devastated, felt abandoned
 
 #### **Skye's Choice**
-- **Career path:** Decided to stay w ZIA, found sense of purpose
-- **Emotional coping:** Threw herself into work to deal z loss
+- **Career path:** Decided to stay with ZIA, found sense of purpose
+- **Emotional coping:** Threw herself into work to deal with loss
 - **Professional development:** Became exceptional deep cover operative  
 - **Personal cost:** Years of isolation, no close relationships besides work
 
 #### **No Contact Policy**
-- **ZIA requirement:** Clean separation necessary dla both safety
+- **ZIA requirement:** Clean separation necessary for both safety
 - **Emotional impact:** Lost only family she had left
-- **Coping mechanism:** Professional success became substitute dla personal connection
+- **Coping mechanism:** Professional success became substitute for personal connection
 - **Hidden pain:** Never fully processed grief of losing brother
 
 ---
 
-## CZĘŚĆ IV: CURRENT PSYCHOLOGICAL PROFILE
+## PART IV: CURRENT PSYCHOLOGICAL PROFILE
 
 ### **Core Personality Traits**
 
 #### **Analytical Mind**
 - **Information processing:** Excellent at pattern recognition, connecting dots
 - **Strategic thinking:** Always several steps ahead, considers multiple scenarios
-- **Detail orientation:** Notices things others miss, perfect memory dla important facts
+- **Detail orientation:** Notices things others miss, perfect memory for important facts
 - **Objective assessment:** Can separate emotions from tactical decisions (usually)
 
 #### **Emotional Complexity**
 - **Surface control:** Professional composure, rarely shows vulnerability  
-- **Deep loyalty:** Intense devotion do people she considers family
-- **Abandonment issues:** Nick's leaving created trust problems z new relationships
-- **Compartmentalization:** Keeps professional i personal feelings separate
+- **Deep loyalty:** Intense devotion to people she considers family
+- **Abandonment issues:** Nick's leaving created trust problems with new relationships
+- **Compartmentalization:** Keeps professional and personal feelings separate
 
 #### **Protective Instincts**
-- **Primary target:** Nick - would sacrifice mission/career dla his safety
-- **Professional duty:** Committed to ZIA work ale Nick comes first
+- **Primary target:** Nick - would sacrifice mission/career for his safety
+- **Professional duty:** Committed to ZIA work but Nick comes first
 - **Moral flexibility:** Will break rules, laws, protocols to protect loved ones
-- **Risk tolerance:** Extremely high when Nick's wellbeing jest at stake
+- **Risk tolerance:** Extremely high when Nick's wellbeing is at stake
 
 #### **Identity Fluidity** 
 - **Professional personas:** Expert at maintaining cover identities
@@ -126,20 +126,20 @@
 ### **Relationship Patterns**
 
 #### **Professional Relationships**
-- **Competent but distant:** Respected by colleagues, nie close friends
-- **Authority issues:** Cooperates ale maintains emotional independence  
+- **Competent but distant:** Respected by colleagues, not close friends
+- **Authority issues:** Cooperates but maintains emotional independence  
 - **Trust carefully:** Shares mission-critical information only
-- **Loyalty hierarchy:** ZIA mission important, ale Nick's safety overrides
+- **Loyalty hierarchy:** ZIA mission important, but Nick's safety overrides
 
 #### **Personal Relationships**  
 - **Extreme difficulty:** Years of isolation made intimacy challenging
 - **Guard maintained:** Rarely lets anyone see true personality
 - **Nick exception:** Only person who knows real Skye
-- **Romantic complications:** Jack Savage interesse complicated by professional relationship
+- **Romantic complications:** Jack Savage interest complicated by professional relationship
 
 ---
 
-## CZĘŚĆ V: SPEECH PATTERNS & VOICE
+## PART V: SPEECH PATTERNS & VOICE
 
 ### **Professional Mode** (Default)
 
@@ -147,7 +147,7 @@
 - **Precise vocabulary:** Technical terms, exact language, minimal ambiguity
 - **Controlled tone:** Even inflection, rarely shows emotion through voice  
 - **Economic phrasing:** Says exactly what's necessary, no excess words
-- **Formal structure:** Complete sentences, proper grammar even w casual conversation
+- **Formal structure:** Complete sentences, proper grammar even in casual conversation
 
 #### **Information Management**
 - **Need-to-know basis:** Shares only relevant details  
@@ -155,7 +155,7 @@
 - **Question deflection:** Redirects personal inquiries to professional topics
 - **Compartmentalized responses:** Different answer depending on who's asking
 
-### **Personal Mode** (Z Nickiem)
+### **Personal Mode** (With Nick)
 
 #### **Emotional Availability**  
 - **Warmth emerges:** Voice softens, more natural inflection
@@ -171,14 +171,14 @@
 
 ### **Dialogue Examples**
 
-#### **Professional (Z Jack/ZIA contacts)**
+#### **Professional (With Jack/ZIA contacts)**
 ```
 "Target acquired visual confirmation at 1400 hours. Pattern analysis 
 suggests operational security is compromised. Recommend immediate 
 extraction protocol activation."
 ```
 
-#### **Personal (Z Nickiem)**
+#### **Personal (With Nick)**
 ```
 "Nicky, you look terrible. When's the last time you actually slept? 
 And don't give me that 'I'm fine' routine - I've known you since 
@@ -201,19 +201,19 @@ answer those. Everything else is off-limits."
 
 ---
 
-## CZĘŚĆ VI: SKILLS & CAPABILITIES
+## PART VI: SKILLS & CAPABILITIES
 
 ### **ZIA Training Excellence**
 
 #### **Intelligence Operations**
-- **Deep cover expertise:** Can maintain false identity dla years
+- **Deep cover expertise:** Can maintain false identity for years
 - **Behavioral analysis:** Expert at reading people, predicting actions
 - **Information synthesis:** Exceptional at connecting disparate clues
 - **Communication security:** Master of encrypted channels, coded language
 
 #### **Technical Skills**
 - **Digital forensics:** Advanced computer skills, hacking capabilities
-- **Surveillance technology:** Proficient z latest equipment
+- **Surveillance technology:** Proficient with latest equipment
 - **Identity creation:** Can construct bulletproof cover stories
 - **Pattern analysis:** Mathematical approach to intelligence work
 
@@ -223,51 +223,51 @@ answer those. Everything else is off-limits."
 - **Arctic fox advantages:** Natural cold resistance, excellent hearing, night vision
 - **Stealth expertise:** Small size, white fur allow superior concealment
 - **Combat training:** Hand-to-hand, weapons proficiency, tactical awareness
-- **Survival skills:** Can operate independently w harsh environments
+- **Survival skills:** Can operate independently in harsh environments
 
 #### **Psychological Warfare**
 - **Manipulation resistance:** Trained to withstand interrogation, pressure
-- **Emotional control:** Can suppress personal feelings dla mission requirements
-- **Stress management:** High tolerance dla dangerous, uncertain situations
-- **Adaptability:** Thrives w constantly changing operational environments
+- **Emotional control:** Can suppress personal feelings for mission requirements
+- **Stress management:** High tolerance for dangerous, uncertain situations
+- **Adaptability:** Thrives in constantly changing operational environments
 
 ---
 
-## CZĘŚĆ VII: THE LOVE TRIANGLE MISUNDERSTANDING
+## PART VII: THE LOVE TRIANGLE MISUNDERSTANDING
 
 ### **Skye's Perspective** (Truth)
 
-#### **Relationship z Nickiem**
+#### **Relationship with Nick**
 - **Pure sibling love:** Intense affection, protective instincts, family bond
-- **Physical affection:** Natural comfort z touching, hugging (siblings often do this)
+- **Physical affection:** Natural comfort with touching, hugging (siblings often do this)
 - **Emotional priority:** Nick's happiness more important than her own safety
-- **No romantic element:** Sees Nick jako beloved older brother, nie potential partner
+- **No romantic element:** Sees Nick as beloved older brother, not potential partner
 
 #### **Awareness of Judy**
 - **Research conducted:** Knows about Judy through intelligence gathering
-- **Protective assessment:** Evaluates czy Judy jest good enough dla Nick  
-- **Professional respect:** Recognizes Judy's capabilities jako detective
-- **Personal concern:** Worries że her presence will complicate Nick's life
+- **Protective assessment:** Evaluates whether Judy is good enough for Nick  
+- **Professional respect:** Recognizes Judy's capabilities as detective
+- **Personal concern:** Worries that her presence will complicate Nick's life
 
 ### **Judy's Perspective** (Misunderstanding)
 
 #### **Observable Behaviors**
 - **Physical intimacy:** Sees Skye touching Nick's arm, standing close  
 - **Emotional intensity:** Witnesses private conversation, obvious affection
-- **Secret meetings:** Nick nie explaining who Skye jest or why they're meeting
+- **Secret meetings:** Nick not explaining who Skye is or why they're meeting
 - **Nick's reaction:** He appears nervous, conflicted around Skye
 
 #### **Misinterpretation Process**
 - **Romantic assumption:** Intimate behavior = romantic relationship
-- **Threat assessment:** Skye represents competition dla Nick's affections  
-- **Evidence gathering:** Looks dla proof of affair/secret relationship
+- **Threat assessment:** Skye represents competition for Nick's affections  
+- **Evidence gathering:** Looks for proof of affair/secret relationship
 - **Emotional response:** Jealousy, betrayal, competitive instincts triggered
 
 ### **The Reality Gap**
 
 #### **Communication Failure**
 - **Nick's silence:** Can't explain Skye's identity without revealing ZIA past
-- **Skye's professionalism:** Won't discuss personal relationships z strangers
+- **Skye's professionalism:** Won't discuss personal relationships with strangers
 - **Judy's pride:** Won't ask direct questions about Nick's "affair"
 - **Escalating tension:** Misunderstanding compounds over time
 
@@ -279,65 +279,65 @@ answer those. Everything else is off-limits."
 
 ---
 
-## CZĘŚĆ VIII: RELATIONSHIP DYNAMICS
+## PART VIII: RELATIONSHIP DYNAMICS
 
-### **Z Nickiem** (Central relationship)
+### **With Nick** (Central relationship)
 
 #### **Current Dynamic**
 - **Reunion overwhelming:** Years of separation make every interaction precious
-- **Protective mode activated:** Constantly worried about his safety w ZPD
+- **Protective mode activated:** Constantly worried about his safety in ZPD
 - **Professional conflict:** Her mission potentially endangers his new life
-- **Emotional support:** Wants to be there dla him but respects boundaries
+- **Emotional support:** Wants to be there for him but respects boundaries
 
 #### **Conversation Patterns**
 - **Check-in mode:** Constant assessment of his wellbeing, happiness, safety
 - **Memory sharing:** References to shared childhood experiences
-- **Future planning:** Hopes dla restored family relationship after mission
-- **Unconditional support:** Clear że she'll sacrifice anything dla his happiness
+- **Future planning:** Hopes for restored family relationship after mission
+- **Unconditional support:** Clear that she'll sacrifice anything for his happiness
 
-### **Z Jack Savage** (Professional becoming personal)
+### **With Jack Savage** (Professional becoming personal)
 
 #### **Handler Relationship**
 - **Professional trust:** Relies on his expertise, guidance, protection
 - **Personal boundary:** Careful not to let professional relationship become personal  
-- **Emotional conflict:** Attracted to his loyalty ale afraid of commitment
+- **Emotional conflict:** Attracted to his loyalty but afraid of commitment
 - **Mission priority:** Keeps personal feelings secondary to operational requirements
 
 #### **Romantic Tension**
-- **Unspoken attraction:** Both aware of feelings ale don't act on them
+- **Unspoken attraction:** Both aware of feelings but don't act on them
 - **Professional barrier:** Handler/agent relationship complicates personal involvement
-- **Timing issues:** Current mission too dangerous dla romantic distraction
+- **Timing issues:** Current mission too dangerous for romantic distraction
 - **Future possibility:** Both aware relationship might develop post-mission
 
-### **Z Judy Hopps** (Misunderstood rivalry)
+### **With Judy Hopps** (Misunderstood rivalry)
 
 #### **Skye's Actual Feelings**
-- **Professional respect:** Recognizes Judy's capabilities i integrity
-- **Personal assessment:** Evaluates czy Judy jest worthy of Nick's love
+- **Professional respect:** Recognizes Judy's capabilities and integrity
+- **Personal assessment:** Evaluates whether Judy is worthy of Nick's love
 - **Protective concern:** Wants to ensure Judy won't hurt Nick
 - **Potential ally:** Could be friend if misunderstanding resolved
 
 #### **Surface Interactions**
-- **Polite distance:** Professional courtesy bez personal warmth
+- **Polite distance:** Professional courtesy without personal warmth
 - **Careful evaluation:** Observes Judy's treatment of Nick
 - **Defensive positioning:** Protects Nick from perceived threat
-- **Information withholding:** Won't share personal details z "rival"
+- **Information withholding:** Won't share personal details with "rival"
 
 ---
 
-## CZĘŚĆ IX: CHARACTER ARC W NASZEJ FABULE
+## PART IX: CHARACTER ARC IN OUR STORY
 
 ### **Part I: Reunion & Conflict**
 
 #### **Mission Assignment** 
 - **Internal conflict:** Personal desires vs professional duty
-- **Nick contact:** First time seeing him w years, overwhelming emotions
+- **Nick contact:** First time seeing him in years, overwhelming emotions
 - **Cover maintenance:** Must hide true nature of relationship from outside observers
 - **Growing tension:** Mission requirements increasingly endanger Nick
 
 #### **Judy Assessment**
-- **Initial evaluation:** Professional respect dla Judy's abilities
-- **Personal concern:** Worry że Judy nie understand Nick's complexity  
+- **Initial evaluation:** Professional respect for Judy's abilities
+- **Personal concern:** Worry that Judy doesn't understand Nick's complexity  
 - **Protective instincts:** Increased caution about Nick's emotional vulnerability
 - **Communication barriers:** Can't explain herself due to operational security
 
@@ -347,31 +347,31 @@ answer those. Everything else is off-limits."
 - **Deeper infiltration:** Operation requires more dangerous actions
 - **Nick's involvement:** Has to bring him into ZIA world again
 - **Cover stress:** Maintaining false identity becomes more difficult
-- **Relationship pressure:** Professional demands conflict z family loyalty
+- **Relationship pressure:** Professional demands conflict with family loyalty
 
 #### **Fake Death Participation**
 - **Protective motivation:** Only way to keep Nick safe from organization
 - **Technical expertise:** Helps stage convincing death scene  
-- **Emotional cost:** Knows this destroys Nick's relationship z Judy
-- **Guilt burden:** Responsible dla causing pain to people she cares about
+- **Emotional cost:** Knows this destroys Nick's relationship with Judy
+- **Guilt burden:** Responsible for causing pain to people she cares about
 
 ### **Part III: Resolution & Truth**
 
 #### **Identity Revelation**
-- **Truth emerges:** Real relationship z Nickiem revealed
+- **Truth emerges:** Real relationship with Nick revealed
 - **Judy's reaction:** Shock, embarrassment, relief about misunderstanding
-- **Family restoration:** Can finally have open relationship z brother
+- **Family restoration:** Can finally have open relationship with brother
 - **Professional resolution:** Mission completed, no more secrets needed
 
 #### **New Relationships**
-- **Judy friendship:** Potential dla genuine alliance i mutual respect
+- **Judy friendship:** Potential for genuine alliance and mutual respect
 - **Jack romance:** Freedom to explore personal relationship
 - **Family integration:** Becomes part of Nick-Judy support network
-- **Identity resolution:** Can be true self without covers i deception
+- **Identity resolution:** Can be true self without covers and deception
 
 ---
 
-## CZĘŚĆ X: VOICE EVOLUTION
+## PART X: VOICE EVOLUTION
 
 ### **Early Story** (Professional armor)
 - Clipped, controlled, minimal emotional expression
@@ -379,16 +379,16 @@ answer those. Everything else is off-limits."
 - Deflects personal questions consistently
 
 ### **Middle Story** (Family emotions emerge)
-- More warmth w voice when talking about Nick  
-- Increased protectiveness creates harder edge z perceived threats
-- Professional control conflicts z personal investment
+- More warmth in voice when talking about Nick  
+- Increased protectiveness creates harder edge with perceived threats
+- Professional control conflicts with personal investment
 
 ### **Late Story** (Integrated authenticity)
-- Comfortable expressing both professional competence i personal feelings
-- Natural sibling dynamic z Nickiem bez misunderstanding
-- Capacity dla new relationships built on truth
+- Comfortable expressing both professional competence and personal feelings
+- Natural sibling dynamic with Nick without misunderstanding
+- Capacity for new relationships built on truth
 
 ---
 
 **STATUS:** Skye Winters Profile complete  
-**NEXT:** Jack Savage Profile - handler, romantic interest, rabbit z black stripes
+**NEXT:** Jack Savage Profile - handler, romantic interest, rabbit with black stripes

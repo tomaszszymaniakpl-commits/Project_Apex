@@ -1,236 +1,236 @@
-# ZPD Precinct 1 (Komisariat Główny)
+# ZPD Precinct 1 (Main Station)
 
-> Lokacja kluczowa dla: Sceny robocze Nick+Judy (Część I), HQ Strike Force Judy (Część II)  
-> Atmosfera: Profesjonalna, busy, instytucjonalna - symbolizuje prawo i porządek
-
----
-
-## LOKALIZACJA I BUDYNEK
-
-### Położenie
-- **Savanna Central** - centrum miasta, łatwy dostęp ze wszystkich dystryktów
-- Duży wolnostojący budynek (4-5 pięter)
-- Parking dla pojazdów ZPD (radiowóz, furgonetki SWAT)
-- **Adres symboliczny:** Główna arteria, widoczny dla obywateli = zaufanie publiczne
-
-### Architektura zewnętrzna
-- Styl **art deco / modernizm** (solidność, autorytet)
-- Kamień/beton, elementy szkła
-- Logo ZPD nad wejściem: tarcza z literami, motto "Trust • Respect • Integrity"
-- Schody prowadzące do głównego wejścia (klasyczna symbolika "świątyni sprawiedliwości")
+> Key location for: Nick+Judy work scenes (Part I), Judy's Strike Force HQ (Part II)  
+> Atmosphere: Professional, busy, institutional - symbolizes law and order
 
 ---
 
-## WNĘTRZA - STRUKTURA
+## LOCATION AND BUILDING
 
-### Parter (Główna hala)
+### Location
+- **Savanna Central** - city center, easy access from all districts
+- Large standalone building (4-5 floors)
+- Parking for ZPD vehicles (patrol car, SWAT vans)
+- **Symbolic address:** Main artery, visible to citizens = public trust
 
-#### **Recepcja**
-- **Officer Benjamin Clawhauser** - gepard, recepcjonista
-- Biurko z komputerem, telefon, donuty (zawsze)
-- Przyjmowanie interesantów, kierowanie gości
-- **Mood:** Przyjaźnie, głośno (Clawhauser jest gadatliwy)
-
-#### **Bullpen** (Główna sala operacyjna)
-- Otwarta przestrzeń z rzędami biurek
-- Każdy officer ma swoje stanowisko (komputer, dokumenty, kubek kawy)
-- **Oświetlenie:** Jarzeniówki (zimne, białe światło) - typowe dla biur
-- **Dźwięki:** Telefony, klawiatura, rozmowy, radio policyjne
-- **Organizacja:** Uporządkowany chaos - dużo papierkowej roboty
-
-#### **Tablica briefingowa**
-- Duży ekran/tablica na ścianie
-- Chief Bogo prowadzi ranki briefingi (7:00 AM)
-- Zdjęcia podejrzanych, mapy, notatki
+### External architecture
+- **Art deco / modernism** style (solidity, authority)
+- Stone/concrete, glass elements
+- ZPD logo above entrance: shield with letters, motto "Trust • Respect • Integrity"
+- Stairs leading to main entrance (classic "temple of justice" symbolism)
 
 ---
 
-### Piętro 2-3: Biura i sale specjalne
+## INTERIORS - STRUCTURE
 
-#### **Gabinet Chief Bogo**
-**Lokalizacja:** Piętro 2, z balkonem nad bullpen
+### Ground floor (Main hall)
 
-**Wnętrze:**
-- Solidne drewniane biurko (masywne, jak jego charakter)
-- Krzesło skórzane dla szefa, 2 krzesła dla gości (niewygodne - by wizyty były krótkie)
-- **Dekoracje:**
-  - Commendations (odznaczenia) na ścianach
-  - Zdjęcie z akademii policyjnej
-  - Flaga Zootopii
-  - Bałagan kontrolowany: pudła, akta, organizery
-- **Książki:** Procedury ZPD, kodeks prawny, podręczniki taktyczne
-- **Okno:** Widok na miasto (Chief nadzoruje wszystko)
+#### **Reception**
+- **Officer Benjamin Clawhauser** - cheetah, receptionist
+- Desk with computer, phone, donuts (always)
+- Receiving visitors, directing guests
+- **Mood:** Friendly, loud (Clawhauser is chatty)
 
-**Balkon:**
-- Chief Bogo może stanąć na balkonie i przemówić do wszystkich oficerów w bullpen
-- Symbolika: władza, hierarchia
+#### **Bullpen** (Main operations room)
+- Open space with rows of desks
+- Each officer has their station (computer, documents, coffee mug)
+- **Lighting:** Fluorescent tubes (cold, white light) - typical for offices
+- **Sounds:** Phones, keyboard, conversations, police radio
+- **Organization:** Ordered chaos - lots of paperwork
 
-**Mood w gabinecie:**
-- Formalny, napięty
-- Judy często wzywana "na dywanik"
-- To tutaj dostaje awanse/reprymendy
-
-#### **Pokoje przesłuchań** (Interrogation Rooms)
-- 3-4 małe pokoje, spartańskie
-- **Wyposażenie:**
-  - Metalowy stół przykręcony do podłogi
-  - 2-3 krzesła
-  - Lustro weneckie (jednokierunkowe) - pokój obserwacyjny z tyłu
-  - Kamera w rogu
-- **Oświetlenie:** Jasne, bez cieniów (by obserwować microexpressions)
-- **Mood:** Klaustrofobiczne, niewygodne, zimne
-
-**Użycie w fabule:**
-- Tu Judy przesłuchuje Nicka po jego schwytaniu (Część II, Mila 3.1)
-- 10 minut sam na sam zanim "wtyka" go wyciągnie
+#### **Briefing board**
+- Large screen/board on the wall
+- Chief Bogo leads morning briefings (7:00 AM)
+- Photos of suspects, maps, notes
 
 ---
 
-### Piwnica: Archiwum i cela tymczasowa
+### Floors 2-3: Offices and special rooms
 
-#### **Archiwum**
-- Rzędy metalowych regałów z aktami (sprzed digitalizacji)
-- Zakurzone, nikt nie schodzi
-- **Możliwe użycie:** Judy przeszukuje stare sprawy, znajduje coś o przeszłości Nicka
+#### **Chief Bogo's office**
+**Location:** Floor 2, with balcony over bullpen
 
-#### **Holding cells** (Cele tymczasowe)
-- Metalowe kraty, betonowa ławka
-- Tu trzyma się zatrzymanych do 24h przed przekazaniem do więzienia
-- **Nick może tu wylądować** na krótko po aresztowaniu
+**Interior:**
+- Solid wooden desk (massive, like his character)
+- Leather chair for the chief, 2 chairs for guests (uncomfortable - so visits are short)
+- **Decorations:**
+  - Commendations on the walls
+  - Photo from police academy
+  - Zootopia flag
+  - Controlled mess: boxes, files, organizers
+- **Books:** ZPD procedures, legal code, tactical manuals
+- **Window:** City view (Chief oversees everything)
+
+**Balcony:**
+- Chief Bogo can stand on the balcony and address all officers in the bullpen
+- Symbolism: power, hierarchy
+
+**Mood in the office:**
+- Formal, tense
+- Judy often summoned "to the carpet"
+- Here she gets promotions/reprimands
+
+#### **Interrogation rooms**
+- 3-4 small rooms, spartan
+- **Equipment:**
+  - Metal table bolted to the floor
+  - 2-3 chairs
+  - One-way mirror - observation room behind
+  - Camera in the corner
+- **Lighting:** Bright, no shadows (to observe microexpressions)
+- **Mood:** Claustrophobic, uncomfortable, cold
+
+**Use in plot:**
+- Here Judy interrogates Nick after his capture (Part II, Mile 3.1)
+- 10 minutes alone before her "mole" pulls him out
 
 ---
 
-### Piętro 4: Strike Force HQ (Część II)
+### Basement: Archive and temporary holding
 
-**Nowa jednostka stworzona dla Judy po "śmierci" Nicka**
+#### **Archive**
+- Rows of metal shelves with files (from before digitization)
+- Dusty, no one goes down
+- **Possible use:** Judy searches old cases, finds something about Nick's past
 
-- Oddzielny pokój operacyjny, mniejszy niż bullpen
-- **Zespół:** 4-5 elitarnych oficerów
-- **Wyposażenie:**
-  - Tablica z pinezkami, zdjęcia podejrzanych, nitki łączące tropy (classic detective board)
-  - **Red string conspiracy wall** - Judy obsesyjnie łączy fakty o organizacji
-  - Komputery z dostępem do zaawansowanych baz danych
-  - Mapa Zootopii z zaznaczonymi lokacjami organizacji
-  - **Zdjęcie Nicka** - skreślone czerwonym X (lub nie - Judy nie może go usunąć)
-
-**Atmosfera:**
-- Intensywna, ciemna (Judy zasłania żaluzje, pracuje do późna)
-- Zapach kawy (termosz zawsze pełny)
-- **Contrast z Częścią I:** Wtedy biurko Judy było czyste, teraz - chaos
+#### **Holding cells** (Temporary)
+- Metal bars, concrete bench
+- Detainees held here up to 24h before transfer to prison
+- **Nick may land here** briefly after arrest
 
 ---
 
-## TECHNOLOGIA I WYPOSAŻENIE
+### Floor 4: Strike Force HQ (Part II)
 
-### Standardowy sprzęt oficera
-- **Broń:** Tranquilizer dart gun (Judy), niektórzy mają tasery
-- **Radio:** Komunikacja z dyspozytornią
-- **Odznaka:** Metal, numer identyfikacyjny
-- **Kajdanki:** Dostosowane do różnych rozmiarów ssaków
-- **Body cam:** Na mundurze (nagranie akcji)
+**New unit created for Judy after Nick's "death"**
 
-### W biurach
-- **Komputery:** Dostęp do:
-  - DMV database (pojazdy)
+- Separate operations room, smaller than bullpen
+- **Team:** 4-5 elite officers
+- **Equipment:**
+  - Board with pins, suspect photos, threads connecting leads (classic detective board)
+  - **Red string conspiracy wall** - Judy obsessively connects facts about the organization
+  - Computers with access to advanced databases
+  - Zootopia map with organization locations marked
+  - **Photo of Nick** - crossed out with red X (or not - Judy can't remove it)
+
+**Atmosphere:**
+- Intense, dark (Judy closes blinds, works late)
+- Smell of coffee (thermos always full)
+- **Contrast with Part I:** Then Judy's desk was clean, now - chaos
+
+---
+
+## TECHNOLOGY AND EQUIPMENT
+
+### Standard officer gear
+- **Weapons:** Tranquilizer dart gun (Judy), some have tasers
+- **Radio:** Communication with dispatch
+- **Badge:** Metal, identification number
+- **Handcuffs:** Adapted for different mammal sizes
+- **Body cam:** On uniform (records action)
+
+### In offices
+- **Computers:** Access to:
+  - DMV database (vehicles)
   - Criminal records
-  - CCTV footage (kamery miejskie)
+  - CCTV footage (city cameras)
   - Forensics reports
-- **Drukarki, faksy** (stary sprzęt - budżet ZPD nie jest gigantyczny)
+- **Printers, faxes** (old equipment - ZPD budget isn't huge)
 
 ### Strike Force additions
-- **Surveillance tech:** Mikrofony kierunkowe, kamery ukryte
-- **Breaching tools:** Taran, narzędzia do rozcinania
-- **Tactical gear:** Kamizelki kuloodporne, hełmy, latarki
+- **Surveillance tech:** Directional mics, hidden cameras
+- **Breaching tools:** Ram, cutting tools
+- **Tactical gear:** Bulletproof vests, helmets, flashlights
 
 ---
 
-## ATMOSFERA DLA PISANIA
+## ATMOSPHERE FOR WRITING
 
 ### Sensory details
 
-**Wzrok:**
-- **Dzień:** Jasne światło jarzeniówek, mnóstwo papieru, uniformy oficerów (granat + czarny)
-- **Noc:** Większość świateł zgaszonych, tylko biurko Judy podświetlone - samotność
+**Sight:**
+- **Day:** Bright fluorescent light, lots of paper, officer uniforms (navy + black)
+- **Night:** Most lights off, only Judy's desk lit - solitude
 
-**Słuch:**
-- Brzęczenie komputerów
-- Radio policyjne (static, kody 10-4, 10-20)
-- Kroki na lino leum (echo w korytarzach)
-- Clawhauser śpiewający przy recepcji
+**Sound:**
+- Hum of computers
+- Police radio (static, 10-4, 10-20 codes)
+- Footsteps on linoleum (echo in corridors)
+- Clawhauser singing at reception
 
-**Zapach:**
-- Kawa (zawsze świeża)
-- Donuty (Clawhauser)
-- Papier, toner z drukarki
-- Czasem pot po treningu (sala gimnastyczna w piwnicy)
+**Smell:**
+- Coffee (always fresh)
+- Donuts (Clawhauser)
+- Paper, printer toner
+- Sometimes sweat after workout (gym in basement)
 
-### Mood (zmienia się przez fabułę)
+### Mood (changes through the plot)
 
-**Część I (pre-"śmierć"):**
-- Busy ale przyjazny
-- Nick i Judy żartują przy biurkach
-- Bogo burczy ale w głębi duszy docenia ich pracę
-- **Optymizm:** "Dobro wygrywa"
+**Part I (pre-"death"):**
+- Busy but friendly
+- Nick and Judy joke at their desks
+- Bogo grumbles but deep down appreciates their work
+- **Optimism:** "Good wins"
 
-**Część II (post-"śmierć"):**
-- Chłodny, napięty
-- Judy unika small talk, idzie prosto do Strike Force room
-- Zespół patrzy na nią z troską (obsesja ją pożera)
-- Bogo martwi się ale pozwala jej pracować (wie że potrzebuje celu)
-- **Pesymizm:** "Trust no one"
-
----
-
-## KLUCZOWE SCENY (przykłady)
-
-### Scena 1: Morning Briefing (Pre-Canon, Część I)
-- Chief Bogo na balkonie
-- Wszyscy oficerzy w bullpen, kawa w rękach
-- Bogo: "Hopps, Wilde - macie sprawę w dokach. Przemyt broni."
-- Nick szepcze do Judy: "Znowu doki? Chyba mnie nie lubi."
-- Judy: "Może przestań przychodzić z donutami dla Clawhauser a nie dla niego."
-
-### Scena 2: Po "śmierci" Nicka (Początek Części II)
-- Judy sama przy biurku, 23:00
-- Bullpen pusty, tylko jej lampka świeci
-- Patrzy na zdjęcie Nicka (stare, uśmiechnięty)
-- Clawhauser podchodzi: "Judy... może czas iść do domu?"
-- Judy (zimno): "Jestem w domu."
-
-### Scena 3: Przesłuchanie Nicka (Część II, Mila 3.1)
-- Pokój przesłuchań, Nick w kajdankach
-- Judy wchodzi, rzuca akta na stół
-- 10 minut ciszy - patrzą na siebie
-- Nick (cynicznie): "Wciąż masz przy sobie ten spray z marchewką? Może będziesz potrzebować."
-- Judy (drży z gniewu, ale głos opanowany): "Kim jest Skye Winters?"
-- Nick (maska opada na sekundę, potem wraca): "Nie wiem o czym mówisz."
+**Part II (post-"death"):**
+- Cold, tense
+- Judy avoids small talk, goes straight to Strike Force room
+- Team looks at her with concern (obsession consumes her)
+- Bogo worries but lets her work (knows she needs a purpose)
+- **Pessimism:** "Trust no one"
 
 ---
 
-## NOTATKI DODATKOWE
+## KEY SCENES (examples)
 
-### Hierarchia w Precinct 1
+### Scene 1: Morning Briefing (Pre-Canon, Part I)
+- Chief Bogo on the balcony
+- All officers in bullpen, coffee in hands
+- Bogo: "Hopps, Wilde - you have a case in the docks. Weapons smuggling."
+- Nick whispers to Judy: "The docks again? I think he doesn't like me."
+- Judy: "Maybe stop bringing donuts for Clawhauser and not for him."
+
+### Scene 2: After Nick's "death" (Beginning of Part II)
+- Judy alone at her desk, 23:00
+- Bullpen empty, only her lamp on
+- Stares at photo of Nick (old, smiling)
+- Clawhauser approaches: "Judy... maybe time to go home?"
+- Judy (coldly): "I am home."
+
+### Scene 3: Nick's interrogation (Part II, Mile 3.1)
+- Interrogation room, Nick in handcuffs
+- Judy enters, throws files on the table
+- 10 minutes of silence - they look at each other
+- Nick (cynically): "Still carrying that carrot spray? You might need it."
+- Judy (trembling with anger, but voice controlled): "Who is Skye Winters?"
+- Nick (mask slips for a second, then returns): "I don't know what you're talking about."
+
+---
+
+## ADDITIONAL NOTES
+
+### Hierarchy in Precinct 1
 1. Chief Bogo (Cape Buffalo)
-2. Assistant Chiefs (nienazwani)
-3. Detectives (Nick, Judy - po awansie z filmu)
+2. Assistant Chiefs (unnamed)
+3. Detectives (Nick, Judy - after promotion from the film)
 4. Officers (beat cops)
 5. Support staff (Clawhauser, forensics)
 
-### Kultura pracy
-- **Shift:** 12-godzinne (7-19 lub 19-7)
-- **Overtime:** Często (przestępczość nie śpi)
-- **Camaraderie:** Silna - officers to rodzina, zdrada Nicka boli wszystkich
+### Work culture
+- **Shift:** 12-hour (7-19 or 19-7)
+- **Overtime:** Often (crime doesn't sleep)
+- **Camaraderie:** Strong - officers are family, Nick's betrayal hurts everyone
 
-### Reakcja na "zdradę" Nicka
-- Większość officers nie wierzy na początku ("Nick? Niemożliwe!")
-- Ale dowody są niepodważalne
-- Niektórzy czują się zdradzeni personalnie
-- **Judy:** Najwięcej cierpi, ale ukrywa to pod maską profesjonalizmu
+### Reaction to Nick's "betrayal"
+- Most officers don't believe at first ("Nick? Impossible!")
+- But the evidence is irrefutable
+- Some feel personally betrayed
+- **Judy:** Suffers most, but hides it behind a mask of professionalism
 
 ---
 
-**SYMBOLIKA LOKACJI:**
-Precinct 1 to **dom** Judy i Nicka. Jego "śmierć" i zdrada to naruszenie sanktuarium. Gdy Judy w Części II obsesyjnie pracuje w Strike Force room, symbolicznie "buduje nowy dom" - ale bez Nicka, jest pusty.
+**LOCATION SYMBOLISM:**
+Precinct 1 is **home** to Judy and Nick. His "death" and betrayal is a violation of the sanctuary. When Judy in Part II obsessively works in the Strike Force room, she symbolically "builds a new home" - but without Nick, it is empty.
 
-**KONIEC PROFILU**  
-Następna lokacja: Sahara Square (opcjonalna, dla akcji w Części II)
+**END OF PROFILE**  
+Next location: Sahara Square (optional, for action in Part II)

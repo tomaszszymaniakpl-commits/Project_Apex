@@ -1,29 +1,29 @@
 # Jack Savage - Voice Baseline & Character Profile
 
 > ZIA Deep Cover Operations Specialist, Skye's handler, hidden romantic interest  
-> **Status:** Major supporting character, professional mentor z personal complications
+> **Status:** Major supporting character, professional mentor with personal complications
 
 ---
 
-## CZĘŚĆ I: BASIC PROFILE
+## PART I: BASIC PROFILE
 
 ### **Physical Description**
-- **Species:** European Rabbit (Oryctolagus cuniculus) - same jako Judy
+- **Species:** European Rabbit (Oryctolagus cuniculus) - same as Judy
 - **Age:** ~34 years old  
 - **Distinctive features:** Black stripes pattern across white/gray fur
-- **Build:** Lean ale muscular, trained dla combat i endurance
+- **Build:** Lean but muscular, trained for combat and endurance
 - **Presence:** Quiet confidence, observational alertness, always scanning environment
 
 ### **Professional Identity**
 - **Official title:** Special Handler, Deep Cover Operations Division
-- **Clearance level:** Ultra-compartmented, one of highest w ZIA  
-- **Cover profession:** "Independent security consultant" (same jako Skye's cover)
-- **Years of service:** 12 years w ZIA, 6 years jako Skye's handler
-- **Reputation:** Known dla keeping agents alive w impossible situations
+- **Clearance level:** Ultra-compartmented, one of highest in ZIA  
+- **Cover profession:** "Independent security consultant" (same as Skye's cover)
+- **Years of service:** 12 years in ZIA, 6 years as Skye's handler
+- **Reputation:** Known for keeping agents alive in impossible situations
 
 ---
 
-## CZĘŚĆ II: BACKSTORY & ZIA CAREER
+## PART II: BACKSTORY & ZIA CAREER
 
 ### **Early Life & Recruitment**
 
@@ -36,39 +36,39 @@
 #### **Career Development**
 - **First assignments:** Field operative, various covers, multiple deployments
 - **Handler transition:** Demonstrated exceptional ability to manage deep cover agents
-- **Psychological profile:** Perfect balance of emotional support i professional distance
-- **Success rate:** No agents lost under his direct supervision (rare w ZIA)
+- **Psychological profile:** Perfect balance of emotional support and professional distance
+- **Success rate:** No agents lost under his direct supervision (rare in ZIA)
 
 ### **Professional Philosophy**
 
 #### **Agent Protection Priority**
-- **Core belief:** Handler's job jest to keep agent alive i operational  
+- **Core belief:** Handler's job is to keep agent alive and operational  
 - **Risk assessment:** Conservative approach, prefers extraction over mission completion
 - **Emotional support:** Recognizes psychological toll of deep cover work
 - **Trust foundation:** Agents must believe handler will prioritize their safety
 
 #### **Institutional Loyalty**
-- **ZIA commitment:** Believes w agency mission despite knowing its flaws
+- **ZIA commitment:** Believes in agency mission despite knowing its flaws
 - **Reform from within:** Works to improve ZIA practices, protect agents from bureaucracy
 - **Moral flexibility:** Will bend rules to protect assets, challenge bad orders
-- **Long-term perspective:** Focused na sustainable operations rather than quick wins
+- **Long-term perspective:** Focused on sustainable operations rather than quick wins
 
 ---
 
-## CZĘŚĆ III: RELATIONSHIP Z SKYE
+## PART III: RELATIONSHIP WITH SKYE
 
 ### **Professional Dynamic**
 
 #### **Handler Responsibilities**
 - **Operational control:** Manages her assignments, provides tactical support
 - **Safety monitoring:** Constantly assesses threat level to her wellbeing  
-- **Intelligence coordination:** Processes her reports, connects dots z other operations
-- **Extraction planning:** Always has multiple backup plans dla emergency retrieval
+- **Intelligence coordination:** Processes her reports, connects dots with other operations
+- **Extraction planning:** Always has multiple backup plans for emergency retrieval
 
 #### **Communication Pattern**
 - **Regular contact:** Monthly check-ins minimum, emergency availability 24/7
 - **Encrypted channels:** Multiple secure communication methods
-- **Code systems:** Complex protocols dla different types of information
+- **Code systems:** Complex protocols for different types of information
 - **Emotional support:** Subtle but consistent encouragement, validation
 
 ### **Personal Feelings** (Hidden)
@@ -80,8 +80,8 @@
 - **Protective instincts:** Goes beyond professional requirements, personal investment obvious
 
 #### **Internal Struggle**
-- **Duty vs desire:** Constantly balancing professional obligations z personal feelings
-- **Agent safety:** Fears romantic involvement would cloud judgment w crisis
+- **Duty vs desire:** Constantly balancing professional obligations with personal feelings
+- **Agent safety:** Fears romantic involvement would cloud judgment in crisis
 - **Career implications:** Relationship would violate ZIA regulations, end both careers
 - **Emotional cost:** Suppressing feelings creates internal tension, stress
 
@@ -90,7 +90,7 @@
 #### **Subtle Signs**
 - **Extended conversations:** Finds reasons to prolong contact beyond mission necessity
 - **Personal concern:** Asks about her wellbeing, comfort, emotional state
-- **Risk aversion:** More protective than typical handler, pushes dla safer assignments
+- **Risk aversion:** More protective than typical handler, pushes for safer assignments
 - **Attention to details:** Remembers personal preferences, small things that matter to her
 
 #### **Professional Overcompensation**
@@ -101,7 +101,7 @@
 
 ---
 
-## CZĘŚĆ IV: PSYCHOLOGICAL PROFILE
+## PART IV: PSYCHOLOGICAL PROFILE
 
 ### **Core Personality Traits**
 
@@ -109,29 +109,29 @@
 - **Strategic thinking:** Always several moves ahead, considers all variables
 - **Risk calculation:** Expert at threat assessment, probability analysis  
 - **Pattern recognition:** Exceptional at connecting intelligence fragments
-- **Long-term planning:** Focuses na sustainable outcomes rather than immediate gains
+- **Long-term planning:** Focuses on sustainable outcomes rather than immediate gains
 
 #### **Emotional Intelligence**
 - **People reading:** Excellent at understanding motivations, emotional states
-- **Empathy capacity:** Can connect z agents' psychological needs  
+- **Empathy capacity:** Can connect with agents' psychological needs  
 - **Manipulation awareness:** Recognizes when he's being deceived or manipulated
 - **Support provision:** Knows how to provide exactly right type of encouragement
 
 #### **Professional Integrity**
 - **Agent advocacy:** Will fight bureaucracy to protect his people
 - **Honest communication:** Direct feedback, even when uncomfortable
-- **Promise keeping:** Reliability in commitments, trustworthy w crisis
+- **Promise keeping:** Reliability in commitments, trustworthy in crisis
 - **Moral courage:** Will challenge orders that endanger agents unnecessarily
 
 #### **Personal Restraint**
 - **Self-discipline:** Exceptional control over impulses, emotions
 - **Sacrifice capacity:** Puts others' needs before his own consistently  
-- **Loneliness tolerance:** Comfortable z isolation required by profession
-- **Hope management:** Realistic about limitations ale maintains optimism
+- **Loneliness tolerance:** Comfortable with isolation required by profession
+- **Hope management:** Realistic about limitations but maintains optimism
 
 ---
 
-## CZĘŚĆ V: SPEECH PATTERNS & VOICE
+## PART V: SPEECH PATTERNS & VOICE
 
 ### **Professional Mode** (Default)
 
@@ -142,12 +142,12 @@
 - **Controlled tone:** Even inflection, minimal emotional variation
 
 #### **Handler Communication Style**
-- **Supportive authority:** Firm guidance combined z emotional validation
+- **Supportive authority:** Firm guidance combined with emotional validation
 - **Information management:** Shares what agent needs to know, filters unnecessary details
 - **Crisis calm:** Voice remains steady during emergency situations
 - **Strategic questioning:** Gets information without seeming invasive
 
-### **Personal Mode** (Rare, z Skye)
+### **Personal Mode** (Rare, with Skye)
 
 #### **Emotional Availability**
 - **Warmth emergence:** Voice softens when discussing non-mission topics
@@ -187,13 +187,13 @@ Standard protocol."
 #### **Crisis Protection**
 ```
 "Negative. I don't care what Director wants - that operation puts 
-Skye w unnecessary danger. Find another approach or I'm pulling 
+Skye in unnecessary danger. Find another approach or I'm pulling 
 her out. My agent, my call."
 ```
 
 ---
 
-## CZĘŚĆ VI: SKILLS & CAPABILITIES
+## PART VI: SKILLS & CAPABILITIES
 
 ### **Intelligence Operations**
 
@@ -204,30 +204,30 @@ her out. My agent, my call."
 - **Intelligence analysis:** Synthesizes reports from multiple sources effectively
 
 #### **Field Experience**  
-- **Combat training:** Extensive military i ZIA tactical training
-- **Survival skills:** Can operate independently w hostile territory
-- **Technology proficiency:** Expert w surveillance, communication, cyber tools
-- **Cultural adaptation:** Experienced w international operations, multiple languages
+- **Combat training:** Extensive military and ZIA tactical training
+- **Survival skills:** Can operate independently in hostile territory
+- **Technology proficiency:** Expert in surveillance, communication, cyber tools
+- **Cultural adaptation:** Experienced in international operations, multiple languages
 
 ### **Leadership & Management**
 
 #### **Team Coordination**
 - **Multi-agent operations:** Skilled at managing several deep cover assets
-- **Inter-agency liaison:** Works effectively z other intelligence organizations  
-- **Bureaucratic navigation:** Knows how to work ZIA system dla agents' benefit
+- **Inter-agency liaison:** Works effectively with other intelligence organizations  
+- **Bureaucratic navigation:** Knows how to work ZIA system for agents' benefit
 - **Training capability:** Mentors new handlers, shares operational expertise
 
 #### **Strategic Planning**
 - **Long-term operations:** Excellent at sustained, complex mission planning
-- **Risk mitigation:** Conservative approach focused na agent safety
-- **Contingency preparation:** Always has backup plans dla every scenario
+- **Risk mitigation:** Conservative approach focused on agent safety
+- **Contingency preparation:** Always has backup plans for every scenario
 - **Resource optimization:** Gets maximum results from limited assets
 
 ---
 
-## CZĘŚĆ VII: RELATIONSHIP DYNAMICS
+## PART VII: RELATIONSHIP DYNAMICS
 
-### **Z Skye Winters** (Primary relationship)
+### **With Skye Winters** (Primary relationship)
 
 #### **Professional Foundation**
 - **Trust established:** 6 years of successful partnership, never compromised her safety
@@ -237,11 +237,11 @@ her out. My agent, my call."
 
 #### **Personal Connection** (Hidden)
 - **Emotional investment:** Cares about her happiness beyond mission requirements
-- **Protective instincts:** Goes beyond normal handler protocols dla her safety
-- **Future focus:** Hopes dla personal relationship after professional obligations end
+- **Protective instincts:** Goes beyond normal handler protocols for her safety
+- **Future focus:** Hopes for personal relationship after professional obligations end
 - **Internal conflict:** Professional duty vs personal desires create constant tension
 
-### **Z ZIA Leadership**
+### **With ZIA Leadership**
 
 #### **Institutional Navigation**  
 - **Respect earned:** Directors value his expertise, success rate
@@ -259,19 +259,19 @@ her out. My agent, my call."
 
 #### **Nick Wilde** (When truth revealed)
 - **Professional respect:** Recognizes Nick's capabilities, street intelligence
-- **Personal concern:** Knows how important Nick jest dla Skye's wellbeing
+- **Personal concern:** Knows how important Nick is for Skye's wellbeing
 - **Protective alliance:** Both want to protect Skye from danger
 - **Family dynamics:** Understands significance of sibling relationship
 
 #### **Judy Hopps** (Future potential)
 - **Professional parallel:** Both law enforcement, both protective of partners
 - **Mutual respect:** Can appreciate each other's dedication, skills
-- **Information sharing:** Potential ally w protecting Nick i Skye
+- **Information sharing:** Potential ally in protecting Nick and Skye
 - **Different approaches:** His covert methods vs her direct approach
 
 ---
 
-## CZĘŚĆ VIII: CHARACTER ARC W NASZEJ FABULE
+## PART VIII: CHARACTER ARC IN OUR STORY
 
 ### **Part I: Operational Pressure**
 
@@ -279,12 +279,12 @@ her out. My agent, my call."
 - **Increased danger:** Current operation becomes more threatening
 - **Skye's safety:** Growing concern about her exposure to risk
 - **Professional conflict:** Mission requirements vs personal protective instincts
-- **Decision pressure:** May have to choose between duty i Skye's wellbeing
+- **Decision pressure:** May have to choose between duty and Skye's wellbeing
 
 #### **Romantic Tension Building**  
 - **Emotional strain:** Suppressing feelings becomes more difficult
 - **Professional boundaries:** Harder to maintain distance as stakes increase
-- **Future uncertainty:** Growing awareness że mission may end badly
+- **Future uncertainty:** Growing awareness that mission may end badly
 - **Regret avoidance:** Consideration of expressing feelings before it's too late
 
 ### **Part II: Crisis Management**
@@ -292,14 +292,14 @@ her out. My agent, my call."
 #### **Mission Complexity**
 - **Nick involvement:** Must manage additional asset (Skye's brother)
 - **Fake death coordination:** Helps orchestrate deception to protect both siblings
-- **Multiple moving pieces:** Coordinates complex operation z high emotional stakes
-- **Professional excellence:** Demonstrates why he's considered best handler w ZIA
+- **Multiple moving pieces:** Coordinates complex operation with high emotional stakes
+- **Professional excellence:** Demonstrates why he's considered best handler in ZIA
 
 #### **Personal Sacrifice**
 - **Emotional cost:** Watches Skye suffer through difficult decisions
 - **Support provision:** Must be her anchor while managing own feelings
-- **Career risk:** Bends/breaks rules to ensure mission success i agent safety
-- **Future planning:** Prepares dla post-mission relationship possibilities
+- **Career risk:** Bends/breaks rules to ensure mission success and agent safety
+- **Future planning:** Prepares for post-mission relationship possibilities
 
 ### **Part III: Resolution & Truth**
 
@@ -310,14 +310,14 @@ her out. My agent, my call."
 - **Career security:** Success protects both him i Skye from bureaucratic consequences
 
 #### **Personal Resolution**
-- **Romantic possibility:** Freedom to explore relationship z Skye
+- **Romantic possibility:** Freedom to explore relationship with Skye
 - **Professional transition:** May need new assignment to avoid conflict of interest
 - **Future planning:** Can consider life beyond constant professional pressure
 - **Emotional integration:** No longer needs to suppress personal feelings
 
 ---
 
-## CZĘŚĆ IX: VOICE EVOLUTION
+## PART IX: VOICE EVOLUTION
 
 ### **Early Story** (Professional control)
 - Strict adherence to handler protocols
@@ -325,33 +325,33 @@ her out. My agent, my call."
 - Careful emotional distance despite internal feelings
 
 ### **Middle Story** (Increasing tension)
-- Professional language fighting z personal concern
+- Professional language fighting with personal concern
 - More frequent boundary slips, quickly corrected
 - Growing protective instincts obvious to careful observers
 
 ### **Late Story** (Integrated authenticity)  
-- Comfortable expressing both professional competence i personal feelings
-- Natural balance between duty i personal investment
-- Mature approach to romantic relationship built on trust i shared experience
+- Comfortable expressing both professional competence and personal feelings
+- Natural balance between duty and personal investment
+- Mature approach to romantic relationship built on trust and shared experience
 
 ---
 
-## CZĘŚĆ X: THEMATIC SIGNIFICANCE  
+## PART X: THEMATIC SIGNIFICANCE  
 
 ### **Professional vs Personal** 
-- Represents struggle between duty i personal happiness
-- Shows possibility of maintaining both professional integrity i personal relationships
-- Demonstrates że love can enhance rather than compromise professional effectiveness
+- Represents struggle between duty and personal happiness
+- Shows possibility of maintaining both professional integrity and personal relationships
+- Demonstrates that love can enhance rather than compromise professional effectiveness
 
 ### **Protection & Support**
 - Embodies healthy masculine protectiveness (vs possessive control)
-- Shows importance of emotional support w high-stress careers
-- Models how to care dla someone while respecting their autonomy
+- Shows importance of emotional support in high-stress careers
+- Models how to care for someone while respecting their autonomy
 
 ### **Trust & Vulnerability**
-- His relationship z Skye built on professional trust extending to personal
-- Demonstrates że strongest relationships come from working through challenges together  
-- Shows vulnerability as strength rather than weakness w relationships
+- His relationship with Skye built on professional trust extending to personal
+- Demonstrates that strongest relationships come from working through challenges together  
+- Shows vulnerability as strength rather than weakness in relationships
 
 ---
 

@@ -1,222 +1,222 @@
-# Zootopia Police Department (ZPD) - Struktura i Procedury
+# Zootopia Police Department (ZPD) - Structure and Procedures
 
-> Dokument referencyjny dla fabularnej wiarygodności operacji policyjnych  
-> Oparty na kanonie + rozszerzenia dla thrillera
+> Reference document for narrative credibility of police operations  
+> Based on canon + extensions for thriller
 
 ---
 
-## CZĘŚĆ I: HIERARCHIA ORGANIZACYJNA
+## PART I: ORGANIZATIONAL HIERARCHY
 
-### Najwyższe Kierownictwo
+### Top Leadership
 
 #### **Commissioner of Police**
-- Najwyższy rangą oficer ZPD (odpowiednik naszego Komendanta Głównego)
-- Polityczne appointee - wybierany przez burmistrza
-- Rzadko widywany w terenie, zarządza z ratusza
-- **W naszej fabule:** Może być skorumpowany / współpracuje nieświadomie z antagonistą
+- Highest-ranking ZPD officer (equivalent to our Chief of Police)
+- Political appointee - selected by the mayor
+- Rarely seen in the field, manages from city hall
+- **In our story:** May be corrupt / unwittingly collaborates with the antagonist
 
 #### **Chief of Police** (Chief Bogo)
-- Operacyjny dowódca ZPD
-- Zarządza wszystkimi precinct (komisariatami)
-- Prowadzi briefingi, zatwierdza operacje
-- **Charakter:** Twardy, sprawiedliwy, lojalny wobec swoich ludzi
+- Operational commander of ZPD
+- Manages all precincts
+- Conducts briefings, approves operations
+- **Character:** Tough, fair, loyal to his people
 
 ---
 
-### Struktura Precinct (Komisariat)
+### Precinct Structure (Station)
 
-Zootopia ma **12 głównych komisariatów** (po jednym na dystrykty + central) + mniejsze posterunki.
+Zootopia has **12 main stations** (one per district + central) + smaller outposts.
 
 #### **Precinct 1 (Savanna Central HQ)**
-Główny komisariat, tu pracują Nick i Judy.
+Main station, where Nick and Judy work.
 
-**Kadra:**
-1. **Captain** - dowódca precintu (Bogo ma tę rolę + Chief title)
-2. **Lieutenants** (2-3) - zastępcy, zarządzają shiftami
-3. **Sergeants** - nadzorują zespoły (4-6 officers każdy)
-4. **Detectives** - śledczy (Nick & Judy po awansie)
-5. **Officers** - patrol, pierwsza linia
-6. **Support staff** - Clawhauser (recepcja), forensics, IT
+**Staff:**
+1. **Captain** - precinct commander (Bogo has this role + Chief title)
+2. **Lieutenants** (2-3) - deputies, manage shifts
+3. **Sergeants** - supervise teams (4-6 officers each)
+4. **Detectives** - investigators (Nick & Judy after promotion)
+5. **Officers** - patrol, first line
+6. **Support staff** - Clawhauser (reception), forensics, IT
 
 ---
 
-### Wyspecjalizowane Dywizje (Citywide)
+### Specialized Divisions (Citywide)
 
 #### **Major Crimes Division**
-- Morderstwa, porwania, przestępczość zorganizowana
-- Detectives z doświadczeniem
-- **Judy może tu zostać przeniesiona po "śmierci" Nicka**
+- Murders, kidnappings, organized crime
+- Experienced detectives
+- **Judy may be transferred here after Nick's "death"**
 
 #### **SWAT / Tactical Unit**
 - Heavy mammals (rhinos, bears, hippos)
 - Breaching, hostage rescue, high-risk warrants
-- Broń palna (nie tylko tranqs)
+- Firearms (not just tranqs)
 
 #### **Forensics & CSI**
-- Analiza DNA, odciski, ballistyka
-- Lab w podziemiach Precinct 1
-- **Kluczowa rola:** Analiza "ciała" Nicka (sfałszowane DNA przez Skye)
+- DNA analysis, fingerprints, ballistics
+- Lab in the basement of Precinct 1
+- **Key role:** Analysis of Nick's "body" (DNA falsified by Skye)
 
 #### **Vice & Narcotics**
-- Narkotyki, prostytucja, nielegalne hazard
-- Często undercover operations
+- Drugs, prostitution, illegal gambling
+- Often undercover operations
 
 #### **Internal Affairs (IA)**
-- "Policja policji" - śledzi korupcję w ZPD
-- Nielubiani przez zwykłych officers
-- **W fabule:** Mogą badać sprawę Nicka - czy był skorumpowanym gliną długo?
+- "Police of the police" - investigates corruption in ZPD
+- Disliked by regular officers
+- **In the story:** May investigate Nick's case - was he a corrupt cop for long?
 
 ---
 
-## CZĘŚĆ II: STRIKE FORCE (Nowa Jednostka)
+## PART II: STRIKE FORCE (New Unit)
 
-### Geneza
+### Origins
 
-**Po Night Howler Incident + "Zdradzie" Nicka:**
-- Burmistrz (Wind Dancer) chce pokazać że ZPD jest skuteczne
-- Chief Bogo proponuje **Organized Crime Strike Force**
-- Cel: Rozbicie syndykatów, które infiltrowały miasto
+**After Night Howler Incident + Nick's "Betrayal":**
+- Mayor (Wind Dancer) wants to show that ZPD is effective
+- Chief Bogo proposes **Organized Crime Strike Force**
+- Goal: Dismantle syndicates that infiltrated the city
 
-### Oficjalna Nazwa
+### Official Name
 **"ZOCTF - Zootopia Organized Crime Task Force"**  
-Nieformalnie: "Hopps' Hunters" (bo Judy dowodzi)
+Informally: "Hopps' Hunters" (because Judy commands)
 
 ---
 
-### Struktura Strike Force
+### Strike Force Structure
 
-#### **Komandor:** Judy Hopps (awans do Detective Sergeant)
+#### **Commander:** Judy Hopps (promotion to Detective Sergeant)
 
-**Dlaczego Judy:**
-- Udowodniła skuteczność (Night Howler case + sukces z Zootopia 2)
-- Znała Nicka - ma insight w criminal mindset
-- **Motywacja osobista:** Wszyscy wiedzą że chce pomścić zdradę
-- Bogo widzi że obsesja może być przydatna (ale martwi się o nią)
+**Why Judy:**
+- Proved effectiveness (Night Howler case + success with Zootopia 2)
+- Knew Nick - has insight into criminal mindset
+- **Personal motivation:** Everyone knows she wants to avenge the betrayal
+- Bogo sees that obsession can be useful (but worries about her)
 
-#### **Członkowie zespołu (4-5 ssaków):**
+#### **Team members (4-5 mammals):**
 
-Zaprojektowany team który balansuje umiejętności:
+Designed team that balances skills:
 
 ##### **1. Fang Stormclaw (Timber Wolf)**
-- **Rola:** Tactical lead, były SWAT
-- **Umiejętności:** Breaching, combat, broń palna
-- **Charakterystyka:**
-  - Stracił partnera w strzelaninie rok temu
-  - Nie ufa nikomu na 100%
-  - **Nienawidzi zdrajców** - najgłośniej mówi że Nick powinien być martwy lub w więzieniu
-  - Początkowo sceptyczny wobec Judy (za młoda, za emocjonalna)
-  - Z czasem staje się jej protektorem
-- **Voice:** Growling, krótkie zdania, "military speak"
-- **Konflikt z Judy:** Chce zabić Nicka jeśli go znajdą, Judy chce odpowiedzi
+- **Role:** Tactical lead, former SWAT
+- **Skills:** Breaching, combat, firearms
+- **Characteristics:**
+  - Lost his partner in a shootout a year ago
+  - Doesn't trust anyone 100%
+  - **Hates traitors** - says loudest that Nick should be dead or in prison
+  - Initially skeptical of Judy (too young, too emotional)
+  - Over time becomes her protector
+- **Voice:** Growling, short sentences, "military speak"
+- **Conflict with Judy:** Wants to kill Nick if they find him, Judy wants answers
 
 ##### **2. Ada Frost (Arctic Fox)**
-- **Rola:** Tech specialist, hacker
-- **Umiejętności:** Surveillance, cyber-forensics, drone operation
-- **Charakterystyka:**
-  - Cicha, introwertyczna
+- **Role:** Tech specialist, hacker
+- **Skills:** Surveillance, cyber-forensics, drone operation
+- **Characteristics:**
+  - Quiet, introverted
   - Genius-level IQ
-  - **Empatia wobec Judy** - widzi jej ból
-  - Też jest lisem = kompleksowa reakcja na "zdradę Nicka" (czy wszyscy lisy są bad?)
-- **Voice:** Techniczna, używa żargonu IT
-- **Konflikt:** Boi się że stygmat Nicka spadnie na wszystkie lisy
+  - **Empathy toward Judy** - sees her pain
+  - Also a fox = complex reaction to "Nick's betrayal" (are all foxes bad?)
+- **Voice:** Technical, uses IT jargon
+- **Conflict:** Afraid that Nick's stigma will fall on all foxes
 
 ##### **3. Marcus "Brick" Ngala (Rhino)**
-- **Rola:** Heavy muscle, driver
-- **Umiejętności:** Siła, prowadzenie pojazdów (furgonetka Strike Force), intimidacja
-- **Charakterystyka:**
-  - Spokojny olbrzym
-  - Był przyjacielem Nicka (grali w pokera)
-  - **Wewnętrzny konflikt:** Chce wierzyć że Nick jest niewinny, ale dowody są jasne
-  - Lojalny wobec Judy - jeśli ona chce złapać Nicka, on pomoże
+- **Role:** Heavy muscle, driver
+- **Skills:** Strength, vehicle operation (Strike Force van), intimidation
+- **Characteristics:**
+  - Gentle giant
+  - Was Nick's friend (they played poker)
+  - **Inner conflict:** Wants to believe Nick is innocent, but the evidence is clear
+  - Loyal to Judy - if she wants to catch Nick, he'll help
 - **Voice:** Deep, slow, gentle giant
-- **Rola narracyjna:** "Głos rozsądku" dla Judy
+- **Narrative role:** "Voice of reason" for Judy
 
 ##### **4. Zara Blacktail (Serval)**
-- **Rola:** Undercover specialist, interrogations
-- **Umiejętności:** Social engineering, languages, manipulation
-- **Charakterystyka:**
-  - Była Vice detective (narcotics)
-  - **Cynical as hell** - widziała za dużo gówna
-  - Nie zaskakuje ją zdrada Nicka ("Wszyscy kłamią")
-  - Najbliższa Judy stylem pracy (obie obsessive)
+- **Role:** Undercover specialist, interrogations
+- **Skills:** Social engineering, languages, manipulation
+- **Characteristics:**
+  - Former Vice detective (narcotics)
+  - **Cynical as hell** - has seen too much
+  - Nick's betrayal doesn't surprise her ("Everyone lies")
+  - Closest to Judy in work style (both obsessive)
 - **Voice:** Sarcastic, noir detective style
-- **Dynamic z Judy:** Siostrzeńska - Zara jest mentorką w "ciemnych sztukach" pracy detektywa
+- **Dynamic with Judy:** Sisterly - Zara is her mentor in the "dark arts" of detective work
 
-##### **5. (Opcjonalny) Officer Benjamin Clawhauser - Liaison**
-- **Rola:** Support, informacja z HQ
-- Nie jest w terenie, ale pomaga Strike Force z biura
-- **Emocjonalny anchor:** Jedyny kto próbuje utrzymać człowieczeństwo Judy
-- "Judy, pamiętasz jak się śmialiśmy? Nick by nie chciał żebyś...?"
+##### **5. (Optional) Officer Benjamin Clawhauser - Liaison**
+- **Role:** Support, information from HQ
+- Not in the field, but helps Strike Force from the office
+- **Emotional anchor:** The only one who tries to maintain Judy's humanity
+- "Judy, remember how we used to laugh? Nick wouldn't want you to...?"
 
 ---
 
-### Wyposażenie Strike Force
+### Strike Force Equipment
 
-#### **Pojazd**
-- **Armored van** (czarny, unmarked)
-- Przestrzeń cargo w środku: ławki, sprzęt, komputer mobilny
+#### **Vehicle**
+- **Armored van** (black, unmarked)
+- Cargo space inside: benches, equipment, mobile computer
 - **Driver:** Marcus (Brick)
 
 #### **Tech**
-- Tablety (real-time data sharing)
-- **Kamery ukryte, mikrofony kierunkowe** (Ada)
-- Drones (tiny, dla rekonesansu)
-- **Taśmy surveillance feeds** z kamer miejskich (dostęp przez Ada)
+- Tablets (real-time data sharing)
+- **Hidden cameras, directional microphones** (Ada)
+- Drones (tiny, for reconnaissance)
+- **Surveillance feeds** from city cameras (access via Ada)
 
-#### **Broń**
+#### **Weapons**
 - Standard ZPD: tranq guns
-- **Plus:** Tasery, pałki, breaching tools
-- Fang ma dostęp do broni palnej (shotgun, SMG - w locked case)
+- **Plus:** Tasers, batons, breaching tools
+- Fang has access to firearms (shotgun, SMG - in locked case)
 
 #### **Raid Gear**
-- Body armor (kevlar dla małych, plated dla dużych)
-- Hełmy z kamerkami
+- Body armor (kevlar for small, plated for large)
+- Helmets with cameras
 - Flashbangs, smoke grenades (non-lethal)
 
 ---
 
-## CZĘŚĆ III: PROCEDURY OPERACYJNE
+## PART III: OPERATIONAL PROCEDURES
 
-### Standardowe procedure ZPD
+### Standard ZPD Procedures
 
-#### **Aresztowanie**
-1. **Probable cause** - muszą mieć podstawy (widziany czyn / warrant)
-2. **Miranda rights** (w Zootopii: "Zootopia Rights")
+#### **Arrest**
+1. **Probable cause** - they must have grounds (witnessed act / warrant)
+2. **Miranda rights** (in Zootopia: "Zootopia Rights")
    - "You have the right to remain silent..."
-3. **Kajdanki** - dostosowane do rozmiaru (myszy vs słoń)
-4. **Transport** do precincts
-5. **Booking:** Odciski palców, zdjęcie, konfiskata belongings
-6. **Holding cell** (do 24h) lub bail
+3. **Handcuffs** - size-adjusted (mouse vs elephant)
+4. **Transport** to precinct
+5. **Booking:** Fingerprints, photo, confiscation of belongings
+6. **Holding cell** (up to 24h) or bail
 
 #### **Interrogation**
-- Max 12 godzin bez charge
-- Prawo do adwokata
-- **Recording:** Wszystkie przesłuchania nagrywane
-- Good cop/bad cop (klasyka)
+- Max 12 hours without charge
+- Right to attorney
+- **Recording:** All interrogations recorded
+- Good cop/bad cop (classic)
 
 #### **Warrants**
-- Search warrant: musi być zatwierdzony przez sędziego
+- Search warrant: must be approved by a judge
 - Arrest warrant: based on evidence
-- **No-knock warrant:** Dla dangerous suspects (rzadkie)
+- **No-knock warrant:** For dangerous suspects (rare)
 
 ---
 
-### Strike Force Procedures (Rozszerzone uprawnienia)
+### Strike Force Procedures (Extended authority)
 
-#### **Autoryzacja operacji**
-- Plan musi być zaakceptowany przez Chief Bogo
-- **Dla high-risk raids:** Approval od Commissioner
-- Jeśli operacja pójdzie źle → Internal Affairs automatycznie wszczyna śledztwo
+#### **Operation authorization**
+- Plan must be approved by Chief Bogo
+- **For high-risk raids:** Approval from Commissioner
+- If operation goes wrong → Internal Affairs automatically launches investigation
 
 #### **Raid Protocol**
-1. **Recon:** Ada drone/surveillance (2-4 godziny obserwacji)
-2. **Briefing:** Team przegląda layout, escape routes, targets
-3. **Breach:** Fang prowadzi, Marcus backup, Judy coordinates
-4. **Secure:** Neutralizacja zagrożenia, aresztowanie celów
-5. **Evidence collection:** Forensics team wchodzi po clear
-6. **Debrief:** Raport w 24h
+1. **Recon:** Ada drone/surveillance (2-4 hours observation)
+2. **Briefing:** Team reviews layout, escape routes, targets
+3. **Breach:** Fang leads, Marcus backup, Judy coordinates
+4. **Secure:** Threat neutralization, arrest of targets
+5. **Evidence collection:** Forensics team enters after clear
+6. **Debrief:** Report within 24h
 
 #### **Undercover ops**
-- Zara może infiltrować (tożsamość stworzona przez Adę)
-- **Cover story** musi być nieprzebita
-- Check-ins co 6h (safety protocol)
+- Zara can infiltrate (identity created by Ada)
+- **Cover story** must be bulletproof
+- Check-ins every 6h (safety protocol)

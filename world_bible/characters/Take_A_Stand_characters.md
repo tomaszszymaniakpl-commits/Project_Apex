@@ -1,59 +1,59 @@
-# BIBLIOTEKA BOHATERÓW - TAKE A STAND
+# CHARACTER LIBRARY - TAKE A STAND
 
-Opowiadanie: **Take A Stand** by Crewefox  
-Słowa: 155,628 | Rozdziały: 31/31  
-Gatunek: Drama/Romance/Action/Politics  
+Story: **Take A Stand** by Crewefox  
+Words: 155,628 | Chapters: 31/31  
+Genre: Drama/Romance/Action/Politics  
 
 ---
 
-## POSTACI GŁÓWNE
+## MAIN CHARACTERS
 
 ### **Judy Hopps**
-**Gatunek:** Królik (rabbit)  
-**Rola:** Główna bohaterka, oficer ZPD  
+**Species:** Rabbit  
+**Role:** Main protagonist, ZPD officer  
 
-**WPROWADZENIE:**
-Dialog first - przedstawiona w akcji goniąc za płaczącą Luną
+**INTRODUCTION:**
+Dialog first - introduced in action chasing after crying Luna
 > "Sweetie, stop." Judy pleaded, tears in her own amethyst eyes, putting a paw on the kit's shoulder.
 
 **VISUAL DESCRIPTION:**
-- Królica o fioletowych/ametystowych oczach
-- Nosi uniform ZPD lub casual clothes
-- Opisywana przez "paws", "ears", animal anatomy
+- Rabbit with purple/amethyst eyes
+- Wears ZPD uniform or casual clothes
+- Described through "paws", "ears", animal anatomy
 
 **CHARACTER VOICE:**
 - Professional: "Officer Hopps and this is Officer Wilde"
-- Casual z Nickiem: "Very funny Nick", "Sweet cheese and crackers"
-- Maternal z Luną: "I know it's hard at the moment, but we can get through this"
-- Nick's nicknames dla niej: "Carrots", "Fluff", "sweetheart"
+- Casual with Nick: "Very funny Nick", "Sweet cheese and crackers"
+- Maternal with Luna: "I know it's hard at the moment, but we can get through this"
+- Nick's nicknames for her: "Carrots", "Fluff", "sweetheart"
 
 **PERSONALITY MARKERS:**
-- **Impulsywna:** Na imprezach przesadza z alkoholem ("Clawhauser's birthday", "New Year's Eve")
-- **Sprawiedliwa:** "I miss the buzz of chasing after a crook or looking for clues"
-- **Wrażliwa:** Płacze gdy musi powiedzieć prawdę Lunie
-- **Idealistyczna:** "make the world a better place"
-- **Romantycznie niepewna:** Zazdrosna o "her" (mystery date Nicka)
+- **Impulsive:** At parties overdoes alcohol ("Clawhauser's birthday", "New Year's Eve")
+- **Just:** "I miss the buzz of chasing after a crook or looking for clues"
+- **Sensitive:** Cries when she has to tell Luna the truth
+- **Idealistic:** "make the world a better place"
+- **Romantically uncertain:** Jealous of "her" (Nick's mystery date)
 
-**FUNCTION W FABULE:**
-- Motor akcji w sprawie M.M. gang
-- Central figure konfliktu inter-species rights
-- Maternal figure dla Luny
-- Romantic interest dla Nicka
+**FUNCTION IN STORY:**
+- Driver of action in M.M. gang case
+- Central figure in inter-species rights conflict
+- Maternal figure for Luna
+- Romantic interest for Nick
 
-**RELACJE:**
-- **Nick:** Partnerka zawodowa, romantic tension, nazywa go "dumb fox" affectionately
-- **Luna:** Maternal relationship, ochrona dziecka
+**RELATIONSHIPS:**
+- **Nick:** Professional partner, romantic tension, calls him "dumb fox" affectionately
+- **Luna:** Maternal relationship, child protection
 - **Clawhauser:** Close friendship, confidant
-- **Rodzice:** Bonnie initially against Nick, Stu supportive
+- **Parents:** Bonnie initially against Nick, Stu supportive
 
 ---
 
-### **Nicholas Piberius Wilde** (wcześniej Nick Loxley)
-**Gatunek:** Lis rudy (red fox)  
-**Rola:** Główny bohater, oficer ZPD  
+### **Nicholas Piberius Wilde** (formerly Nick Loxley)
+**Species:** Red fox  
+**Role:** Main protagonist, ZPD officer  
 
-**WPROWADZENIE:**
-Dialog first jako charming partner
+**INTRODUCTION:**
+Dialog first as charming partner
 > "Do my ears deceive me? But did Officer Fluff just say she disliked serving the mammals of Zootopia?" Her partner, the ever charming Nick Wilde, teased from the passenger seat
 
 **VISUAL DESCRIPTION:**
@@ -69,21 +69,21 @@ Dialog first jako charming partner
 - **Formal situations:** Uses full names, respectful
 
 **PERSONALITY MARKERS:**
-- **Charming trickster:** Jokes ale ma big heart
-- **Protective:** Worried o Judy's drinking, safety
-- **Secretive:** Mystery date, nie telling Judy everything
-- **Inter supporter:** W związkach międzygatunkowych
-- **Family oriented:** Loving father do Luny
+- **Charming trickster:** Jokes but has big heart
+- **Protective:** Worried about Judy's drinking, safety
+- **Secretive:** Mystery date, not telling Judy everything
+- **Inter supporter:** In inter-species relationships
+- **Family oriented:** Loving father to Luna
 
 **BACKSTORY:**
-- Syn Robina Hood i Marian
-- Academy graduation year ago
-- Przeszłość jako con artist
-- Związek z Victorią (zakończony), ojciec Luny
+- Son of Robin Hood and Marian
+- Academy graduation a year ago
+- Past as con artist
+- Relationship with Victoria (ended), father of Luna
 
-**RELACJE:**
+**RELATIONSHIPS:**
 - **Judy:** Partnership/romantic tension, "best friend and partner"
-- **Luna:** Biological father, loving but absent przez pracę
+- **Luna:** Biological father, loving but absent due to work
 - **Clawhauser:** Close friend, confidant about feelings
 - **Marian:** Mother relationship, supportive
 - **Robin:** Estranged father relationship, conflicted
@@ -91,10 +91,10 @@ Dialog first jako charming partner
 ---
 
 ### **Luna Wilde**
-**Gatunek:** Lisica (fox kit)  
-**Rola:** Córka Nicka, emotional center  
+**Species:** Fox kit (vixen)  
+**Role:** Nick's daughter, emotional center  
 
-**WPROWADZENIE:**
+**INTRODUCTION:**
 Emotional opening - crying, seeking comfort
 > "I'm sick of this!" the kit shrieked, tears falling onto her flowery summer dress "I just want things to go back to normal."
 
@@ -111,10 +111,10 @@ Emotional opening - crying, seeking comfort
 **PERSONALITY MARKERS:**
 - **Sensitive:** Cries easily, affected by parents' problems
 - **Curious:** Explores, asks questions
-- **Loving:** Wants normalność with both parents
+- **Loving:** Wants normality with both parents
 - **Intelligent:** Figuring out connections (Nick's police file)
 
-**RELACJE:**
+**RELATIONSHIPS:**
 - **Nick:** Father - loves him but misses him due to work
 - **Judy:** Growing maternal relationship
 - **Victoria:** Mother - dying of cancer
@@ -122,13 +122,13 @@ Emotional opening - crying, seeking comfort
 
 ---
 
-## DRUGOPLANOWE - ZPD I SŁUŻBY
+## SUPPORTING - ZPD AND SERVICES
 
 ### **Benjamin Clawhauser** ("Spots")
-**Gatunek:** Gepard (cheetah)  
-**Rola:** ZPD officer, romantic subplot  
+**Species:** Cheetah  
+**Role:** ZPD officer, romantic subplot  
 
-**WPROWADZENIE:**
+**INTRODUCTION:**
 Emotional vulnerability - crying in locker room
 > "Benjamin Clawhauser on the bench beside the lockers with his head in his paws quietly sobbing"
 
@@ -143,7 +143,7 @@ Emotional vulnerability - crying in locker room
 - **Loyal friend:** To both Nick and Judy
 - **Heartbroken:** Over Mason/Bogo
 
-**RELACJE:**
+**RELATIONSHIPS:**
 - **Nick:** Close friend, drinking buddy, confidant
 - **Judy:** Friend, romantic advisor
 - **Chief Bogo (Mason):** Ex-boyfriend, secret relationship
@@ -151,8 +151,8 @@ Emotional vulnerability - crying in locker room
 ---
 
 ### **Chief Mason Bogo**
-**Gatunek:** Bawół (cape buffalo)  
-**Rola:** ZPD Chief, closeted homosexual  
+**Species:** Cape buffalo  
+**Role:** ZPD Chief, closeted homosexual  
 
 **INTRODUCTION:**
 Authority through voice, intimidation
@@ -161,22 +161,22 @@ Authority through voice, intimidation
 **CHARACTER VOICE:**
 - **Authoritative:** Direct orders, intimidation
 - **Formal:** "Officers", rank usage
-- **Hidden vulnerability:** W private moments z Clawhauser
+- **Hidden vulnerability:** In private moments with Clawhauser
 
 **PERSONALITY MARKERS:**
-- **Closeted:** Ukrywa sexuality przez fear of career
+- **Closeted:** Hides sexuality due to fear for career
 - **Professional:** Maintains order, discipline
 - **Internally conflicted:** Wants Clawhauser back
 
-**RELACJE:**
+**RELATIONSHIPS:**
 - **Clawhauser:** Secret romantic relationship, ended by fear
-- **Nick/Judy:** Strict boss ale respects their work
+- **Nick/Judy:** Strict boss but respects their work
 
 ---
 
 ### **Nala Priderock** ("Rocky")
-**Gatunek:** Lwica (lioness)  
-**Rola:** ZPD officer, comic relief, shipper  
+**Species:** Lioness  
+**Role:** ZPD officer, comic relief, shipper  
 
 **INTRODUCTION:**
 Enthusiastic energy, interrupt moment
@@ -184,7 +184,7 @@ Enthusiastic energy, interrupt moment
 
 **CHARACTER VOICE:**
 - **Enthusiastic:** "Judy!", "Vodka Witch!"
-- **Trickster:** Plans pranks na Francine
+- **Trickster:** Plans pranks on Francine
 - **Shipper:** Rooting for Nick/Judy
 
 **PERSONALITY MARKERS:**
@@ -192,7 +192,7 @@ Enthusiastic energy, interrupt moment
 - **Romantic supporter:** Strongly pro-inter species
 - **Party animal:** Loves nightlife
 
-**RELACJE:**
+**RELATIONSHIPS:**
 - **Judy:** Close friend, confidant
 - **Francine:** Partner (professional)
 - **Simba:** Husband, family life
@@ -200,8 +200,8 @@ Enthusiastic energy, interrupt moment
 ---
 
 ### **Skye Winter**
-**Gatunek:** Lis arktyczny (arctic fox)  
-**Rola:** MCB District Director  
+**Species:** Arctic fox  
+**Role:** MCB District Director  
 
 **INTRODUCTION:**
 Professional competence, leadership
@@ -217,7 +217,7 @@ Professional competence, leadership
 - **Strategic:** Plans complex operations
 - **Relationship-supportive:** Pro-inter species
 
-**RELACJE:**
+**RELATIONSHIPS:**
 - **Jack Savage:** Romantic partner
 - **Judy:** Professional respect, growing friendship
 - **Nick:** Professional respect
@@ -225,35 +225,35 @@ Professional competence, leadership
 ---
 
 ### **Jack Savage** ("Skippy")
-**Gatunek:** Królik (buck rabbit)  
-**Rola:** MCB Agent, Nick's childhood friend  
+**Species:** Buck rabbit  
+**Role:** MCB Agent, Nick's childhood friend  
 
 **INTRODUCTION:**
-Professional context ale personal history
+Professional context but personal history
 > "a grey buck Rabbit with black stripes on his cheeks and his ears, 'Agent Guy Nottingham and Agent Jack Savage have been studying the M.M gang for quite some time'"
 
 **CHARACTER VOICE:**
 - **Professional:** MCB training
-- **Friendly:** Personal connection z Nickiem
-- **Mix formal/casual:** W zależności od sytuacji
+- **Friendly:** Personal connection with Nick
+- **Mix formal/casual:** Depending on situation
 
 **BACKSTORY:**
-- Childhood friend Nicka z Sherwood
-- Difficult past, ale turned life around
-- Adopted przez Marian i Robina
+- Childhood friend of Nick from Sherwood
+- Difficult past, but turned life around
+- Adopted by Marian and Robin
 
-**RELACJE:**
+**RELATIONSHIPS:**
 - **Nick:** Childhood friend, professional colleague
 - **Skye:** Romantic partner
 - **Marian:** Adoptive mother figure
 
 ---
 
-## ANTAGONIŚCI
+## ANTAGONISTS
 
 ### **Dawn Bellwether**
-**Gatunek:** Owca (ewe)  
-**Rola:** Główna antagonistka  
+**Species:** Ewe  
+**Role:** Main antagonist  
 
 **INTRODUCTION:**
 Menacing return, recognition scene
@@ -269,15 +269,15 @@ Menacing return, recognition scene
 - **Manipulative:** Uses others
 - **Vengeful:** Against Judy specifically
 
-**RELACJE:**
+**RELATIONSHIPS:**
 - **Judy:** Primary nemesis
 - **Rattigan/Misdaad:** Criminal alliance
 
 ---
 
 ### **Robin Hood** (Robin Loxley)
-**Gatunek:** Lis rudy (red fox)  
-**Rola:** Anti-hero, leader gangu M.M.  
+**Species:** Red fox  
+**Role:** Anti-hero, leader of M.M. gang  
 
 **INTRODUCTION:**
 Dramatic entrance, theatrical
@@ -293,7 +293,7 @@ Dramatic entrance, theatrical
 - **Charismatic leader:** Commands loyalty
 - **Complex father:** Abandoned Nick for "greater good"
 
-**RELACJE:**
+**RELATIONSHIPS:**
 - **Nick:** Estranged son, complex legacy
 - **Marian:** Devoted husband
 - **Little John:** Partner in crime
@@ -301,8 +301,8 @@ Dramatic entrance, theatrical
 ---
 
 ### **Professor Padraic Rattigan**
-**Gatunek:** Szczur (rat)  
-**Rola:** Drug lord, Morrigan creator  
+**Species:** Rat  
+**Role:** Drug lord, Morrigan creator  
 
 **INTRODUCTION:**
 Theatrical villain entrance
@@ -320,53 +320,53 @@ Theatrical villain entrance
 
 ---
 
-## FAMILY I SUPPORT NETWORK
+## FAMILY AND SUPPORT NETWORK
 
 ### **Marian Wilde** (Maid Marian Loxley)
-**Gatunek:** Lisica (vixen)  
-**Rola:** Matka Nicka, mentor Judy  
+**Species:** Vixen  
+**Role:** Nick's mother, Judy's mentor  
 
 **INTRODUCTION:**
 Nurturing presence, elegant entrance
 > "There in the doorway stood a red furred vixen who looked to be in her late thirties to early forties and she was stunning... 'I'm Marian.' The Vixen smiled kindly"
 
 **CHARACTER VOICE:**
-- **Warm:** "My little kit" (do Nicka)
-- **Encouraging:** "Take charge" (do Judy)
+- **Warm:** "My little kit" (to Nick)
+- **Encouraging:** "Take charge" (to Judy)
 - **Wise:** Offers guidance without judgment
 
 **PERSONALITY MARKERS:**
-- **Supportive mother:** Unconditional love dla Nicka
+- **Supportive mother:** Unconditional love for Nick
 - **Strong woman:** MMA skills, tech expertise
-- **Mentor figure:** Guides Judy w relationship
+- **Mentor figure:** Guides Judy in relationship
 
 ---
 
 ### **Victoria Todd**
-**Gatunek:** Lisica (vixen)  
-**Rola:** Ex-partner Nicka, matka Luny, dying of cancer  
+**Species:** Vixen  
+**Role:** Nick's ex-partner, Luna's mother, dying of cancer  
 
 **CHARACTER VOICE:**
 - **Business-like:** CEO speech patterns
-- **Vulnerable:** W moments about death
-- **Protective:** O Luna's future
+- **Vulnerable:** In moments about death
+- **Protective:** About Luna's future
 
 **PERSONALITY MARKERS:**
 - **Strong businesswoman:** CEO Todd Banking Group
 - **Dying gracefully:** Cancer patient
 - **Protective mother:** Securing Luna's future
 
-**RELACJE:**
+**RELATIONSHIPS:**
 - **Nick:** Complicated ex, co-parent
 - **Luna:** Devoted mother
 - **Peter:** Cheated with him, regrets
 
 ---
 
-## CHARACTER DESIGN PATTERNS Z TAKE A STAND
+## CHARACTER DESIGN PATTERNS FROM TAKE A STAND
 
 ### **INTRODUCTION PATTERNS:**
-1. **Dialog first:** Judy, Nick - introduced przez their voices/speech
+1. **Dialog first:** Judy, Nick - introduced through their voices/speech
 2. **Emotional state:** Luna, Clawhauser - emotional vulnerability
 3. **Authority:** Bogo, Skye - professional competence
 4. **Dramatic entrance:** Robin, Rattigan - theatrical presentation
@@ -384,19 +384,19 @@ Nurturing presence, elegant entrance
 - **Social:** Inter-species relationship challenges
 
 ### **TEAM DYNAMICS:**
-- **ZPD:** Hierarchical ale informal among peers
+- **ZPD:** Hierarchical but informal among peers
 - **MCB:** More formal, professional distance
 - **Mixed teams:** Professional cooperation despite species differences
 
 ### **SOCIAL DYNAMICS:**
 - **Inter-species couples:** Central theme, social pressure
-- **Family acceptance:** Gradual acceptance przez families
+- **Family acceptance:** Gradual acceptance by families
 - **Professional challenges:** Career implications of relationships
 - **Public opinion:** Political implications for inter-species rights
 
 ---
 
-## WZORCE RELACJI
+## RELATIONSHIP PATTERNS
 
 ### **ROMANTIC DYNAMICS:**
 - **Nick/Judy:** Slow burn, professional to personal
@@ -417,7 +417,7 @@ Nurturing presence, elegant entrance
 
 ---
 
-## SPOŁECZNE NORMY ZOOTOPII (Z TAKE A STAND)
+## SOCIAL NORMS OF ZOOTOPIA (FROM TAKE A STAND)
 
 ### **INTER-SPECIES RELATIONSHIPS:**
 - **Public opinion:** Mixed, politically divisive
@@ -438,4 +438,4 @@ Nurturing presence, elegant entrance
 
 ---
 
-*Biblioteka przygotowana dla AI writing project - use jako character reference podczas pisania scen.*
+*Library prepared for AI writing project - use as character reference when writing scenes.*
