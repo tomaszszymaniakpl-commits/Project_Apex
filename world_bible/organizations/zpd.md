@@ -9,11 +9,11 @@
 
 ### Top Leadership
 
-#### **Commissioner of Police**
+#### **Commissioner of Police** – Commissioner Buck Antler (Deer)
 - Highest-ranking ZPD officer (equivalent to our Chief of Police)
 - Political appointee - selected by the mayor
 - Rarely seen in the field, manages from city hall
-- **In our story:** May be corrupt / unwittingly collaborates with the antagonist
+- **In our story:** Corrupt political leader above Bogo; collaborates with the antagonist
 
 #### **Chief of Police** (Chief Bogo)
 - Operational commander of ZPD
@@ -51,6 +51,11 @@ Main station, where Nick and Judy work.
 - Heavy mammals (rhinos, bears, hippos)
 - Breaching, hostage rescue, high-risk warrants
 - Firearms (not just tranqs)
+
+#### **Officer Delgato** (ZPD SWAT)
+- Known anti-interspecies bigot who **secretly works for Apex Society**
+- Other officers think he's a stupid racist; some nonetheless agree with him
+- Doesn't like Nick and Judy: believes them weak, finds their relationship disgusting
 
 #### **Forensics & CSI**
 - DNA analysis, fingerprints, ballistics
@@ -93,60 +98,26 @@ Informally: "Hopps' Hunters" (because Judy commands)
 - **Personal motivation:** Everyone knows she wants to avenge the betrayal
 - Bogo sees that obsession can be useful (but worries about her)
 
-#### **Team members (4-5 mammals):**
+#### **Team members (5 mammals)** — **STATUS: APPROVED**
 
-Designed team that balances skills:
+##### **1. James Wolford (Wolf) – "Wolf"**
+- **Role:** Tactical lead; master of hand-to-hand combat, explosive expert
+- **Skills:** Lethal weapon permission, tracker, breaching, combat, firearms
+- **Characteristics:** Loyalist. **The only one who doubts Nick's guilt.**
 
-##### **1. Fang Stormclaw (Timber Wolf)**
-- **Role:** Tactical lead, former SWAT
-- **Skills:** Breaching, combat, firearms
-- **Characteristics:**
-  - Lost his partner in a shootout a year ago
-  - Doesn't trust anyone 100%
-  - **Hates traitors** - says loudest that Nick should be dead or in prison
-  - Initially skeptical of Judy (too young, too emotional)
-  - Over time becomes her protector
-- **Voice:** Growling, short sentences, "military speak"
-- **Conflict with Judy:** Wants to kill Nick if they find him, Judy wants answers
+##### **2. Nadine Fangmeyer (Tiger) – "Tiger"**
+- **Role:** Heavy support, tracker
+- **Characteristics:** Judy's best friend. **Her injury is the catalyst for Judy's rage.**
 
-##### **2. Ada Frost (Arctic Fox)**
-- **Role:** Tech specialist, hacker
-- **Skills:** Surveillance, cyber-forensics, drone operation
-- **Characteristics:**
-  - Quiet, introverted
-  - Genius-level IQ
-  - **Empathy toward Judy** - sees her pain
-  - Also a fox = complex reaction to "Nick's betrayal" (are all foxes bad?)
-- **Voice:** Technical, uses IT jargon
-- **Conflict:** Afraid that Nick's stigma will fall on all foxes
+##### **3. McHorn (Rhino)**
+- **Role:** The Tank. Brute force needed to break blockades.
 
-##### **3. Marcus "Brick" Ngala (Rhino)**
-- **Role:** Heavy muscle, driver
-- **Skills:** Strength, vehicle operation (Strike Force van), intimidation
-- **Characteristics:**
-  - Gentle giant
-  - Was Nick's friend (they played poker)
-  - **Inner conflict:** Wants to believe Nick is innocent, but the evidence is clear
-  - Loyal to Judy - if she wants to catch Nick, he'll help
-- **Voice:** Deep, slow, gentle giant
-- **Narrative role:** "Voice of reason" for Judy
+##### **4. Leni Scharf (Ocelot) – "Ocelot"**
+- **Role:** Infiltrator, technology, sniper, scout.
 
-##### **4. Zara Blacktail (Serval)**
-- **Role:** Undercover specialist, interrogations
-- **Skills:** Social engineering, languages, manipulation
-- **Characteristics:**
-  - Former Vice detective (narcotics)
-  - **Cynical as hell** - has seen too much
-  - Nick's betrayal doesn't surprise her ("Everyone lies")
-  - Closest to Judy in work style (both obsessive)
-- **Voice:** Sarcastic, noir detective style
-- **Dynamic with Judy:** Sisterly - Zara is her mentor in the "dark arts" of detective work
-
-##### **5. (Optional) Officer Benjamin Clawhauser - Liaison**
-- **Role:** Support, information from HQ
-- Not in the field, but helps Strike Force from the office
-- **Emotional anchor:** The only one who tries to maintain Judy's humanity
-- "Judy, remember how we used to laugh? Nick wouldn't want you to...?"
+##### **5. Benjamin Clawhauser (Cheetah)**
+- **Role:** Overwatch. Support, information from HQ (not in the field).
+- **Characteristics:** Well-meaning but **unknowingly leaks info to Delgato.**
 
 ---
 
@@ -155,18 +126,18 @@ Designed team that balances skills:
 #### **Vehicle**
 - **Armored van** (black, unmarked)
 - Cargo space inside: benches, equipment, mobile computer
-- **Driver:** Marcus (Brick)
+- **Driver:** McHorn or assigned team member
 
 #### **Tech**
 - Tablets (real-time data sharing)
-- **Hidden cameras, directional microphones** (Ada)
+- **Hidden cameras, directional microphones** (Leni)
 - Drones (tiny, for reconnaissance)
-- **Surveillance feeds** from city cameras (access via Ada)
+- **Surveillance feeds** from city cameras (access via Leni / Clawhauser overwatch)
 
 #### **Weapons**
 - Standard ZPD: tranq guns
 - **Plus:** Tasers, batons, breaching tools
-- Fang has access to firearms (shotgun, SMG - in locked case)
+- Wolford (Wolf) has lethal weapon permission; firearms (shotgun, SMG - in locked case)
 
 #### **Raid Gear**
 - Body armor (kevlar for small, plated for large)
@@ -209,14 +180,14 @@ Designed team that balances skills:
 - If operation goes wrong → Internal Affairs automatically launches investigation
 
 #### **Raid Protocol**
-1. **Recon:** Ada drone/surveillance (2-4 hours observation)
+1. **Recon:** Leni drone/surveillance (2-4 hours observation); Clawhauser overwatch
 2. **Briefing:** Team reviews layout, escape routes, targets
-3. **Breach:** Fang leads, Marcus backup, Judy coordinates
+3. **Breach:** Wolford leads, McHorn backup, Judy coordinates
 4. **Secure:** Threat neutralization, arrest of targets
 5. **Evidence collection:** Forensics team enters after clear
 6. **Debrief:** Report within 24h
 
 #### **Undercover ops**
-- Zara can infiltrate (identity created by Ada)
+- Leni (Ocelot) can infiltrate (identity/tech support by team)
 - **Cover story** must be bulletproof
 - Check-ins every 6h (safety protocol)

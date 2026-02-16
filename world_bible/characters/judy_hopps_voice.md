@@ -18,6 +18,9 @@
 - **Film 2:** Confident detective, mutual confession with Nick (platonic context)
 - **Post-films:** Established relationship, proven investigator, ready for leadership
 
+### **Full Character Arc in Our Story**
+- **Optimistic hero** → **vengeful hunter** → **rogue agent** → **redeemed**
+
 ---
 
 ## PART II: POST-FILM DEVELOPMENT
@@ -28,7 +31,7 @@
 - **Skill development:** Advanced investigation techniques, interrogation mastery
 - **Street credibility:** Earned respect from fellow officers through results
 - **Institutional knowledge:** Understands ZPD politics, bureaucracy, corruption risks
-- **Leadership recognition:** Superiors see her potential dla command roles
+- **Leadership recognition:** Superiors see her potential for command roles
 
 #### **Partnership with Nick**
 - **Perfect synergy:** Complementary skills - her instincts + his street smarts
@@ -165,7 +168,7 @@ We're not here to make friends - we're here to stop killers."
 
 ---
 
-## CZĘŚĆ V: EMOTIONAL TRIGGERS & VULNERABILITIES
+## PART V: EMOTIONAL TRIGGERS & VULNERABILITIES
 
 ### **Psychological Pressure Points**
 
@@ -201,7 +204,7 @@ We're not here to make friends - we're here to stop killers."
 
 #### **High Stress** (Personal stakes/Nick threatened)
 - Tunnel vision, ignores advice from others
-- Emotional volatility, anger mixed z fear
+- Emotional volatility, anger mixed with fear
 - Reckless behavior, personal rules discarded
 
 ---
@@ -228,7 +231,7 @@ We're not here to make friends - we're here to stop killers."
 - **Professional mask:** Maintains work relationship despite personal pain
 - **Self-protection:** Builds walls to prevent further emotional damage
 
-### **Z Strike Force Team**
+### **With Strike Force Team**
 
 #### **Leadership Style**
 - **Collaborative:** Seeks input but makes final decisions
@@ -284,13 +287,20 @@ We're not here to make friends - we're here to stop killers."
 
 ### **Part I: The Deception Begins**
 
-#### **Initial Suspicion**
+#### **Almost-Kiss & Collapse**
+- **Bunnyburrow (M1.1):** Almost-kiss with Nick before everything falls apart
 - **Rainforest meeting:** Seeds of doubt planted about Nick's honesty
 - **Behavioral changes:** Nick becomes secretive, distracted, defensive
 - **Professional impact:** Partnership strain affects case work
 - **Personal pain:** Carries emotional burden while maintaining facade
 
-#### **Strike Force Formation**
+#### **Nick's Fake Death & Aftermath (M1.6–M1.7)**
+- **Believes Nick is dead/traitor** after fake death at the Docks
+- **Grief turns to hatred** as she processes the betrayal
+
+#### **Strike Force Formation (M2.1)**
+- **Forms Strike Force to hunt Nick**—grief has turned to hatred
+- **Fangmeyer** (her best friend) shot protecting her—catalyzes absolute hatred for Nick
 - **Opportunity:** Command position offers chance to prove herself
 - **Mission focus:** Hunting organized crime becomes obsession
 - **Team dynamics:** Protective leadership style emerges
@@ -304,6 +314,13 @@ We're not here to make friends - we're here to stop killers."
 - **Revenge motivation:** Strike Force mission becomes personal vendetta
 - **Emotional shutdown:** Suppresses grief to maintain command effectiveness
 
+#### **Rubber Bullet & Truth (M2.7)**
+- **Shot by Nick with rubber bullet** in the line of fire—he does it to save her life
+- **Discovers truth** when she finds the bullet and realizes it was non-lethal
+
+#### **Rogue Agent (M2.8)**
+- **Becomes rogue agent ("ghost")** after the world thinks she's dead
+
 #### **Hunting the "Traitor"**
 - **Single-minded pursuit:** Every resource focused on finding Nick's killer
 - **Team pressure:** Officers worry about her mental state
@@ -311,6 +328,18 @@ We're not here to make friends - we're here to stop killers."
 - **Skye encounters:** Brief interactions with mysterious fox intensify rivalry feelings
 
 ### **Part III: Truth & Redemption**  
+
+#### **Rooftop Reunion (M3.1)**
+- **Reunites with Nick on rooftop**—"The Slap and The Hug"
+
+#### **Final Confrontation (M3.4)**
+- **Bitten by Ragnar** (envenomation) in final confrontation
+
+#### **The Kiss of Life (M3.6)**
+- **Saved by Nick** with antidote/CPR—"The Kiss of Life"
+
+#### **Arrest to Save Him (M3.7)**
+- **Weeping while arresting Nick** to save him from SWAT
 
 #### **Reality Revelation**
 - **Shock:** Nick is alive, everything was deception

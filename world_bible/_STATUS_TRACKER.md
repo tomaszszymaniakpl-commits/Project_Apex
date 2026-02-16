@@ -3,7 +3,7 @@
 > Central status map for all world bible elements  
 > **Use this to check what can be treated as final vs what may change**
 
-*Last updated: 2026-02-14*
+*Last updated: 2026-02-16*
 
 ---
 
@@ -24,7 +24,16 @@
 |---------|------|---------|------------|--------|
 | Zootopia Film 1 Facts | `canon/zootopia_base.md` | APPROVED | HIGH | Established canon reference |
 | Zootopia 2 Updates | `canon/zootopia2_update.md` | APPROVED | HIGH | Nick+Judy platonic confession |
-| Story Overview | `Canon.md` (root) | DRAFT | MEDIUM | Sketch - NEEDS UPDATE for siblings dynamic |
+
+---
+
+## STORY PLAN
+
+| Element | File | Status | Confidence | Notes |
+|---------|------|---------|------------|--------|
+| **Master Story Plan** | `plot/story_plan.md` | APPROVED | HIGH | Full 3-act structure with milestones |
+| Project Title | - | APPROVED | HIGH | "PROJECT APEX" |
+| Logline | `plot/story_plan.md` | APPROVED | HIGH | Infiltration / betrayal / redemption |
 
 ---
 
@@ -43,11 +52,11 @@
 
 | Element | File | Status | Confidence | Dependencies |
 |---------|------|---------|------------|--------------|
-| Rainforest District | `locations/rainforest_district.md` | APPROVED (expandable) | HIGH | New entries may be added |
-| Port Docks | `locations/port_docks.md` | APPROVED (expandable) | HIGH | New entries may be added |
-| ZPD Headquarters | `locations/zpd_precinct1.md` | APPROVED (expandable) | HIGH | New entries may be added |
-| Sahara Square | `locations/sahara_square.md` | APPROVED (expandable) | HIGH | New entries may be added |
-| Tundratown | `locations/tundratown.md` | APPROVED (expandable) | HIGH | New entries may be added |
+| Rainforest District | `locations/rainforest_district.md` | APPROVED (expandable) | HIGH | Used in M1.0, M1.3, M2.6 |
+| Port Docks | `locations/port_docks.md` | APPROVED (expandable) | HIGH | Used in M1.6 (Fake Death) |
+| ZPD Headquarters | `locations/zpd_precinct1.md` | APPROVED (expandable) | HIGH | Used throughout |
+| Sahara Square | `locations/sahara_square.md` | APPROVED (expandable) | HIGH | Potential Act II/III use |
+| Tundratown | `locations/tundratown.md` | APPROVED (expandable) | HIGH | Used in M2.3 (Heist) |
 
 ---
 
@@ -55,11 +64,11 @@
 
 | Element | File | Status | Confidence | Dependencies |
 |---------|------|---------|------------|--------------|
-| **ZPD - Hierarchy** | `organizations/zpd.md` (Part I) | APPROVED | HIGH | - |
-| **ZPD - Strike Force Concept** | `organizations/zpd.md` (Part II intro) | APPROVED | HIGH | - |
-| **ZPD - Strike Force Members** | `organizations/zpd.md` (Part II team) | EXAMPLE | LOW | Needs canon characters |
-| **ZPD - Procedures** | `organizations/zpd.md` (Part III) | APPROVED | MEDIUM | Language standardized |
-| **ZIA - Structure v2** | `organizations/zia_v2.md` | DRAFT | HIGH | Awaits content review |
+| **ZPD - Hierarchy** | `organizations/zpd.md` | APPROVED | HIGH | Includes Buck Antler, Delgato |
+| **ZPD - Strike Force** | `organizations/zpd.md` | APPROVED | HIGH | Final team: Wolford, Fangmeyer, McHorn, Leni, Clawhauser |
+| **ZPD - Procedures** | `organizations/zpd.md` | APPROVED | MEDIUM | - |
+| **ZIA - Structure v2** | `organizations/zia_v2.md` | APPROVED | HIGH | Kruschev confirmed as mole |
+| **Apex Society** | `organizations/apex_society.md` | APPROVED | HIGH | A.7 COMPLETE - Triad + Insiders |
 
 ---
 
@@ -67,105 +76,91 @@
 
 | Element | File | Status | Confidence | Dependencies |
 |---------|------|---------|------------|--------------|
-| **Tech Level Specification** | `technology/tech_specification.md` | DRAFT | MEDIUM | Awaits review |
+| Tech Level Specification | `technology/tech_specification.md` | DRAFT | MEDIUM | Awaits review |
 | Canon Tech Baseline | tech_spec (Part I) | APPROVED | HIGH | Based on films |
-| Law Enforcement Tech | tech_spec (Part II-III) | DRAFT | MEDIUM | - |
-| Civilian Tech Limits | tech_spec (Part IV-V) | DRAFT | MEDIUM | - |
+| **Analog Chip** | `plot/story_plan.md` | APPROVED | HIGH | John Wilde's fail-safe, key McGuffin |
 
 ---
 
 ## CHARACTERS
 
-| Element | Status | Priority | Dependencies |
-|---------|---------|----------|--------------|
-| Nick Wilde Voice Baseline | COMPLETED | HIGH | A.6 - ZIA history, sibling bond, protective instincts |
-| Judy Hopps Voice Baseline | COMPLETED | HIGH | A.6 - Love triangle misunderstanding, Strike Force leadership |
-| Skye Winters Profile | COMPLETED | HIGH | A.6 - Adopted sister, deep cover agent, family loyalty |
-| Jack Savage Profile | COMPLETED | HIGH | A.6 - Handler, hidden romantic feelings, professional integrity |
-| Marian Wilde Baseline | COMPLETED | HIGH | Family anchor, keeper of murder secrets |
-| Strike Force Final Team | PLACEHOLDER | MEDIUM | Canon character selection (can be delayed) |
-| Criminal Organization + Mole | PLACEHOLDER | HIGH | A.7 - NEXT PRIORITY (with family murder connection) |
+| Element | Status | Priority | Notes |
+|---------|---------|----------|-------|
+| Nick Wilde | APPROVED | HIGH | Updated with John Wilde backstory, Apex infiltration arc |
+| Judy Hopps | APPROVED | HIGH | Updated with full arc: hero → hunter → rogue → redeemed |
+| Skye Winters | APPROVED | HIGH | Updated with Code Blue, motorcycle chase, Chip insertion |
+| Jack Savage | APPROVED | HIGH | Updated with double game, Omega Files exposure |
+| Marian Wilde | APPROVED | HIGH | Updated with Analog Communicator, awareness of mission |
+| **Magnus Volt** | APPROVED | HIGH | Apex leader - Jaguar. In `organizations/apex_society.md` |
+| **Ragnar** | APPROVED | HIGH | Apex enforcer - Komodo Dragon. Venom. In `apex_society.md` |
+| **Vesper** | APPROVED | HIGH | Apex tech/assassin - Caracal. In `apex_society.md` |
+| **Kruschev** | APPROVED | HIGH | ZIA mole - Polar Bear. In `zia_v2.md` + `apex_society.md` |
+| **Delgato** | APPROVED | HIGH | ZPD traitor - Lion. In `zpd.md` + `apex_society.md` |
+| **Buck Antler** | APPROVED | HIGH | Corrupt commissioner - Deer. In `zpd.md` + `apex_society.md` |
+| **Strike Force** | APPROVED | HIGH | Wolford, Fangmeyer, McHorn, Leni, Clawhauser. In `zpd.md` |
 
 ---
 
-## PLOT STRUCTURE (Planned)
+## PLOT STRUCTURE
 
-| Element | Status | Priority | Dependencies |
-|---------|---------|----------|--------------|
-| Beat Sheet Expansion | PLACEHOLDER | HIGH | A.8 - 3-act detailed breakdown |
-| Scene Breakdown | PLACEHOLDER | MEDIUM | Beat sheet completion |
-| Information Asymmetry Map | PLACEHOLDER | MEDIUM | Character profiles + plot |
-
----
-
-## ACTION ITEMS
-
-### Next Development Phase:
-- A.6: Character Voice Baselines (COMPLETED)
-- **A.7: Criminal Organization + Antagonist Design (READY TO START)**
-- Strike Force team redesign (canon characters) - can be delayed
-- A.8: Beat Sheet Expansion (awaiting A.7 completion)
-
-### Files Needing Revision:
-- ZPD Structure: References to Skye need updating (adopted sister, not romantic interest)
-- Character Voice Baselines: Must reflect sibling dynamic and ZIA history
-- Love triangle implications: Update all romantic tension references
-
-### Key Story Elements (Before A.7):
-- Marian Wilde: Nick's mother, alive - adopted Skye after husband's murder
-- Nick's father: Murdered by criminal organization (when Nick was teenager)
-- ZIA Recruitment: Used father's murder as leverage to recruit Nick & Skye
-- Family motivation: Nick gave up quest for justice, Skye still obsessed
-- Character updates: Nick & Skye profiles need ZIA recruitment backstory revision
+| Element | Status | Priority | Notes |
+|---------|---------|----------|-------|
+| Master Story Plan | APPROVED | HIGH | 3 acts, 20 milestones. In `plot/story_plan.md` |
+| Scene Breakdown | PLACEHOLDER | HIGH | Next phase: break milestones into individual scenes |
+| Information Asymmetry Map | PLACEHOLDER | MEDIUM | Who knows what when |
+| Chapter Mapping | PLACEHOLDER | MEDIUM | How scenes map to chapters |
 
 ---
 
 ## DEPENDENCIES MAP
 
 ```
-Character Voice Baselines (A.6) 
-├── Depends on: ZIA approval (Skye context)
-├── Blocks: Beat Sheet Expansion
-└── Blocks: Scene Development
+Story Plan (APPROVED)
+├── Blocks: Scene Breakdown
+├── Blocks: Chapter Mapping
+└── Blocks: Writing
 
-Strike Force Final Team
-├── Depends on: Beat Sheet (know what roles needed)
-├── Depends on: Canon character research
-└── Blocks: Team dynamics development
+Scene Breakdown
+├── Depends on: Story Plan (done)
+├── Depends on: All character profiles (done)
+└── Blocks: Chapter Writing
 
-Beat Sheet Expansion (A.8)
-├── Depends on: Character baselines
-├── Depends on: Antagonist design
-└── Blocks: Scene breakdown
+Information Asymmetry Map
+├── Depends on: Story Plan (done)
+├── Depends on: Character profiles (done)
+└── Enhances: Scene Breakdown quality
 ```
+
+---
+
+## NEXT STEPS
+
+1. **Scene-by-scene breakdown** of each milestone (Gemini 2.5 Pro)
+2. **Information Asymmetry Map** - what reader/characters know at each point
+3. **Chapter mapping** - how scenes group into chapters, pacing
+4. **Final bible review** - ensure all files consistent with scene breakdown
+5. **Begin writing** - chapter by chapter (Cursor/Claude)
 
 ---
 
 ## CHANGE LOG
 
 **2026-02-14 - Initial Setup**
-- Created A.3: ZPD Structure (Strike Force members marked as EXAMPLE)
-- Created A.4: ZIA Design (DRAFT status, awaiting review)
-- Created A.5: Technology Specification (DRAFT status, awaiting review)
-- Established status tracking system
+- World Bible phases I-II created
+- Language standardization (all docs to English)
 
-**2026-02-14 - Major Story Redesign**
-- ZIA v2: Complete restructure - mole problem, compartmentalization
-- Character Relationships: Nick-Skye as adopted siblings (not romantic)
-- Jack Savage: Added as Skye's handler with romantic subplot
-- Love Triangle: Judy-Nick-Skye dynamic based on misunderstanding
-- Criminal Advantage: Mole in ZIA explains villains' success
+**2026-02-14 - Infrastructure**
+- Git initialized, handoff protocol established
+- Workflow: Cursor + Gemini 2.5 Pro
 
-**2026-02-14 - A.6 Character Baselines Complete**
-- Nick, Judy, Skye, Jack voice baselines completed
-- Marian Wilde baseline added
-- Family backstory established (father's murder, ZIA recruitment)
-
-**2026-02-14 - Infrastructure & Cleanup**
-- Full language standardization pass (all documents to English)
-- Removed local AI tools (inadequate for creative tasks)
-- Established Cursor + Gemini 2.5 Pro workflow
-- Created handoff protocol for chat continuity
+**2026-02-16 - MAJOR UPDATE: Story Plan Complete**
+- Master story plan created (PROJECT APEX) with full 3-act structure
+- A.7 COMPLETED: Apex Society (Magnus Volt, Ragnar, Vesper)
+- Insiders defined: Kruschev (mole), Delgato (traitor), Buck Antler (corrupt)
+- Strike Force finalized: Wolford, Fangmeyer, McHorn, Leni, Clawhauser
+- All character files updated with story plan details
+- ZIA mole confirmed as Kruschev
+- ZPD updated with Delgato, Antler, final Strike Force roster
 
 ---
 
@@ -173,6 +168,6 @@ Beat Sheet Expansion (A.8)
 1. Always check this tracker before referencing world bible elements
 2. Only build on APPROVED elements for new content
 3. All documents must be written in English
-4. Mark new work appropriately - don't assume anything is approved
+4. The story plan in `plot/story_plan.md` is the master reference for plot
 5. Update this tracker when status changes
 6. Check dependencies before starting new work

@@ -41,6 +41,10 @@
 
 ### **Professional Philosophy**
 
+#### **Dangerous Double Game**
+- **Plays a dangerous double game** against his corrupt agency (ZIA) to protect his agents
+- **Under pressure from Kruschev** (the mole) to "clean up the mess"
+
 #### **Agent Protection Priority**
 - **Core belief:** Handler's job is to keep agent alive and operational  
 - **Risk assessment:** Conservative approach, prefers extraction over mission completion
@@ -245,17 +249,17 @@ her out. My agent, my call."
 
 #### **Institutional Navigation**  
 - **Respect earned:** Directors value his expertise, success rate
-- **Agent advocacy:** Known dla protecting his people from bad decisions
-- **Policy influence:** Quietly pushes dla reforms that improve agent safety
-- **Career management:** Balances institutional loyalty z personal principles
+- **Agent advocacy:** Known for protecting his people from bad decisions
+- **Policy influence:** Quietly pushes for reforms that improve agent safety
+- **Career management:** Balances institutional loyalty with personal principles
 
 #### **Bureaucratic Challenges**
 - **Regulation conflicts:** Sometimes bends rules to protect agents
-- **Mission vs safety:** Advocates dla conservative approaches when leadership wants aggression
+- **Mission vs safety:** Advocates for conservative approaches when leadership wants aggression
 - **Information control:** Carefully manages what directors know about his agents
 - **Political awareness:** Understands office dynamics, navigates them strategically
 
-### **Z Other Characters** (Potential interactions)
+### **With Other Characters** (Potential interactions)
 
 #### **Nick Wilde** (When truth revealed)
 - **Professional respect:** Recognizes Nick's capabilities, street intelligence
@@ -289,6 +293,14 @@ her out. My agent, my call."
 
 ### **Part II: Crisis Management**
 
+#### **Cover Story & Investigation (M1.7, M2.0)**
+- **Fakes Nick's death evidence** (badge, "remains") to support the cover story (M1.7)
+- **Sabotages Judy's investigation** to protect Skye/Nick (M2.0)
+
+#### **Rescue & Revelation (M2.7)**
+- **Rescues Judy from river** after rubber bullet scene
+- **Reveals truth to Judy:** Skye is Nick's sister; they are deep cover
+
 #### **Mission Complexity**
 - **Nick involvement:** Must manage additional asset (Skye's brother)
 - **Fake death coordination:** Helps orchestrate deception to protect both siblings
@@ -303,11 +315,18 @@ her out. My agent, my call."
 
 ### **Part III: Resolution & Truth**
 
+#### **Marian Visit & Final Assault (M3.0, M3.3)**
+- **Takes Judy to visit Marian Wilde** (M3.0)
+- **Defeats Kruschev at ZIA HQ** during final assault (M3.3)
+
+#### **Omega Files (M3.8)**
+- **Exposes the "Omega Files"** that clear Nick and Skye
+
 #### **Mission Success**
 - **Professional validation:** Operation succeeds due to his careful management
 - **Agent protection:** Skye survives dangerous assignment intact
 - **Institutional recognition:** Proved handler model works better than aggressive approaches
-- **Career security:** Success protects both him i Skye from bureaucratic consequences
+- **Career security:** Success protects both him and Skye from bureaucratic consequences
 
 #### **Personal Resolution**
 - **Romantic possibility:** Freedom to explore relationship with Skye

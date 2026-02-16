@@ -8,11 +8,11 @@
 ## PART I: ORGANIZATIONAL CRISIS
 
 ### **The Mole Problem**
-- **Unknown infiltrator** in ZIA hierarchy passes intel to criminal organization
+- **THE MOLE IS CONFIRMED:** Viktor "Ice" Kruschev (ZIA Deputy Director) passes intel to the criminal organization
 - **High-level access** - the mole has access to classified operations
 - **Perfect cover** - long-time member of the organization, trusted by leadership  
 - **Criminal advantage** - that's why the target organization is always one step ahead of ZPD/ZIA
-- **Ironic twist** - the person leading the internal investigation may be the mole (motif from "Infiltration")
+- **Ironic twist** - the person leading or influencing internal investigations may be the mole (motif from "Infiltration")
 
 ### **Compartmentalization Protocol**
 Due to the mole threat, ZIA operates in super-strict compartments:
@@ -31,12 +31,12 @@ Due to the mole threat, ZIA operates in super-strict compartments:
 - **Status:** UNKNOWN loyalty (may be clean or compromised)
 - **Characteristics:** Cold, calculating, maintains strict hierarchy
 - **Public face** - represents ZIA in official capacity  
-- **Hidden agenda:** Conducts secret investigation into the mole (or is the mole herself)
+- **Hidden agenda:** Conducts secret investigation into the mole (the mole is confirmed as Deputy Director Kruschev)
 
 #### **Deputy Director** - Viktor "Ice" Kruschev (Polar Bear)
-- **Status:** UNKNOWN loyalty  
+- **Status:** **THE MOLE** — confirmed. Passes intel to the criminal organization (Apex Society).
 - **Role:** Operations coordinator, has access to all divisions
-- **Suspicious behavior:** Sometimes operations fail when he has advance knowledge
+- **Behavior:** Pressures Jack Savage to "clean up" the Nick situation (remove or neutralize Nick as a liability).
 
 ### **Jack Savage - Special Handler** (Rabbit)
 
@@ -57,6 +57,8 @@ Due to the mole threat, ZIA operates in super-strict compartments:
 - **Compartmented operations** - works with a narrow group of trusted agents
 - **Counter-intelligence focus** - mainly hunts for the mole
 - **Emergency extraction** - responsible for Skye's safety protocols
+- **Dangerous double game** - Jack plays a dangerous double game against his corrupt agency to protect his agents (Skye, Nick) while appearing to comply with Kruschev's demands.
+- **Fate:** Jack defeats Kruschev at ZIA HQ during the final assault.
 
 ---
 
@@ -194,11 +196,11 @@ SKYE (CENTER)
 ├── Criminal Org: Deep cover target, years of infiltration
 └── ZIA Leadership: Unknown loyalties, potential threats
 
-THE MOLE (UNKNOWN IDENTITY)
-├── Criminal Organization: High-ranking member, strategic asset
-├── ZIA Operations: Inside access, sabotage capability
+THE MOLE — VIKTOR "ICE" KRUSCHEV (CONFIRMED)
+├── Criminal Organization: Passes intel to Apex Society, strategic asset
+├── ZIA Operations: Inside access, sabotage capability; pressures Jack to "clean up" Nick
 ├── Skye's Mission: Potential exposure threat (if discovers her)
-└── Investigation: May be leading the hunt for themselves
+└── Jack Savage: Defeats Kruschev at ZIA HQ during final assault
 ```
 
 ---

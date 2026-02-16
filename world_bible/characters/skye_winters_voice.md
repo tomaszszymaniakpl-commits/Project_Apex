@@ -329,6 +329,16 @@ answer those. Everything else is off-limits."
 
 ### **Part I: Reunion & Conflict**
 
+#### **Code Blue & Recruitment (M1.2)**
+- **Contacts Nick with "Code Blue" warning** that Apex knows about Judy
+- **Recruits Nick** for the suicide mission against Apex
+
+#### **The Misunderstanding (M1.4)**
+- **Judy sees Skye grab Nick's face**—Skye says "Please, brother"—looks romantic from a distance
+
+#### **Strike Force Reputation**
+- **Known as "The Mistress" and "The Phantom"** by Strike Force
+
 #### **Mission Assignment** 
 - **Internal conflict:** Personal desires vs professional duty
 - **Nick contact:** First time seeing him in years, overwhelming emotions
@@ -349,6 +359,10 @@ answer those. Everything else is off-limits."
 - **Cover stress:** Maintaining false identity becomes more difficult
 - **Relationship pressure:** Professional demands conflict with family loyalty
 
+#### **Motorcycle Chase (M2.4)**
+- **Fights Judy on motorcycle chase**—dominates physically
+- **Line to Judy:** "Stop following us, or you'll get hurt"
+
 #### **Fake Death Participation**
 - **Protective motivation:** Only way to keep Nick safe from organization
 - **Technical expertise:** Helps stage convincing death scene  
@@ -356,6 +370,11 @@ answer those. Everything else is off-limits."
 - **Guilt burden:** Responsible for causing pain to people she cares about
 
 ### **Part III: Resolution & Truth**
+
+#### **Final Confrontation (M3.4–M3.6)**
+- **Stabbed by Vesper** in final confrontation (M3.4)—critically wounded
+- **Despite wounds:** Tranquilizes Vesper and crawls to console to **insert the Analog Chip** (M3.5)
+- **Leni tends to her wounds** with antidote (M3.6)
 
 #### **Identity Revelation**
 - **Truth emerges:** Real relationship with Nick revealed

@@ -37,7 +37,7 @@
 - **Trust issues:** Even then Nick had problems with institutional authority
 
 #### **Operational Role**  
-- **Street intelligence:** Informacje o criminal networks, smuggling routes
+- **Street intelligence:** Intel on criminal networks, smuggling routes
 - **Social engineering:** Nick's natural charisma + manipulation skills
 - **Protective instinct:** Always prioritized Skye's safety over mission objectives
 - **Exit strategy:** Always had a plan B if the ZIA relationship went wrong
@@ -279,6 +279,10 @@ I wanted to have?"
 - **Confession:** Full truth about ZIA past, reasons for deception
 - **Forgiveness:** Earning Judy's trust again through actions
 - **New foundation:** Relationship based on complete transparency
+
+#### **Final Confrontation & Vindication**
+- **Defeats Magnus Volt** (Jaguar)—delivers line: "Say hello to my father"
+- **Vindicated in the end** through the Omega Files (exposed by Jack Savage)
 
 ---
 

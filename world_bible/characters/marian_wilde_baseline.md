@@ -29,7 +29,8 @@
 
 #### **Timeline & Circumstances**
 - **When:** Nick was ~16 years old, Skye ~8 (shortly after her adoption)
-- **Husband's name:** [TO BE DETERMINED] Wilde
+- **Husband's name:** **John Wilde**
+- **John's legacy:** John created the **Analog Chip** as a fail-safe against Apex
 - **Method:** [TO BE DETERMINED] - made to look like accident/robbery
 - **Investigation:** Police case mysteriously closed, insufficient evidence
 - **Family impact:** Left Marian widowed with teenage son and newly adopted daughter
@@ -52,6 +53,11 @@
 ## FAMILY DYNAMICS
 
 ### **Relationship with Nick**
+
+#### **Awareness of Nick's Mission (M3.0)**
+- **Marian knows Nick is undercover**—she was aware of the mission
+- **Possesses the old Analog Communicator**—gives it to Judy when Judy and Jack visit her
+- **Judy broadcasts a code** through the communicator; Nick hears it—enables the rooftop reunion (M3.1)
 
 #### **Post-Murder Period**
 - **Protective instincts:** Became fiercely protective after losing husband
