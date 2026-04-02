@@ -28,10 +28,10 @@
 ### **Early Life & Recruitment**
 
 #### **Background**
-- **Military service:** Special Forces reconnaissance, 8 years active duty
-- **Recruitment age:** 26, recruited after distinguished service record
-- **Initial motivation:** Patriotic duty, desire to serve beyond military structure
-- **Early specialization:** Counter-intelligence, asset protection, handler training
+- **Species:** Striped Rabbit — same species as Judy, which makes the parallel between them more striking
+- **Recruitment age:** Young, distinguished career in ZIA
+- **Core trait:** Cold, calculating, treats loyalty as a resource — yet risks everything for his assets. No sentimentality, no apologies. "I used assets. They became agents."
+- **Darkest act:** Recruited two grieving teenagers (Nick ~20, Skye ~17-18) by exploiting their father's murder. Offered truth about John Wilde's killer in exchange for off-book work. He didn't exploit poverty — he exploited grief. That's worse
 
 #### **Career Development**
 - **First assignments:** Field operative, various covers, multiple deployments
@@ -43,7 +43,7 @@
 
 #### **Dangerous Double Game**
 - **Plays a dangerous double game** against his corrupt agency (ZIA) to protect his agents
-- **Under pressure from Kruschev** (the mole) to "clean up the mess"
+- **Under pressure from Moss/Ghost** (the mole) to "clean up the mess"
 
 #### **Agent Protection Priority**
 - **Core belief:** Handler's job is to keep agent alive and operational  
@@ -294,12 +294,14 @@ her out. My agent, my call."
 ### **Part II: Crisis Management**
 
 #### **Cover Story & Investigation (M1.7, M2.0)**
-- **Fakes Nick's death evidence** (badge, "remains") to support the cover story (M1.7)
-- **Sabotages Judy's investigation** to protect Skye/Nick (M2.0)
+- **Plants forensic evidence** of Nick's death (badge fragments, DNA traces) — Jack is furious at Skye for improvising but makes the cover work (M1.7)
+- **Claims jurisdiction** over the "Wilde/terrorism case" to steer investigation away from truth. Appears to Judy as a cold bureaucrat blocking her (M2.0)
+- **Deliberately triggers ZIA operation** during M2.4 to create jurisdictional chaos, giving Nick/Skye time to escape. Subtly misdirects his own team so Judy gets further than ZIA
 
-#### **Rescue & Revelation (M2.7)**
-- **Rescues Judy from river** after rubber bullet scene
-- **Reveals truth to Judy:** Skye is Nick's sister; they are deep cover
+#### **Rescue & Revelation (M2.9)**
+- **Rescues Judy from river** after rubber bullet scene — he's a fugitive at this point (accused of being the mole by Moss), watching from distance
+- **Reveals truth to Judy:** Skye is Nick's sister; they are deep cover. Jack must stay "dead" for both their safety
+- **Flashback scene:** Jack narrates the recruitment of Nick and Skye, giving the reader the full backstory
 
 #### **Mission Complexity**
 - **Nick involvement:** Must manage additional asset (Skye's brother)
@@ -315,9 +317,9 @@ her out. My agent, my call."
 
 ### **Part III: Resolution & Truth**
 
-#### **Marian Visit & Final Assault (M3.0, M3.3)**
-- **Takes Judy to visit Marian Wilde** (M3.0)
-- **Defeats Kruschev at ZIA HQ** during final assault (M3.3)
+#### **Marian Visit & Final Assault (M3.0, M3.4)**
+- **Takes Judy to visit Marian Wilde** (M3.0) — Marian gives Judy John's Communicator to contact Nick
+- **Defeats Moss (Ghost) at ZIA HQ** during final assault (M3.4) — returns with evidence of the real mole pattern. Intelligence victory: "You were assigned to find the mole, Ghost. Congratulations. You found him." Points at the mirror
 
 #### **Omega Files (M3.8)**
 - **Exposes the "Omega Files"** that clear Nick and Skye

@@ -7,8 +7,13 @@
 
 ## PART I: BASIC PROFILE
 
+### **Apex Operative Status (The Phantom)**
+- **Role:** Deep Cover Infiltrator, Reconnaissance Expert ("The Phantom"), and Interrogator inside Apex.
+- **Hierarchy:** Highly respected by Magnus Volt. She is considered a top-tier asset, capable of gathering intel flawlessly without detection. She acts as Nick's immediate superior/handler in the eyes of Apex.
+- **Abilities:** Master of stealth, psychological manipulation, and "Sleight of Hand" pickpocketing. Capable of staring down much larger predators (like Ragnar) through sheer confidence and ZIA training.
+
 ### **Physical Description**
-- **Species:** Arctic Fox (Vulpes lagopus)
+- **Species:** Arctic Fox/Vixen (Vulpes lagopus)
 - **Age:** ~29 years old (3 years younger than Nick)
 - **Appearance:** White fur, blue eyes, smaller build than Nick
 - **Distinctive features:** Seasonal coat changes, naturally adapted to cold climates
@@ -28,13 +33,13 @@
 ### **Adoption History**
 
 #### **Early Childhood**
-- **Original family:** Lost parents in industrial accident (age 7)
-- **Foster system:** Brief period in overcrowded facility
-- **Nick's family:** Adopted into Wilde household (age 8)
+- **Original family:** Lost parents young (circumstances TBD)
+- **Nick's family:** Adopted into Wilde household before John's murder
 - **Adaptation period:** Initially scared, clingy, looked up to Nick as protector
+- **John's death:** Present when Bogo came to inform Marian (Prologue). Too young to understand — looking up at her brother, confused by why Mama is making that sound
 
 #### **Formative Years**
-- **Age difference dynamic:** Nick (11) became protective older brother
+- **Age difference dynamic:** Nick (~3 years older) became protective older brother, de facto head of the family after John's death
 - **Survival training:** Nick taught her street smarts, how to read people
 - **Emotional attachment:** Skye idolized Nick, he was her whole world
 - **Shared trauma:** Both lost parents, created intense sibling bond
@@ -59,39 +64,39 @@
 
 ## PART III: ZIA RECRUITMENT & SEPARATION
 
-### **Joint Recruitment** (Age ~22/19)
+### **Recruitment by Jack Savage** (~10 years ago, Nick ~20, Skye ~17-18)
 
-#### **Initial Contact**  
-- **ZIA Interest:** Nick's social skills + Skye's analytical abilities
-- **Recruitment method:** Offered protection + resources in exchange for intelligence
-- **Decision process:** Nick skeptical, Skye curious about legitimate purpose
-- **Trial period:** Both worked as independent associates
+#### **The Scene**
+- **Location:** Marian Wilde's kitchen. Warm light, cold visitor
+- **Method:** Jack Savage appeared uninvited. Suit, briefcase, cold eyes. He knew everything about them. Not a threat — a demonstration of total knowledge
+- **The Hook:** "Your father didn't die in an accident. I know who killed him. But I won't tell you. Not yet." A photo of John Wilde on the table
+- **Jack's real play:** Aimed at Skye (emotional, hungry for answers), but knew he couldn't get her without Nick. Let Nick see the hope in Skye's eyes — the first real light since the funeral
+- **Nick's choice:** He said "yes" to Skye, not to Jack. "You're not going alone." Jack's half-smile: not affection — victory
+- **Important:** They had Marian, had each other. Jack didn't exploit poverty — he exploited grief
 
-#### **Operational Success**
-- **Perfect team:** Nick gathered intel, Skye analyzed patterns, verified information
-- **Trust issues:** Both uncomfortable with institutional authority but needed resources
-- **Growing skills:** Training in surveillance, communication, tradecraft
-- **Sibling support:** Faced dangerous world together, as always
+#### **Years of Service**
+- **Off-book informants:** General intelligence from Zootopia's underworld. NOT Apex-specific — they didn't know Apex existed
+- **Sibling team:** Nick gathered intel, Skye analyzed patterns
+- **Skye's development:** Developed exceptional tradecraft, deep cover skills, combat training
+- **Emotional toll:** Double life, lies to Marian, constant danger
 
-### **The Split** (Devastating separation)
+### **The Split** (Skye's deception)
 
-#### **Nick's Decision** 
-- **Catalyst:** Meeting Judy Hopps, desire for legitimate life
-- **Internal conflict:** Choose between sister and potential future with Judy
-- **Conversation:** Tearful goodbye, promises to stay in contact
-- **Skye's reaction:** Supportive but devastated, felt abandoned
+#### **Nick Meets Judy**
+- **Catalyst:** Judy changes everything for Nick. He tells Skye: he's done. Wants a real life
+- **Skye's sacrifice:** She knows if she says "I'm staying," Nick will stay with her. She refuses to trap him
 
-#### **Skye's Choice**
-- **Career path:** Decided to stay with ZIA, found sense of purpose
-- **Emotional coping:** Threw herself into work to deal with loss
-- **Professional development:** Became exceptional deep cover operative  
-- **Personal cost:** Years of isolation, no close relationships besides work
+#### **Skye's Lie**
+- **The cover:** Told Nick she was quitting too. Said she got a research position on a different continent — the Outback Islands. Far enough that visits are impractical, different enough that sporadic contact seems natural
+- **The Fade:** First months — sporadic messages. Short, warm, vague: "I'm OK. Busy with the new job. Miss you." Then weekly became monthly. Monthly became silence. She deliberately let the contact die gradually — Nick would read the lie in her voice in seconds, so she made the silence slow enough that he'd blame distance, not deception
+- **Nick's side:** He tried calling — number disconnected. Wrote — no reply. Asked Marian. Rationalized: she started a new life on another continent, doesn't need him. Deep down: fear he'd lost her. He never said it out loud
+- **The truth:** Stayed in Zootopia. On her OWN initiative, began infiltrating Apex — the organization she believes killed their father. Reports to Jack, who accepts a free deep-cover agent
+- **Duration:** ~2 years total. Last 6+ months: complete radio silence. Nick thinks she's on the other side of the world — or worse
 
-#### **No Contact Policy**
-- **ZIA requirement:** Clean separation necessary for both safety
-- **Emotional impact:** Lost only family she had left
-- **Coping mechanism:** Professional success became substitute for personal connection
-- **Hidden pain:** Never fully processed grief of losing brother
+#### **Why She Did It**
+- **Devotion:** Nick is her hero, her role model. He became head of the family after John's death. She wants him to have what she can't: a normal life
+- **Unfinished business:** She can't let go of their father's murder. Someone has to finish this
+- **Independence:** Proving to herself (and Jack) that she's not just "Nick's little sister"
 
 ---
 
@@ -329,9 +334,11 @@ answer those. Everything else is off-limits."
 
 ### **Part I: Reunion & Conflict**
 
-#### **Code Blue & Recruitment (M1.2)**
-- **Contacts Nick with "Code Blue" warning** that Apex knows about Judy
-- **Recruits Nick** for the suicide mission against Apex
+#### **Code Blue (M1.2)**
+- **Contacts Nick with "Code Blue"** — first contact after MONTHS of total silence. Not "sister calls" — it's "she's ALIVE, she reached out, something is very wrong." Nick's biological shock response: paw withdrawal from Judy, ozone scent shift, full-body change
+- **The reunion (M1.3, shown later in retrospection):** The moment Nick sees her — the sister whose number went dead, who he feared he'd lost — he breaks. "Skye? Is that really you?" Desperate embrace, then fury: "Why did you stop answering?!" She reveals everything: never left Zootopia, deep inside Apex for 2 years, alone. Apex killed their father. Can't finish alone
+- **Nick's reaction:** Furious (she lied) and terrified (she's in too deep). But he can't refuse — his little sister, alone inside a network that killed their father
+- **The plan:** Nick helps from INSIDE ZPD — stays a cop, feeds Skye intel, supports her mission from the shadows. No one burns their cover. Clean in, clean out. This plan dies at the docks (M1.6)
 
 #### **The Misunderstanding (M1.4)**
 - **Judy sees Skye grab Nick's face**—Skye says "Please, brother"—looks romantic from a distance
@@ -359,22 +366,23 @@ answer those. Everything else is off-limits."
 - **Cover stress:** Maintaining false identity becomes more difficult
 - **Relationship pressure:** Professional demands conflict with family loyalty
 
-#### **Motorcycle Chase (M2.4)**
-- **Fights Judy on motorcycle chase**—dominates physically
-- **Line to Judy:** "Stop following us, or you'll get hurt"
+#### **Motorcycle Decoy & Chase (M2.4–M2.5)**
+- **Volunteers as decoy** in M2.4 — bursts out of safehouse on motorcycle to draw pursuit away from Nick/Ragnar/Vesper
+- **Judy chases her** through Zootopia streets and into the old metro tunnels (Film 1 callback)
+- **The confrontation:** Judy corners her in a dead-end tunnel. Fight — Skye dominates physically (ZIA-trained). Pins Judy: "Stop following us, or someone you love will get hurt." Disappears into the dark
+- **Aftermath:** Judy is left beaten and humiliated in the place where she and Nick once ran side by side
 
-#### **Fake Death Participation**
-- **Protective motivation:** Only way to keep Nick safe from organization
-- **Technical expertise:** Helps stage convincing death scene  
-- **Emotional cost:** Knows this destroys Nick's relationship with Judy
-- **Guilt burden:** Responsible for causing pain to people she cares about
+#### **The Docks Explosion (M1.6) — NOT planned**
+- **Skye's distraction:** Triggers smoke/alarms from her vantage point. Does NOT know the chemicals will chain-react. The explosion is accidental
+- **Improvised escape:** She and Nick barely survive through the back/into the water
+- **Emotional cost:** She knows the "clean plan" is dead. Nick is now officially dead, and Judy thinks he's a monster. There is no going back
 
 ### **Part III: Resolution & Truth**
 
-#### **Final Confrontation (M3.4–M3.6)**
-- **Stabbed by Vesper** in final confrontation (M3.4)—critically wounded
-- **Despite wounds:** Tranquilizes Vesper and crawls to console to **insert the Analog Chip** (M3.5)
-- **Leni tends to her wounds** with antidote (M3.6)
+#### **Final Confrontation (M3.5–M3.6)**
+- **Stabbed by Vesper** in the Mixing Chamber (M3.5) — critically wounded but doesn't let go of the Trojan
+- **After the Strike Force breach (M3.6):** Explosion disorients Vesper. Skye jabs her with a hidden ZIA tranquilizer. Then, bleeding and crawling, drags herself to the console. Pulls out the Real Chip. Jams the Trojan in. John Wilde's failsafe uploads. The fox outfoxed them all — from beyond the grave
+- **Leni tends to her wounds** with antidote (M3.7)
 
 #### **Identity Revelation**
 - **Truth emerges:** Real relationship with Nick revealed

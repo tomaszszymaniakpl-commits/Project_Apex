@@ -25,15 +25,15 @@
 
 ## TRAGIC BACKSTORY
 
-### **The Murder** (15+ years ago)
+### **The Murder** (~22-24 years ago)
 
 #### **Timeline & Circumstances**
-- **When:** Nick was ~16 years old, Skye ~8 (shortly after her adoption)
+- **When:** Nick was ~8-10 years old, Skye ~5-7 (already adopted into the family)
 - **Husband's name:** **John Wilde**
-- **John's legacy:** John created the **Analog Chip** as a fail-safe against Apex
+- **John's legacy:** John worked at SyncPoint Research, helped BUILD the climate system. When he discovered Magnus's true plan, he created the Trojan as a failsafe. Magnus had him killed
 - **Method:** [TO BE DETERMINED] - made to look like accident/robbery
-- **Investigation:** Police case mysteriously closed, insufficient evidence
-- **Family impact:** Left Marian widowed with teenage son and newly adopted daughter
+- **Investigation:** Case "deprioritized" — closure order signed by Officer Buck Antler ("It's just a fox"). Young Sergeant Bogo promised Marian they'd find the killer. They didn't
+- **Family impact:** Left Marian widowed with young son and adopted daughter. Nick became head of the family
 
 #### **What Marian Knows**
 - **Definite facts:** Husband was murdered, not accidental death
@@ -41,12 +41,19 @@
 - **Personal details:** Husband was worried/scared about something before death
 - **Police behavior:** Officers seemed intimidated, wouldn't share information
 - **Hidden evidence:** Kept husband's personal papers that police "overlooked"
+- **The Trojan:** Before his death, John gave Marian a small device (the Trojan) and instructions: "If something happens to me, give this to Skye when she's ready. She'll know what to do." Marian didn't fully understand what it was — only that John was terrified and this was his insurance. She kept it hidden for over a decade
+- **The Communicator:** Also kept John's personal Analog Communicator — an off-grid device he built for emergencies, untraceable by digital surveillance
 
 #### **What She Suspects**
 - **Organized crime involvement:** Pattern fits criminal organization methods
 - **Cover-up:** Someone powerful prevented proper investigation
 - **Ongoing danger:** Family might still be at risk from same threat
 - **Current connections:** Similar patterns in news/cases remind her of husband's death
+
+#### **Guardian of John's Legacy**
+- **The Trojan -> Skye:** Years later, when Skye returned as a ZIA agent asking about their father's death, Marian finally gave her the Trojan. She told Skye everything John had said. This is the weapon that ends the story
+- **The Communicator -> Judy:** In M3.0, Marian gives Judy the Communicator to contact Nick. She recognizes Judy as the second piece of John's legacy — not blood family, but chosen family
+- **Thematic role:** Marian is the bridge between the dead father and the living children. She gave each "daughter" a piece of John's work: Skye got the weapon, Judy got the connection. Together they complete what John started
 
 ---
 
@@ -75,7 +82,7 @@
 ### **Relationship with Skye**
 
 #### **Adoption Process**
-- **Timing:** Shortly before husband's murder, family was still adjusting
+- **Timing:** Before husband's murder — Skye was already part of the family when John died
 - **Motivation:** Lost own parents, needed loving home
 - **Integration:** Marian treated her exactly like biological daughter
 - **Grief bonding:** Both processing loss helped create deep mother-daughter bond

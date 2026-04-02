@@ -67,7 +67,7 @@
 | **ZPD - Hierarchy** | `organizations/zpd.md` | APPROVED | HIGH | Includes Buck Antler, Delgato |
 | **ZPD - Strike Force** | `organizations/zpd.md` | APPROVED | HIGH | Final team: Wolford, Fangmeyer, McHorn, Leni, Clawhauser |
 | **ZPD - Procedures** | `organizations/zpd.md` | APPROVED | MEDIUM | - |
-| **ZIA - Structure v2** | `organizations/zia_v2.md` | APPROVED | HIGH | Kruschev confirmed as mole |
+| **ZIA - Structure v2** | `organizations/zia_v2.md` | APPROVED | HIGH | Moss confirmed as mole |
 | **Apex Society** | `organizations/apex_society.md` | APPROVED | HIGH | A.7 COMPLETE - Triad + Insiders |
 
 ---
@@ -94,7 +94,7 @@
 | **Magnus Volt** | APPROVED | HIGH | Apex leader - Jaguar. In `organizations/apex_society.md` |
 | **Ragnar** | APPROVED | HIGH | Apex enforcer - Komodo Dragon. Venom. In `apex_society.md` |
 | **Vesper** | APPROVED | HIGH | Apex tech/assassin - Caracal. In `apex_society.md` |
-| **Kruschev** | APPROVED | HIGH | ZIA mole - Polar Bear. In `zia_v2.md` + `apex_society.md` |
+| **Moss (Ghost)** | APPROVED | HIGH | ZIA mole - Moose. In `zia_v2.md` + `apex_society.md` |
 | **Delgato** | APPROVED | HIGH | ZPD traitor - Lion. In `zpd.md` + `apex_society.md` |
 | **Buck Antler** | APPROVED | HIGH | Corrupt commissioner - Deer. In `zpd.md` + `apex_society.md` |
 | **Strike Force** | APPROVED | HIGH | Wolford, Fangmeyer, McHorn, Leni, Clawhauser. In `zpd.md` |
@@ -135,10 +135,10 @@ Information Asymmetry Map
 
 ## NEXT STEPS
 
-1. **Scene-by-scene breakdown** of each milestone (Gemini 2.5 Pro)
-2. **Information Asymmetry Map** - what reader/characters know at each point
-3. **Chapter mapping** - how scenes group into chapters, pacing
-4. **Final bible review** - ensure all files consistent with scene breakdown
+1. ~~**World Bible sync pass**~~ — DONE (Session 6)
+2. **Scene-by-scene breakdown** of each milestone (Gemini 2.5 Pro)
+3. **Information Asymmetry Map** - what reader/characters know at each point
+4. **Chapter mapping** - how scenes group into chapters, pacing
 5. **Begin writing** - chapter by chapter (Cursor/Claude)
 
 ---
@@ -155,12 +155,21 @@ Information Asymmetry Map
 
 **2026-02-16 - MAJOR UPDATE: Story Plan Complete**
 - Master story plan created (PROJECT APEX) with full 3-act structure
-- A.7 COMPLETED: Apex Society (Magnus Volt, Ragnar, Vesper)
-- Insiders defined: Kruschev (mole), Delgato (traitor), Buck Antler (corrupt)
+- A.7 COMPLETED: Apex Society (Magnus Volt, Ragnar Drakov, Vesper Nyx)
+- Insiders defined: Moss/Ghost (mole), Delgato (traitor), Buck Antler (corrupt)
 - Strike Force finalized: Wolford, Fangmeyer, McHorn, Leni, Clawhauser
 - All character files updated with story plan details
-- ZIA mole confirmed as Kruschev
+- ZIA mole confirmed as Antford "Ghost" Moss (Moose)
 - ZPD updated with Delgato, Antler, final Strike Force roster
+
+**2026-02-17 - Session 6: World Bible Sync + Details**
+- Full names: Ragnar Drakov (Komodo Dragon), Vesper Nyx (Caracal), Antford "Ghost" Moss (Moose)
+- World Bible sync pass: 7 character/org files updated to match story plan
+- Eyes motif added to style_specification.md (emerald/lavender)
+- M2.1 Fangmeyer scene added (Bogo asks her to watch Judy)
+- All milestone numbers corrected across files
+- Recruitment backstory aligned across Nick, Skye, Jack profiles
+- STATUS: World Bible SYNCED with story plan. Ready for scene breakdown
 
 ---
 

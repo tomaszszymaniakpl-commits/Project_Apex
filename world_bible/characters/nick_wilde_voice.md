@@ -12,6 +12,7 @@
 - **Age:** ~32 years old (during our story)
 - **Occupation:** ZPD Detective (after promotion from film 1)
 - **Partnership:** Judy Hopps (professional + romantic tension)
+- **Distinctive feature:** Emerald green eyes — vivid, expressive, the feature Judy loves most. His eyes betray emotions his voice hides: fear reads as cold ozone-green, warmth as deep forest-green. When he lies, his eyes go flat — Judy is the only one who can read the difference
 
 ### **Character Arc from Films**
 - **Film 1:** Cynical con artist → Reformed citizen, ZPD Officer
@@ -25,35 +26,36 @@
 ### **"Independent Associate" Era** (Before ZPD)
 
 #### **Recruitment Context**
-- **Timeline:** ~5-7 years before joining ZPD
-- **Age:** Early-to-mid twenties, street-smart but vulnerable  
-- **Circumstance:** Nick and Skye (adopted sister) lived on the margins of society
-- **ZIA Interest:** Their street connections and survival skills were valuable
+- **Timeline:** ~10 years before the story. Nick is ~20, Skye ~17-18
+- **Recruiter:** Jack Savage (ZIA Handler) — came uninvited to Marian's kitchen
+- **Method:** Jack exploited their grief over John Wilde's murder. Offered the truth about who killed their father in exchange for off-book intelligence work. No files, no records. People who don't exist
+- **The Hook:** "Your father didn't die in an accident. I know who killed him. But I won't tell you. Not yet."
+- **Nick's choice:** He didn't say "yes" to Jack. He said "yes" to Skye — saw the first real hope in her eyes since the funeral. "You're not going alone." Jack counted on exactly that
+- **Important:** Nick and Skye had Marian, had each other. They weren't desperate or starving. Jack didn't exploit their poverty — he exploited their grief. That's worse
 
-#### **Unofficial Status**
-- **Not full agents:** Independent contractors, they provided intel in exchange for protection
-- **Compartmentalized knowledge:** They didn't know the full scope of ZIA operations
-- **Sibling team:** Nick and Skye worked together, covered for each other
-- **Trust issues:** Even then Nick had problems with institutional authority
-
-#### **Operational Role**  
-- **Street intelligence:** Intel on criminal networks, smuggling routes
-- **Social engineering:** Nick's natural charisma + manipulation skills
+#### **Operational Role**
+- **Off-book informants:** General intelligence from Zootopia's underworld — smuggling, corruption, contacts. NOT Apex-specific. They didn't even know Apex existed
+- **Sibling team:** Nick gathered intel, Skye analyzed patterns
 - **Protective instinct:** Always prioritized Skye's safety over mission objectives
-- **Exit strategy:** Always had a plan B if the ZIA relationship went wrong
+- **Emotional toll:** The double life, the lies to Marian, the constant danger ate at Nick
 
 ### **The Split** (Turning point)
-- **Catalyst:** Meeting Judy Hopps in Film 1
-- **Decision:** Nick wants a clean life, legitimate career in ZPD
-- **Skye's choice:** Stays in the gray world, finds purpose in ZIA work
-- **Emotional cost:** Leaving his sister was the hardest decision of his life
-- **No contact:** ZIA policy + Nick's desire for a fresh start = years of separation
+- **Catalyst:** Meeting Judy Hopps — she saw the real Nick and believed in him
+- **Decision:** Nick tells Skye he's done. He wants a real life with Judy
+- **Skye's lie:** Told Nick she was quitting too. She knew that if she said "I'm staying," Nick would stay with her — she refused to trap him. Said she got a research position on the Outback Islands — another continent, far enough that visits are impractical
+- **The Fade:** First months — sporadic messages. Short, warm, vague. Then weekly became monthly. Monthly became silence. Nick tried calling — number disconnected. Wrote — no reply. He rationalized: she started a new life, doesn't need her big brother anymore. But deep down — fear. He didn't KNOW she was safe. He chose to believe the version where she was, because the alternative was unbearable. He never said this to anyone
+- **The truth (hidden from Nick):** Skye stayed in Zootopia. On her OWN initiative, began infiltrating Apex — the organization she believes killed their father. The contact fade was deliberate — she made the silence gradual enough that Nick would blame distance, not deception
+- **Duration:** ~2 years total. Last 6+ months: complete radio silence
 
 ---
 
 ## PART III: CURRENT PSYCHOLOGICAL PROFILE
 
 ### **Core Personality Traits**
+
+#### **Personal Preferences**
+- **Favorite food:** Blueberries. (Note: Judy's favorite is carrot cake).
+- **Style:** Values presentation, classic "hustler chic" evolved into relaxed detective wear.
 
 #### **Defensive Humor**
 - **Mechanism:** Uses sarcasm and wisecracks to avoid vulnerable topics
@@ -63,7 +65,7 @@
 
 #### **Protective Instincts** 
 - **Primary target:** Judy (romantic partner)
-- **Hidden priority:** Skye (sister - but she's "gone" from his perspective)  
+- **Hidden priority:** Skye (sister - thinks she moved away, doesn't know she's deep inside Apex)  
 - **Manifestation:** Will sacrifice own safety/interests for loved ones
 - **Internal conflict:** Struggle between selflessness and self-preservation
 
@@ -89,11 +91,11 @@
 - **Growth arc:** Learning to be fully transparent with loved one
 
 #### **With Skye Winters** (Past/Hidden)
-- **Sibling bond:** Deep, protective, formative relationship
-- **Current status:** Nick thinks she "disappeared" years ago
-- **Emotional weight:** Guilt about "abandoning" her for normal life
-- **Hidden truth:** Doesn't know that she works for ZIA
-- **Reunion anxiety:** Fear that she blames him for leaving
+- **Sibling bond:** Deep, protective, formative relationship. Nick is her hero — he became the head of the family after John's death
+- **Current status:** Nick thinks she moved to the Outback Islands for work ~2 years ago. Contact faded gradually, then stopped entirely 6+ months ago. He tells himself she's busy with her new life. He doesn't fully believe it
+- **The stone in his chest:** He doesn't KNOW she's safe. Number disconnected. No replies. Marian has no recent contact either. Nick chose to believe the version where Skye is fine — because the alternative is unbearable. He never voices this fear
+- **Hidden truth:** Skye never left Zootopia. She's been infiltrating Apex alone for ~2 years. The fade was deliberate
+- **Code Blue (M1.2):** When Skye's message arrives after MONTHS of silence, it's not just "sister calls" — it's "she's ALIVE." Nick's world stops. The reunion is overwhelming: desperate embrace, then fury ("Why did you stop answering?!"), then terror (she's in too deep). He can't refuse — his little sister, alone inside a network that killed their father
 
 #### **With ZIA** (Complicated past)
 - **Official status:** Nick thinks connection is severed
@@ -165,7 +167,7 @@ I wanted to have?"
 ### **Psychological Pressure Points**
 
 #### **Abandonment Issues**
-- **Root cause:** Lost parents young, separated from Skye
+- **Root cause:** Father (John Wilde) murdered when Nick was ~8-10; became head of the family young
 - **Manifestation:** Overcompensates by being indispensable to Judy
 - **Fear response:** Withdraws emotionally when feels threatened
 - **Healing process:** Judy's consistent loyalty slowly rebuilds trust
@@ -244,9 +246,9 @@ I wanted to have?"
 - Protective of current life, wary of threats to stability
 
 #### **Skye's Return**
-- **Shock:** Seeing sister after years triggers massive emotional response
-- **Confusion:** Doesn't understand why she suddenly reappeared
-- **Guilt:** Overwhelming shame about "abandoning" her
+- **Shock:** The sister whose number went dead, who he feared he'd lost on the other side of the world — is ALIVE and HERE. "Skye? Is that really you?" Voice cracks. Desperate embrace
+- **Fury:** "Why did you stop answering?! I thought something HAPPENED to you!" Months of buried fear exploding into anger
+- **Guilt:** Overwhelming shame about "abandoning" her — did she disappear because he chose Judy over her?
 - **Fear:** Terrified that Judy will discover his secrets
 
 #### **Forced Back into Gray World**
@@ -256,17 +258,17 @@ I wanted to have?"
 
 ### **Part II: Descent into Deception**
 
-#### **Fake Death Decision**
-- **Motivation:** Only way to protect Judy from criminal organization threat
-- **Emotional cost:** Knows this will destroy relationship with Judy
-- **Method:** Uses ZIA training to stage convincing death
-- **Internal monologue:** "She'll hate me, but she'll be alive"
+#### **The Docks Explosion (M1.6) — IMPROVISED, NOT PLANNED**
+- **Original plan:** Nick stays a cop, helps Skye from the shadows, never reveals himself. Clean in, clean out
+- **What went wrong:** Judy tracked him to the docks. A sniper laser dot appeared on her chest. Nick improvised "Predators don't change, Carrots" — the one line that would make her step back AND prove to Apex he's one of them. Skye's distraction caused an accidental chemical chain reaction. The explosion was NOT planned
+- **Emotional cost:** Nick destroyed the most important relationship in his life to save Judy. He doesn't even know if she survived until Jack confirms it hours later
+- **The point of no return:** Nick's plan is dead. He's officially dead, evidence points to him, and Apex thinks he's their guy. The only path is forward — deeper into Apex
 
-#### **Undercover Operation**
-- **Deep cover:** Infiltrates criminal organization
-- **Sibling dynamics:** Working with Skye again, complicated emotions
-- **Isolation:** Cut off from everything that gave his life meaning
-- **Psychological pressure:** Maintaining false identity while grieving lost life
+#### **Undercover Inside Apex**
+- **Forced infiltration:** Not a planned deep cover — Nick was swallowed by circumstance
+- **Sibling dynamics:** Working with Skye again, but under Apex's watch
+- **Isolation:** Cut off from Judy, Marian, everything that gave his life meaning
+- **Psychological pressure:** Playing the villain while dying inside
 
 ### **Part III: Truth & Reconciliation**
 

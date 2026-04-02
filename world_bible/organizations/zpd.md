@@ -52,15 +52,19 @@ Main station, where Nick and Judy work.
 - Breaching, hostage rescue, high-risk warrants
 - Firearms (not just tranqs)
 
-#### **Officer Delgato** (ZPD SWAT)
+#### **Officer Delgato** (Lion) (ZPD SWAT)
 - Known anti-interspecies bigot who **secretly works for Apex Society**
-- Other officers think he's a stupid racist; some nonetheless agree with him
+- Other officers think he's a stupid racist; a few quietly agree with him
 - Doesn't like Nick and Judy: believes them weak, finds their relationship disgusting
+- **Typical comments:** "A fox and a bunny playing detective? What's next, a mouse in SWAT?" / "Nature put us in categories for a reason, Hopps."
+- **After Nick's "death":** Delgato is smugly vindicated. "I told you all. Predators stick to their own kind." McHorn nearly breaks his jaw in the locker room. This incident is hushed up by Bogo
+- **Irony:** Delgato calls Nick a traitor while being the ACTUAL traitor in ZPD
+- **The Hit:** Delgato feeds Judy's home address/schedule to Apex (via info Clawhauser leaked to him), enabling Vesper's assassination attempt. Fangmeyer takes the bullet instead. Delgato shows "concern" at the hospital while being directly responsible
 
 #### **Forensics & CSI**
 - DNA analysis, fingerprints, ballistics
 - Lab in the basement of Precinct 1
-- **Key role:** Analysis of Nick's "body" (DNA falsified by Skye)
+- **Key role:** Analysis of Nick's "body" (forensic evidence planted by Jack Savage)
 
 #### **Vice & Narcotics**
 - Drugs, prostitution, illegal gambling
@@ -77,14 +81,15 @@ Main station, where Nick and Judy work.
 
 ### Origins
 
-**After Night Howler Incident + Nick's "Betrayal":**
-- Mayor (Wind Dancer) wants to show that ZPD is effective
-- Chief Bogo proposes **Organized Crime Strike Force**
-- Goal: Dismantle syndicates that infiltrated the city
+**After Nick's "Death" and the Iron Proof (M2.1):**
+- Bogo gives Judy **quiet, off-the-books authorization.** No paper trail, no radio, no official mandate
+- "You get a team. You get results. And you do NOT get yourself killed, Hopps. That's an order."
+- This is personal for Bogo — he failed the Wildes once (Prologue). He won't fail Judy
+- **If ZIA or Commissioner Antler finds out, they're all done**
 
-### Official Name
-**"ZOCTF - Zootopia Organized Crime Task Force"**  
-Informally: "Hopps' Hunters" (because Judy commands)
+### Name
+**No official name** — the unit doesn't officially exist.  
+Informally: "Hopps' Hunters" or just "Strike Force" (internal only)
 
 ---
 
@@ -94,9 +99,9 @@ Informally: "Hopps' Hunters" (because Judy commands)
 
 **Why Judy:**
 - Proved effectiveness (Night Howler case + success with Zootopia 2)
-- Knew Nick - has insight into criminal mindset
-- **Personal motivation:** Everyone knows she wants to avenge the betrayal
-- Bogo sees that obsession can be useful (but worries about her)
+- Knew Nick — has insight into his methods (glimpses from M2.0 prove his techniques are being used)
+- **Personal motivation:** The Iron Proof photo (M2.1) shattered her last faith. Bogo sees that obsession can be channeled
+- **Bogo's guilt:** He broke his promise to John Wilde's widow 20+ years ago. Giving Judy this team is partial atonement
 
 #### **Team members (5 mammals)** — **STATUS: APPROVED**
 
@@ -111,6 +116,9 @@ Informally: "Hopps' Hunters" (because Judy commands)
 
 ##### **3. McHorn (Rhino)**
 - **Role:** The Tank. Brute force needed to break blockades.
+- **Characteristics:** Quiet, old-school cop with a strong moral compass. Despises Delgato — considers him a racist disgrace to the badge. Has openly clashed with Delgato over his comments about Nick and Judy's relationship.
+- **Connection to Nick/Judy:** Precinct 1's worst-kept secret is that Nick and Judy are in love. McHorn has always defended them against Delgato's sneering ("A fox and a rabbit? Disgusting. Against nature."). McHorn's response: silence, a look, and stepping between them. Actions, not words.
+- **Emotional stakes:** McHorn takes Nick's "betrayal" personally — he stuck his neck out defending a fox, and now it looks like Delgato was right all along. Joining the Strike Force is partly about proving that his judgment wasn't wrong. His final fight with Delgato in Act III is deeply personal: it's not just good vs. evil, it's "I was RIGHT about them, and you were always the real traitor."
 
 ##### **4. Leni Scharf (Ocelot) – "Ocelot"**
 - **Role:** Infiltrator, technology, sniper, scout.

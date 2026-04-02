@@ -12,6 +12,7 @@
 - **Age:** ~26 years old (during our story)
 - **Occupation:** ZPD Detective, later Strike Force Commander
 - **Partnership:** Nick Wilde (professional + romantic)
+- **Distinctive feature:** Violet/lavender eyes — large, expressive, impossible to hide emotion. Nick calls them his compass: "Those eyes don't know how to lie, Carrots." Her eyes are the first thing Nick fell for and the last thing he sees before the explosion. When she's furious they darken to deep purple; when hopeful, they lighten to pale lavender
 
 ### **Character Arc from Films**
 - **Film 1:** Idealistic rookie → Experienced officer who learned about systemic corruption
@@ -83,8 +84,8 @@
 #### **Command Responsibilities**  
 - **Team management:** First time leading peers, earning respect
 - **High-stakes decisions:** Life-and-death choices affect multiple officers
-- **Political pressure:** City officials expecting rapid results
-- **Media attention:** Public face of anti-corruption efforts
+- **Off-the-books pressure:** No official mandate — Bogo gave quiet authorization. If ZIA or the Commissioner finds out, they're all done
+- **Secrecy:** The Strike Force doesn't officially exist. No paper trail, no radio, no public mandate
 
 #### **Personal Mission Overlap**
 - **Nick's "betrayal":** Professional duty vs personal vendetta  
@@ -239,11 +240,12 @@ We're not here to make friends - we're here to stop killers."
 - **Inspirational:** Leads by example, high standards for herself and others
 - **Personal investment:** Knows each team member's strengths, fears, motivations
 
-#### **Individual Relationships**
-- **Fang Stormclaw:** Respects his experience, relies on tactical expertise
-- **Ada Frost:** Mentors her technical skills, protective of quiet personality  
-- **Marcus "Brick" Ngala:** Appreciates his steadiness, trusts his judgment
-- **Zara Blacktail:** Values her cynicism as counterbalance to own optimism
+#### **Individual Relationships (To be developed in Act II)**
+- **Wolford (Wolf):** The only one who doubts Nick's guilt — Judy's moral compass and temporary street partner. Trusts his instincts and tactical expertise. *Plant: Makes custom door-breaching explosives in his spare time.*
+- **Fangmeyer (Tiger):** Judy's best friend. Loyal without question. Acts as a physical and emotional shield. Her injury (M2.6) is the catalyst for Judy's absolute rage.
+- **McHorn (Rhino):** Quiet, old-school cop who always defended Nick/Judy against Delgato. His presence is a silent promise of brute loyalty. Deep personal hatred for Delgato.
+- **Leni Scharf (Ocelot):** Tech/infiltration specialist. Complains about being "stuck in the chair." *Plant: Has a heavily modified black street motorcycle that Judy will use for a chase.*
+- **Clawhauser (Cheetah):** Overwatch from HQ. Well-meaning but unknowingly leaks info to Delgato — the team's blind spot.
 
 ### **With Skye Winters** (Perceived rivalry)
 
@@ -277,9 +279,11 @@ We're not here to make friends - we're here to stop killers."
 
 ### **Combat & Physical**
 - **Speed & agility:** Natural rabbit advantages w chase situations
+- **Senses:** Exceptional hearing (rabbit ears). IMPORTANT: Judy does NOT have night vision or scent-tracking abilities (those are predator traits). She relies on her ears, spatial awareness, and standard police training in the dark.
 - **Weapon proficiency:** Expert marksman with tranq guns, trained in non-lethal combat
 - **Endurance:** Can outlast larger opponents through determination
 - **Tactical awareness:** Excellent spatial reasoning in dangerous situations
+- **Personal preferences:** Favorite food is carrot cake (not blueberries, which are Nick's favorite).
 
 ---
 
@@ -298,11 +302,10 @@ We're not here to make friends - we're here to stop killers."
 - **Believes Nick is dead/traitor** after fake death at the Docks
 - **Grief turns to hatred** as she processes the betrayal
 
-#### **Strike Force Formation (M2.1)**
-- **Forms Strike Force to hunt Nick**—grief has turned to hatred
-- **Fangmeyer** (her best friend) shot protecting her—catalyzes absolute hatred for Nick
-- **Opportunity:** Command position offers chance to prove herself
-- **Mission focus:** Hunting organized crime becomes obsession
+#### **Strike Force Formation (M2.1–M2.2)**
+- **Bogo's quiet authorization:** Off-the-books, no paper trail, no radio. "You get a team. You get results. And you do NOT get yourself killed, Hopps."
+- **Personal mission:** Hunting Nick's "criminal network" becomes obsession (ZPD doesn't know about Apex by name)
+- **Fangmeyer shot (M2.6):** Her best friend takes a bullet meant for Judy — catalyzes absolute hatred
 - **Team dynamics:** Protective leadership style emerges
 - **Identity shift:** From Nick's partner to independent commander
 
@@ -314,12 +317,14 @@ We're not here to make friends - we're here to stop killers."
 - **Revenge motivation:** Strike Force mission becomes personal vendetta
 - **Emotional shutdown:** Suppresses grief to maintain command effectiveness
 
-#### **Rubber Bullet & Truth (M2.7)**
+#### **Rubber Bullet & Truth (M2.9)**
 - **Shot by Nick with rubber bullet** in the line of fire—he does it to save her life
-- **Discovers truth** when she finds the bullet and realizes it was non-lethal
+- **Rescued by Jack** (fugitive, watching from distance) — pulls her from the river
+- **Discovers truth** when she finds the bullet and realizes it was non-lethal. Jack reveals everything: Skye is Nick's sister, they are deep cover
 
-#### **Rogue Agent (M2.8)**
+#### **Rogue Agent (M2.10)**
 - **Becomes rogue agent ("ghost")** after the world thinks she's dead
+- **Two ghosts:** Jack (fugitive from ZIA) and Judy (officially dead) work together off-grid
 
 #### **Hunting the "Traitor"**
 - **Single-minded pursuit:** Every resource focused on finding Nick's killer
@@ -332,14 +337,14 @@ We're not here to make friends - we're here to stop killers."
 #### **Rooftop Reunion (M3.1)**
 - **Reunites with Nick on rooftop**—"The Slap and The Hug"
 
-#### **Final Confrontation (M3.4)**
-- **Bitten by Ragnar** (envenomation) in final confrontation
+#### **Final Confrontation (M3.5)**
+- **Bitten by Ragnar** (envenomation) in final confrontation at the Mixing Chamber
 
-#### **The Kiss of Life (M3.6)**
+#### **The Kiss of Life (M3.7)**
 - **Saved by Nick** with antidote/CPR—"The Kiss of Life"
 
-#### **Arrest to Save Him (M3.7)**
-- **Weeping while arresting Nick** to save him from SWAT
+#### **Arrest to Save Him (M3.8)**
+- **Weeping while arresting Nick** to save him from trigger-happy SWAT
 
 #### **Reality Revelation**
 - **Shock:** Nick is alive, everything was deception

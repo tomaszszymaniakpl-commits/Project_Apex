@@ -8,7 +8,7 @@
 ## PART I: ORGANIZATIONAL CRISIS
 
 ### **The Mole Problem**
-- **THE MOLE IS CONFIRMED:** Viktor "Ice" Kruschev (ZIA Deputy Director) passes intel to the criminal organization
+- **THE MOLE IS CONFIRMED:** Antford "Ghost" Moss (ZIA Senior Investigator) passes intel to the criminal organization
 - **High-level access** - the mole has access to classified operations
 - **Perfect cover** - long-time member of the organization, trusted by leadership  
 - **Criminal advantage** - that's why the target organization is always one step ahead of ZPD/ZIA
@@ -31,12 +31,19 @@ Due to the mole threat, ZIA operates in super-strict compartments:
 - **Status:** UNKNOWN loyalty (may be clean or compromised)
 - **Characteristics:** Cold, calculating, maintains strict hierarchy
 - **Public face** - represents ZIA in official capacity  
-- **Hidden agenda:** Conducts secret investigation into the mole (the mole is confirmed as Deputy Director Kruschev)
+- **Hidden agenda:** Conducts secret investigation into the mole (the mole is confirmed as Senior Investigator Moss)
 
-#### **Deputy Director** - Viktor "Ice" Kruschev (Polar Bear)
-- **Status:** **THE MOLE** — confirmed. Passes intel to the criminal organization (Apex Society).
-- **Role:** Operations coordinator, has access to all divisions
-- **Behavior:** Pressures Jack Savage to "clean up" the Nick situation (remove or neutralize Nick as a liability).
+#### **Senior Investigator** - Antford "Ghost" Moss (Moose)
+- **Status:** **THE MOLE** — confirmed. Passes intel to Apex Society.
+- **Role:** High-ranking investigator/agent with broad access. NOT the director, but senior enough to influence operations and access classified files.
+- **The Ironic Assignment:** ZIA knows it has a mole. Director Silverback assigns Moss — a trusted veteran — to FIND the mole. Moss is now officially hunting himself.
+- **Dual pressure on Jack:**
+  1. As mole hunter: demands Jack reveal his deep cover agent's identity ("For the investigation, I need your agent list")
+  2. As Apex asset: wants the agent exposed so Apex can eliminate them
+- **Building the frame:** Throughout Act II, Moss builds a case file against Jack — reframing every protective action as evidence of treason. Jack's refusal to reveal Skye becomes "obstruction." Jack's off-books operations become "unauthorized activity."
+- **The Accusation (M2.7):** Moss presents the file to Silverback. Jack is branded a traitor and ordered arrested. Jack escapes.
+- **Motivation:** Pragmatist — recruited by Apex years ago, now in too deep to get out. Not ideological, just survival. "Every agency has a price."
+- **Fate:** Confronted by Jack at ZIA HQ (M3.4). Jack returns with evidence of the real pattern. Moss is arrested by Silverback's loyal agents. Intelligence victory — a rabbit beat a moose with patience and proof.
 
 ### **Jack Savage - Special Handler** (Rabbit)
 
@@ -57,8 +64,10 @@ Due to the mole threat, ZIA operates in super-strict compartments:
 - **Compartmented operations** - works with a narrow group of trusted agents
 - **Counter-intelligence focus** - mainly hunts for the mole
 - **Emergency extraction** - responsible for Skye's safety protocols
-- **Dangerous double game** - Jack plays a dangerous double game against his corrupt agency to protect his agents (Skye, Nick) while appearing to comply with Kruschev's demands.
-- **Fate:** Jack defeats Kruschev at ZIA HQ during the final assault.
+- **Dangerous double game** - Jack plays a dangerous double game: complies with Moss on the surface while hiding Skye's identity and running parallel off-books operations.
+- **The Frame:** Moss builds a treason case against Jack. Every time Jack protects Skye, it becomes "evidence." Jack is accused of being the mole (M2.7) and escapes ZIA.
+- **Fugitive arc:** After escaping, Jack operates as a ghost. He rescues Judy after the rubber bullet (M2.9), reveals the truth, and they work together off-grid. Mirror of Nick — both framed by the institutions they served.
+- **Vindication:** Jack returns to ZIA with proof of Moss's treachery (M3.4). Moss arrested. Jack cleared. Intelligence victory.
 
 ---
 
@@ -200,7 +209,7 @@ THE MOLE — VIKTOR "ICE" KRUSCHEV (CONFIRMED)
 ├── Criminal Organization: Passes intel to Apex Society, strategic asset
 ├── ZIA Operations: Inside access, sabotage capability; pressures Jack to "clean up" Nick
 ├── Skye's Mission: Potential exposure threat (if discovers her)
-└── Jack Savage: Defeats Kruschev at ZIA HQ during final assault
+└── Jack Savage: Defeats Moss at ZIA HQ during final assault
 ```
 
 ---
