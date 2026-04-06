@@ -1,5 +1,7 @@
 # Handoff - 2026-02-26
 
+> **Rules & file map:** see `AGENTS.md` (single source). Start new chats with `AGENTS.md` + this file.
+
 ## Session history (cumulative)
 
 ### Latest Session (2026-02-26): Act II Planning & Chapters 7-9 Completed
